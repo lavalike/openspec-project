@@ -1,3 +1,3 @@
-# openspec project
+# OpenSpec Project
 
-a skill project
+a skill create and sample project
