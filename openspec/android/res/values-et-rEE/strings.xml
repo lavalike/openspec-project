@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Reaalajas subtiitrid"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Subtiitri seaded"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Tõlkimine"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"Kakskeelne ekraan"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Fondi suurus"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Tausta läbipaistvus"</string>
+	<!---->
+	<string name="subtitles_appear_des">"Subtiitrid kuvatakse järgmiselt"</string>
+	<!---->
+	<string name="subtitles_fun_des">"Subtiitrite ujuvakna saate aktiveerida külgriba või kiirseadistuste kaudu. Kui see on lubatud, jäädvustab see süsteemiheli või ümbritsevad helid ja teisendab need reaalajas tekstiks, toetades mitut keelt ja tõlget."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Toetab heli reaalajas teisendamist tekstiks. Subtiitrite ujuva akna saate avada juhtimiskeskuses või külgribal."</string>
+	<!---->
+	<string name="subtitles_source_language">"Lähtekeel"</string>
+	<!---->
+	<string name="subtitles_target_language">"Sihtkeel"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"Inglise keel"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"Inglise keel"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"Alumine rakendus ei toeta jagatud ekraani"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"Ei saanud laadida. Proovige uuesti."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"Pildi eelvaade"</string>
+	<!---->
+	<string name="subtitles_notice_des">"Subtiitrid on lubatud.\nTuvasta automaatselt süsteemi või mikrofoni helid ja looge subtiitrid."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Rakenduse lubade konflikt. Enne subtiitrite kasutamist lülitage salvestamine välja."</string>
+	<!---->
+	<string name="font_size_small">"Väike"</string>
+	<!---->
+	<string name="font_size_default">"Vaikimisi"</string>
+	<!---->
+	<string name="font_size_large">"Suur"</string>
+	<!---->
+	<string name="subtitles_translation_by">"Tõlkis"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Rakenduse lubade konflikt. Subtiitrid on välja lülitatud."</string>
+	<!---->
+	<string name="permissions_denied_tip">"Lubasid ei antud. Saad neid muuta menüüs Seaded > Rakendused."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Seaded"</string>
+	<!---->
+	<string name="recognising_system">"Süsteemi heli tuvastamine"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Lubage ümbritsevate helide salvestamiseks"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"Süsteemi ja ümbritsevate helide tuvastamine"</string>
+	<!---->
+	<string name="ok_button">"OK"</string>
+	<!---->
+	<string name="retry_button">"Proovige uuesti"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"Võrgu erand. Lülitati võrguühenduseta tõlkimisele."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Serveri erand. Lülitati võrguühenduseta tõlkimisele."</string>
+	<!---->
+	<string name="server_input_error">"Kahjuks ei saa me praegust sisendit töödelda. Proovige teist sisendit."</string>
+	<!---->
+	<string name="free_quota_exhausted">"Tasuta kvoot on ammendatud. Tõlketeenuse kasutamise jätkamiseks laadige oma liikmesus uuesti täis."</string>
+	<!---->
+	<string name="reached_membership_limit">"Olete jõudnud oma praeguse liikmesuse taseme kasutuslimiidini. Tõlketeenuse kasutamise jätkamiseks uuendage oma liikmestaatust."</string>
+	<!---->
+	<string name="top_up_membership">"Täitke oma liikmesust"</string>
+	<!---->
+	<string name="upgrade_membership">"Täiendage oma liikmesust"</string>
+	<!---->
+	<string name="turn_off_translation">"Lülita tõlge välja"</string>
+	<!---->
+	<string name="login_failed_token_expired">"Sisselogimine aegunud. Logige uuesti sisse."</string>
+	<!---->
+	<string name="nav_bar_settings">"Seaded"</string>
+	<!---->
+	<string name="nav_bar_record">"Mikrofon"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Jaga ekraani"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Väljuge jagatud ekraanilt"</string>
+	<!---->
+	<string name="nav_bar_close">"Sulge"</string>
+	<!---->
+	<string name="nav_bar_back">"Tagasi"</string>
+	<!---->
+	<string name="slider">"Liugur"</string>
+	<!---->
+	<string name="switch_on">"Sees"</string>
+	<!---->
+	<string name="switch_off">"Väljas"</string>
+	<!---->
+	<string name="common_text_cancel">"Tühista"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"Al-iga seotud funktsioonide kasutamiseks peate lubama TCL Al rakenduse. Selle lubamiseks saate valida järjestikku Seaded > Rakendused > Kuva kõik rakendused > TCL Al rakenduse teave."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"Al-iga seotud funktsioonide kasutamiseks peate lubama TCL Al rakenduse. Selle lubamiseks saate valida järjestikku Seaded > Rakendused > Kuva kõik rakendused > TCL Al rakenduse teave."</string>
+	<!---->
+	<string name="drag_bar_description">"Akna suuruse muutmine"</string>
+	<!---->
+	<string name="network_exception_tip">"Võrguerand. Kontrolli võrku."</string>
+	<!---->
+	<string name="simplified_chinese">"Lihtsustatud hiina keel"</string>
+	<!---->
+	<string name="traditional_chinese">"Traditsiooniline hiina keel"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"Tuvastati liigne aktiivsus. Jätkamiseks logige sisse"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"Konto turvalisuse tagamiseks logige jätkamiseks sisse."</string>
+	<!---->
+	<string name="nav_bar_copy">"Kopeeri"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Kopeeritud"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Puuduta subtiitrite taastamiseks."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"Selle funktsiooni kvoot on ära kasutatud."</string>
+	<!---->
+	<string name="free_credit_exhausted">"Tasuta kvoot on ammendatud. Tõlketeenuse kasutamise jätkamiseks laadige oma liikmesus uuesti täis."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"Olete jõudnud oma praeguse liikmesuse taseme kasutuslimiidini. Tõlketeenuse kasutamise jätkamiseks uuendage oma liikmestaatust."</string>
+</resources>

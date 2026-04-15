@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Subtítols en temps real"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Configuració dels subtítols"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Traducció"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"Pantalla bilingüe"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Mida de la lletra"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Opacitat de fons"</string>
+	<!---->
+	<string name="subtitles_appear_des">"Els subtítols apareixeran així"</string>
+	<!---->
+	<string name="subtitles_fun_des">"Pots activar la finestra flotant de subtítols des de la barra lateral o des de la Configuració ràpida. Si està activada, captura l’àudio del sistema o els sons ambientals i els converteix en text en temps real, amb compatibilitat per a diversos idiomes i traducció."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Admet la conversió d\'àudio a text en temps real. Pots obrir la finestra flotant de subtítols al centre de control o a la barra lateral."</string>
+	<!---->
+	<string name="subtitles_source_language">"Idioma de partida"</string>
+	<!---->
+	<string name="subtitles_target_language">"Idioma d\'arribada"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"Anglès"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"Anglès"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"L\'aplicació de la part inferior no admet la divisió de pantalla"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"No s\'ha pogut carregar. Torna-ho a intentar."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"Vista prèvia de la imatge"</string>
+	<!---->
+	<string name="subtitles_notice_des">"Els subtítols estan activats.\nReconeix automàticament els sons del sistema o del micròfon i genera subtítols."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Conflicte de permisos de l\'aplicació. Desactiva la gravació abans de fer servir els subtítols."</string>
+	<!---->
+	<string name="font_size_small">"Petit"</string>
+	<!---->
+	<string name="font_size_default">"Predeterminat"</string>
+	<!---->
+	<string name="font_size_large">"Gran"</string>
+	<!---->
+	<string name="subtitles_translation_by">"Traducció feta per"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Conflicte de permisos de l\'aplicació. Els subtítols s\'han desactivat."</string>
+	<!---->
+	<string name="permissions_denied_tip">"Permisos denegats. Pots canviar-los a Configuració > Aplicacions."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Paràmetres"</string>
+	<!---->
+	<string name="recognising_system">"S\'està reconeixent el so del sistema"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Activa per enregistrar sons ambientals"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"S\'estan reconeixent el so del sistema i els sons ambientals"</string>
+	<!---->
+	<string name="ok_button">"ACCEPTAR"</string>
+	<!---->
+	<string name="retry_button">"Tornar-ho a provart"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"Anomalia de la xarxa. S\'ha canviat a la traducció fora de línia."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Anomalia del servidor. S\'ha canviat a la traducció fora de línia."</string>
+	<!---->
+	<string name="server_input_error">"Ho sentim. No podem processar l\'entrada actual. Prova-ho amb una altra entrada."</string>
+	<!---->
+	<string name="free_quota_exhausted">"La quota gratuïta s\'ha esgotat. Recarrega la subscripció per continuar fent servir el servei de traducció."</string>
+	<!---->
+	<string name="reached_membership_limit">"Has assolit el límit d\'ús per al teu nivell de subscripció actual. Actualitza el nivell de subscripció per continuar utilitzant el servei de traducció."</string>
+	<!---->
+	<string name="top_up_membership">"Recarrega la teva subscripció"</string>
+	<!---->
+	<string name="upgrade_membership">"Actualitza la teva subscripció"</string>
+	<!---->
+	<string name="turn_off_translation">"Desactiva la traducció"</string>
+	<!---->
+	<string name="login_failed_token_expired">"L\'inici de sessió ha caducat. Torna a iniciar sessió."</string>
+	<!---->
+	<string name="nav_bar_settings">"Paràmetres"</string>
+	<!---->
+	<string name="nav_bar_record">"Micròfon"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Entra a la pantalla dividida"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Surt de la divisió de pantalla"</string>
+	<!---->
+	<string name="nav_bar_close">"Tancar"</string>
+	<!---->
+	<string name="nav_bar_back">"Enrere"</string>
+	<!---->
+	<string name="slider">"Control lliscant"</string>
+	<!---->
+	<string name="switch_on">"Activar"</string>
+	<!---->
+	<string name="switch_off">"Desactivar"</string>
+	<!---->
+	<string name="common_text_cancel">"Anul·lar"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"Per utilitzar les funcions relacionades amb la IA, has d\'activar l\'aplicació d\'IA de TCL. Pots seleccionar Configuració > Aplicacions > Visualitza totes les aplicacions > Informació de l\'aplicació d\'IA de TCL en seqüència per habilitar-la."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"Per utilitzar les funcions relacionades amb la IA, has d\'activar l\'aplicació d\'IA de TCL. Pots seleccionar Configuració > Aplicacions > Visualitza totes les aplicacions > Informació de l\'aplicació d\'IA de TCL en seqüència per habilitar-la."</string>
+	<!---->
+	<string name="drag_bar_description">"Canvia la mida de la finestra"</string>
+	<!---->
+	<string name="network_exception_tip">"Excepció de xarxa. Comproveu la xarxa."</string>
+	<!---->
+	<string name="simplified_chinese">"Xinès simplificat"</string>
+	<!---->
+	<string name="traditional_chinese">"Xinès tradicional"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"S\'ha detectat una activitat excessiva. Inicia la sessió per continuar"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"Per garantir la seguretat del compte, inicia la sessió per continuar."</string>
+	<!---->
+	<string name="nav_bar_copy">"Copiar"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Copiat"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Toca per restaurar els subtítols."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"La quota d\'aquesta funció s\'ha esgotat"</string>
+	<!---->
+	<string name="free_credit_exhausted">"La quota gratuïta s\'ha esgotat. Recarrega la subscripció per continuar fent servir el servei de traducció."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"Has assolit el límit d\'ús per al teu nivell de subscripció actual. Actualitza el nivell de subscripció per continuar utilitzant el servei de traducció."</string>
+</resources>

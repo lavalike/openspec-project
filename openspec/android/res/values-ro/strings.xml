@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Subtitrări în timp real"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Setări subtitrări"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Traducere"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"Afișare bilingvă"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Dimensiune font"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Opacitate fundal"</string>
+	<!---->
+	<string name="subtitles_appear_des">"Subtitrările vor fi afișate așa"</string>
+	<!---->
+	<string name="subtitles_fun_des">"Puteți activa fereastra flotantă de subtitrări din Bara laterală sau din Setări rapide. După activare, aceasta analizează conținutul audio al sistemului sau sunetele ambientale și le convertește în timp real în conținut text. Funcția acceptă mai multe limbi, precum și traducerea acestora."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Acceptă convertirea automată a conținutului audio în text. Puteți deschide fereastra flontată cu subtitrări în centrul de comandă sau în bara laterală."</string>
+	<!---->
+	<string name="subtitles_source_language">"Limba sursă"</string>
+	<!---->
+	<string name="subtitles_target_language">"Limba țintă"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"Română"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"Română"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"Aplicația de jos nu acceptă ecranul scindat"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"Nu s-a putut încărca. Încercați din nou!"</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"Examinare imagine"</string>
+	<!---->
+	<string name="subtitles_notice_des">"Subtitrările sunt activate.\nRecunoaște automat sunetele sistemului sau sunetele de la microfon și generează subtitrări."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Conflict de permisiuni ale aplicației. Opriți înregistrarea înainte să folosiți subtitrările."</string>
+	<!---->
+	<string name="font_size_small">"Mică"</string>
+	<!---->
+	<string name="font_size_default">"Implicit"</string>
+	<!---->
+	<string name="font_size_large">"Mare"</string>
+	<!---->
+	<string name="subtitles_translation_by">"Tradus de"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Conflict de permisiuni ale aplicației. Subtitrările au fost dezactivate."</string>
+	<!---->
+	<string name="permissions_denied_tip">"Permisiunile au fost refuzate. Le puteți modifica Setări > Aplicații."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Setări"</string>
+	<!---->
+	<string name="recognising_system">"Recunoașterea sunetelor de sistem"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Activați pentru a înregistra sunetele ambientale"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"Recunoașterea sunetelor de sistem și a celor ambientale"</string>
+	<!---->
+	<string name="ok_button">"OK"</string>
+	<!---->
+	<string name="retry_button">"Încercaţi din nou"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"Excepție de rețea. S-a trecut la modul de traducere în mod neconectat."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Excepție de server. S-a trecut la modul de traducere în mod neconectat."</string>
+	<!---->
+	<string name="server_input_error">"Ne pare rău, nu putem analiza datele introduse în prezent. Încercați să introduceți altceva."</string>
+	<!---->
+	<string name="free_quota_exhausted">"Cota de serviciu gratuit s-a epuizat. Reîncărcați abonamentul dvs. pentru a continua să folosiți serviciul de traducere."</string>
+	<!---->
+	<string name="reached_membership_limit">"Ați atins limita de utilizare pentru abonamentul dvs. actual. Treceți la un abonament de nivel superior pentru a continua să folosiți serviciul de traducere."</string>
+	<!---->
+	<string name="top_up_membership">"Alimentați abonamentul dvs."</string>
+	<!---->
+	<string name="upgrade_membership">"Treceți la un abonament superior"</string>
+	<!---->
+	<string name="turn_off_translation">"Opriți traducerea"</string>
+	<!---->
+	<string name="login_failed_token_expired">"Conectare expirată. Încercați din nou.."</string>
+	<!---->
+	<string name="nav_bar_settings">"Setări"</string>
+	<!---->
+	<string name="nav_bar_record">"Microfon"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Activați ecranul divizat"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Părăsiți ecranul divizat"</string>
+	<!---->
+	<string name="nav_bar_close">"Închide"</string>
+	<!---->
+	<string name="nav_bar_back">"Înapoi"</string>
+	<!---->
+	<string name="slider">"Acordare"</string>
+	<!---->
+	<string name="switch_on">"Activată"</string>
+	<!---->
+	<string name="switch_off">"Dezactivată"</string>
+	<!---->
+	<string name="common_text_cancel">"Anulare"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"Pentru a folosi funcțiile care au legătură cu IA, trebuie să activați aplicația TCL AI. Puteți selecta Setări>Aplicații>Vezi toate aplicațiile>Informații aplicație TCL AI în secvență pentru a o activa."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"Pentru a folosi funcțiile care au legătură cu IA, trebuie să activați aplicația TCL AI. Puteți selecta Setări>Aplicații>Vezi toate aplicațiile>Informații aplicație TCL AI în secvență pentru a o activa."</string>
+	<!---->
+	<string name="drag_bar_description">"Redimensionare fereastră"</string>
+	<!---->
+	<string name="network_exception_tip">"Excepție de rețea. Verificați rețeaua."</string>
+	<!---->
+	<string name="simplified_chinese">"Chineză simplificată"</string>
+	<!---->
+	<string name="traditional_chinese">"Chineză tradițională"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"S-a detectat o activitate excesivă. Conectați-vă pentru a continua"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"Pentru a asigura securitatea contului, conectați-vă pentru a continua."</string>
+	<!---->
+	<string name="nav_bar_copy">"Copiere"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Copiat"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Atingeți pentru a reactiva subtitrările"</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"Cota pentru această caracteristică s-a epuizat"</string>
+	<!---->
+	<string name="free_credit_exhausted">"Cota de serviciu gratuit s-a epuizat. Reîncărcați abonamentul dvs. pentru a continua să folosiți serviciul de traducere."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"Ați atins limita de utilizare pentru abonamentul dvs. actual. Treceți la un abonament de nivel superior pentru a continua să folosiți serviciul de traducere."</string>
+</resources>

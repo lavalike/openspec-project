@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"ترجمات الشاشة في الوقت الفعلي"</string>
+	<!---->
+	<string name="subtitles_settings_title">"إعدادات ترجمة الشاشة"</string>
+	<!---->
+	<string name="subtitles_translation_title">"الترجمة"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"العرض ثنائي اللغة"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"حجم الخط"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"لا شفافية الخلفية"</string>
+	<!---->
+	<string name="subtitles_appear_des">"ستظهر ترجمات الشاشة بهذا الشكل"</string>
+	<!---->
+	<string name="subtitles_fun_des">"يمكنك تنشيط النافذة العائمة لترجمة الشاشة عبر الشريط الجانبي أو الإعدادات السريعة. وبمجرد تمكينها، فإنها تلتقط صوت النظام أو الأصوات المحيطة وتحوّلها فورًا إلى نص بفضل دعمها للترجمة بلغات متعددة."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"دعم تحويل الصوت إلى نص في الوقت الفعلي. يمكنك فتح النافذة العائمة لترجمة الشاشة في مركز التحكم أو الشريط الجانبي."</string>
+	<!---->
+	<string name="subtitles_source_language">"اللغة المصدر"</string>
+	<!---->
+	<string name="subtitles_target_language">"اللغة الهدف"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"الإنجليزية"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"الإنجليزية"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"لا يدعم التطبيق في الأسفل انقسام الشاشة"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"تعذر التحميل. حاول مرة أخرى."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"معاينة الصورة"</string>
+	<!---->
+	<string name="subtitles_notice_des">"تم تمكين ترجمات الشاشة.\nالتعرف تلقائيًا على أصوات النظام أو الميكروفون وإنشاء ترجمات شاشة."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"تعارض بين أذونات التطبيقات. أوقف تشغيل التسجيل قبل استخدام ترجمات الشاشة."</string>
+	<!---->
+	<string name="font_size_small">"صغير"</string>
+	<!---->
+	<string name="font_size_default">"افتراضي"</string>
+	<!---->
+	<string name="font_size_large">"كبير"</string>
+	<!---->
+	<string name="subtitles_translation_by">"الترجمة مُقدمة من"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"يوجد تعارض في أذونات التطبيق. تم إيقاف تشغيل ترجمة الشاشة."</string>
+	<!---->
+	<string name="permissions_denied_tip">"تم رفض الأذونات. ويمكنك تغييرها في الإعدادات > التطبيقات."</string>
+	<!---->
+	<string name="permissions_settings_tip">"الإعدادات"</string>
+	<!---->
+	<string name="recognising_system">"التعرف على صوت النظام"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"التمكين لتسجيل الأصوات المحيطة"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"التعرف على صوت النظام والأصوات المحيطة"</string>
+	<!---->
+	<string name="ok_button">"موافق"</string>
+	<!---->
+	<string name="retry_button">"إعادة المحاولة"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"استثناء الشبكة. تم التبديل إلى الترجمة بدون اتصال بالإنترنت."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"استثناء الخادم. تم التبديل إلى الترجمة بدون اتصال بالإنترنت."</string>
+	<!---->
+	<string name="server_input_error">"عذرًا، لم نتمكن من معالجة الإدخال الحالي. جرّب إدخالاً مختلفًا."</string>
+	<!---->
+	<string name="free_quota_exhausted">"تم استنفاد الحصة المجانية. أعِد شحن عضويتك لمتابعة استخدام خدمة الترجمة."</string>
+	<!---->
+	<string name="reached_membership_limit">"لقد وصلت إلى حد الاستخدام لمستوى عضويتك الحالي. قم بترقية مستوى عضويتك لمتابعة استخدام خدمة الترجمة."</string>
+	<!---->
+	<string name="top_up_membership">"اشحن عضويتك"</string>
+	<!---->
+	<string name="upgrade_membership">"قم بترقية عضويتك"</string>
+	<!---->
+	<string name="turn_off_translation">"إيقاف تشغيل الترجمة"</string>
+	<!---->
+	<string name="login_failed_token_expired">"انتهت صلاحية تسجيل الدخول، سجِّل الدخول مرة أخرى."</string>
+	<!---->
+	<string name="nav_bar_settings">"الإعدادات"</string>
+	<!---->
+	<string name="nav_bar_record">"المايكروفون"</string>
+	<!---->
+	<string name="nav_bar_split_in">"الدخول في وضع تقسيم الشاشة"</string>
+	<!---->
+	<string name="nav_bar_split_out">"الخروج من وضع تقسيم الشاشة"</string>
+	<!---->
+	<string name="nav_bar_close">"إغلاق"</string>
+	<!---->
+	<string name="nav_bar_back">"رجوع"</string>
+	<!---->
+	<string name="slider">"الموالِف"</string>
+	<!---->
+	<string name="switch_on">"تشغيل"</string>
+	<!---->
+	<string name="switch_off">"إيقاف"</string>
+	<!---->
+	<string name="common_text_cancel">"إلغاء"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"لاستخدام وظائف الذكاء الاصطناعي، يتعين عليك تمكين تطبيق الذكاء الاصطناعي من شركة TCL. يمكنك تحديد الإعدادات > التطبيقات > عرض جميع التطبيقات > معلومات تطبيق الذكاء الاصطناعي من شركة TCL بالترتيب لتمكينه."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"لاستخدام وظائف الذكاء الاصطناعي، يتعين عليك تمكين تطبيق الذكاء الاصطناعي من شركة TCL. يمكنك تحديد الإعدادات > التطبيقات > عرض جميع التطبيقات > معلومات تطبيق الذكاء الاصطناعي من شركة TCL بالترتيب لتمكينه."</string>
+	<!---->
+	<string name="drag_bar_description">"تغيير حجم النافذة"</string>
+	<!---->
+	<string name="network_exception_tip">"استثناء من الشبكة. يُرجى التحقق من الشبكة."</string>
+	<!---->
+	<string name="simplified_chinese">"الصينية المبسّطة"</string>
+	<!---->
+	<string name="traditional_chinese">"الصينية التقليدية"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"تم رصد وجود نشاط زائد. سجّل الدخول للمتابعة."</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"لضمان أمان الحساب، سجّل الدخول للمتابعة."</string>
+	<!---->
+	<string name="nav_bar_copy">"نسخ"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"منسوخ"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"المس لاستعادة ترجمات الشاشة."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"تم استنفاد الحصة المخصصة لهذه الميزة"</string>
+	<!---->
+	<string name="free_credit_exhausted">"تم استنفاد الحصة المجانية. أعِد شحن عضويتك لمتابعة استخدام خدمة الترجمة."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"لقد وصلت إلى حد الاستخدام لمستوى عضويتك الحالي. قم بترقية مستوى عضويتك لمتابعة استخدام خدمة الترجمة."</string>
+</resources>

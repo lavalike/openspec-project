@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Υπότιτλοι σε πραγματικό χρόνο"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Ρυθμίσεις υποτίτλων"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Μετάφραση"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"Δίγλωσση προβολή"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Μέγεθος γραμματοσειράς"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Διαφάνεια φόντου"</string>
+	<!---->
+	<string name="subtitles_appear_des">"Οι υπότιτλοι θα εμφανίζονται ως εξής"</string>
+	<!---->
+	<string name="subtitles_fun_des">"Μπορείτε να ενεργοποιήσετε το αιωρούμενο παράθυρο υποτίτλων μέσω της πλαϊνής γραμμής ή των γρήγορων ρυθμίσεων. Μόλις ενεργοποιηθεί, καταγράφει τον ήχο συστήματος ή τους ήχους περιβάλλοντος και τους μετατρέπει σε κείμενο σε πραγματικό χρόνο, με υποστήριξη για πολλές γλώσσες και μετάφραση."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Υποστηρίζει μετατροπή ήχου σε κείμενο σε πραγματικό χρόνο. Μπορείτε να ανοίξετε το κυμαινόμενο παράθυρο υποτίτλων στο κέντρο ελέγχου ή στην πλευρική γραμμή."</string>
+	<!---->
+	<string name="subtitles_source_language">"Αρχική γλώσσα"</string>
+	<!---->
+	<string name="subtitles_target_language">"Γλώσσα μετάφρασης"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"Αγγλικά"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"Αγγλικά"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"Η κάτω εφαρμογή δεν υποστηρίζει διαιρούμενη οθόνη"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"Δεν έγινε φόρτωση. Δοκιμάστε ξανά."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"Προεπισκόπηση εικόνας"</string>
+	<!---->
+	<string name="subtitles_notice_des">"Οι υπότιτλοι είναι ενεργοποιημένοι.\nΑναγνωρίζει αυτόματα τους ήχους του συστήματος ή του μικροφώνου και δημιουργεί υπότιτλους."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Διένεξη δικαιωμάτων εφαρμογής. Απενεργοποιήστε την εγγραφή πριν χρησιμοποιήσετε τους υπότιτλους."</string>
+	<!---->
+	<string name="font_size_small">"Μικρή"</string>
+	<!---->
+	<string name="font_size_default">"Προεπιλογή"</string>
+	<!---->
+	<string name="font_size_large">"Μεγάλο μέγεθος"</string>
+	<!---->
+	<string name="subtitles_translation_by">"Μετάφραση από"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Διένεξη με τα δικαιώματα της εφαρμογής. Οι υπότιτλοι έχουν απενεργοποιηθεί."</string>
+	<!---->
+	<string name="permissions_denied_tip">"Δεν έχει χρηγηθεί άδεια. Μπορείτε να την αλλάξετε στις Ρυθμίσεις > Εφαρμογές."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Ρυθμίσεις"</string>
+	<!---->
+	<string name="recognising_system">"Αναγνώριση ήχου συστήματος"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Ενεργοποίηση της εγγραφής ήχων περιβάλλοντος"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"Αναγνώριση ήχων συστήματος και περιβάλλοντος"</string>
+	<!---->
+	<string name="ok_button">"OK"</string>
+	<!---->
+	<string name="retry_button">"Επανάληψη"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"Εξαίρεση δικτύου. Εναλλαγή σε μετάφραση εκτός σύνδεσης."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Εξαίρεση διακομιστή. Μετάβαση σε μετάφραση χωρίς σύνδεση."</string>
+	<!---->
+	<string name="server_input_error">"Λυπούμαστε, δεν μπορούμε να επεξεργαστούμε την τρέχουσα είσοδο. Δοκιμάστε μια διαφορετική είσοδο."</string>
+	<!---->
+	<string name="free_quota_exhausted">"Η δωρεάν ποσότητα έχει εξαντληθεί. Ανανεώστε τη συνδρομή σας για να συνεχίσετε να χρησιμοποιείτε τη μεταφραστική υπηρεσία."</string>
+	<!---->
+	<string name="reached_membership_limit">"Έχετε φτάσει το όριο χρήσης για το τρέχον επίπεδο συνδρομής σας. Αναβαθμίστε το επίπεδο μέλους σας για να συνεχίσετε να χρησιμοποιείτε τη μεταφραστική υπηρεσία."</string>
+	<!---->
+	<string name="top_up_membership">"Ανανεώστε τη συνδρομή σας"</string>
+	<!---->
+	<string name="upgrade_membership">"Αναβαθμίστε τη συνδρομή σας"</string>
+	<!---->
+	<string name="turn_off_translation">"Απενεργοποίηση μετάφρασης"</string>
+	<!---->
+	<string name="login_failed_token_expired">"Η σύνδεση έχει λήξει. Συνδεθείτε ξανά."</string>
+	<!---->
+	<string name="nav_bar_settings">"Ρυθμίσεις"</string>
+	<!---->
+	<string name="nav_bar_record">"Μικρόφωνο"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Είσοδος στη διαχωρισμένη οθόνη"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Έξοδος από τη διαχωρισμένη οθόνη"</string>
+	<!---->
+	<string name="nav_bar_close">"Άκυρο"</string>
+	<!---->
+	<string name="nav_bar_back">"Πίσω"</string>
+	<!---->
+	<string name="slider">"Ρυθμιστικό"</string>
+	<!---->
+	<string name="switch_on">"Ενεργό"</string>
+	<!---->
+	<string name="switch_off">"Ανενεργό"</string>
+	<!---->
+	<string name="common_text_cancel">"Ακύρωση"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"Για να χρησιμοποιήσετε τις λειτουργίες που σχετίζονται με την τεχνητή νοημοσύνη, πρέπει να ενεργοποιήσετε την εφαρμογή TCL Al. Για να την ενεργοποιήσετε, μπορείτε να επιλέξετε διαδοχικά Ρυθμίσεις > Εφαρμογές > Προβολή όλων των εφαρμογών > Πληροφορίες εφαρμογής TCL Al."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"Για να χρησιμοποιήσετε τις λειτουργίες που σχετίζονται με την τεχνητή νοημοσύνη, πρέπει να ενεργοποιήσετε την εφαρμογή TCL Al. Για να την ενεργοποιήσετε, μπορείτε να επιλέξετε διαδοχικά Ρυθμίσεις > Εφαρμογές > Προβολή όλων των εφαρμογών > Πληροφορίες εφαρμογής TCL Al."</string>
+	<!---->
+	<string name="drag_bar_description">"Αλλαγή μεγέθους παραθύρου"</string>
+	<!---->
+	<string name="network_exception_tip">"Εξαίρεση δικτύου. Ελέγξτε το δίκτυο."</string>
+	<!---->
+	<string name="simplified_chinese">"Απλοποιημένα κινέζικα"</string>
+	<!---->
+	<string name="traditional_chinese">"Παραδοσιακά κινέζικα"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"Εντοπίστηκε υπερβολική δραστηριότητα. Συνδεθείτε για να συνεχίσετε"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"Για να διασφαλίσετε την ασφάλεια του λογαριασμού, συνδεθείτε για να συνεχίσετε."</string>
+	<!---->
+	<string name="nav_bar_copy">"Αντιγρ."</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Αντιγράφηκε"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Πατήστε για επαναφορά υποτίτλων."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"Το όριο για αυτήν τη λειτουργία έχει εξαντληθεί"</string>
+	<!---->
+	<string name="free_credit_exhausted">"Η δωρεάν ποσότητα έχει εξαντληθεί. Ανανεώστε τη συνδρομή σας για να συνεχίσετε να χρησιμοποιείτε τη μεταφραστική υπηρεσία."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"Έχετε φτάσει το όριο χρήσης για το τρέχον επίπεδο συνδρομής σας. Αναβαθμίστε το επίπεδο μέλους σας για να συνεχίσετε να χρησιμοποιείτε τη μεταφραστική υπηρεσία."</string>
+</resources>

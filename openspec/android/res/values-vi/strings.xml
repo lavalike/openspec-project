@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Phụ đề trong thời gian thực"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Cài đặt phụ đề"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Dịch thuật"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"Hiển thị song ngữ"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Kích thước phông chữ"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Độ mờ nền"</string>
+	<!---->
+	<string name="subtitles_appear_des">"Phụ đề sẽ hiển thị như thế này"</string>
+	<!---->
+	<string name="subtitles_fun_des">"Bạn có thể bật cửa sổ phụ đề nổi thông qua Thanh bên hoặc Cài đặt nhanh. Khi được bật, tính năng này sẽ thu âm thanh hệ thống hoặc âm thanh môi trường xung quanh, rồi chuyển chúng thành văn bản theo thời gian thực, đồng thời hỗ trợ nhiều ngôn ngữ và dịch tự động."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Hỗ trợ chuyển đổi âm thanh sang văn bản theo thời gian thực. Bạn có thể mở cửa sổ phụ đề nổi trong trung tâm điều khiển hoặc thanh bên."</string>
+	<!---->
+	<string name="subtitles_source_language">"Ngôn ngữ nguồn"</string>
+	<!---->
+	<string name="subtitles_target_language">"Ngôn ngữ đích"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"Tiếng Anh"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"Tiếng Anh"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"Ứng dụng không hỗ trợ màn hình phân khoảng"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"Không thể tải. Xin vui lòng thử lại."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"Xem trước hình ảnh"</string>
+	<!---->
+	<string name="subtitles_notice_des">"Đã bật phụ đề.\nTự động nhận dạng âm thanh hệ thống hoặc micrô và tạo phụ đề."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Xung đột quyền ứng dụng. Tắt bản ghi trước khi sử dụng phụ đề."</string>
+	<!---->
+	<string name="font_size_small">"Nhỏ"</string>
+	<!---->
+	<string name="font_size_default">"Mặc định"</string>
+	<!---->
+	<string name="font_size_large">"Lớn"</string>
+	<!---->
+	<string name="subtitles_translation_by">"Dịch thuật bởi"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Xung đột quyền ứng dụng. Phụ đề đã bị tắt."</string>
+	<!---->
+	<string name="permissions_denied_tip">"Quyền bị từ chối. Bạn có thể thay đổi trong Cài đặt > Ứng dụng."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Cài đặt"</string>
+	<!---->
+	<string name="recognising_system">"Nhận diện âm thanh hệ thống"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Kích hoạt tính năng ghi âm âm thanh môi trường"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"Nhận diện âm thanh hệ thống và âm thanh môi trường"</string>
+	<!---->
+	<string name="ok_button">"OK"</string>
+	<!---->
+	<string name="retry_button">"Thử lại"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"Lỗi mạng. Đã chuyển sang chế độ dịch ngoại tuyến"</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Lỗi máy chủ. Đã chuyển sang chế độ dịch ngoại tuyến."</string>
+	<!---->
+	<string name="server_input_error">"Rất tiếc, chúng tôi không thể xử lý đầu vào hiện tại. Hãy thử đầu vào khác."</string>
+	<!---->
+	<string name="free_quota_exhausted">"Đã hết hạn ngạch miễn phí. Nạp tiền thành viên của bạn để tiếp tục sử dụng dịch vụ dịch thuật."</string>
+	<!---->
+	<string name="reached_membership_limit">"Bạn đã đạt đến giới hạn sử dụng cho cấp độ thành viên hiện tại của mình. Nâng cấp cấp độ thành viên của bạn để tiếp tục sử dụng dịch vụ dịch thuật."</string>
+	<!---->
+	<string name="top_up_membership">"Nạp tiền thành viên của bạn"</string>
+	<!---->
+	<string name="upgrade_membership">"Nâng cấp tư cách thành viên"</string>
+	<!---->
+	<string name="turn_off_translation">"Tắt dịch thuật"</string>
+	<!---->
+	<string name="login_failed_token_expired">"Phiên đăng nhập đã hết hạn. Vui lòng đăng nhập lại."</string>
+	<!---->
+	<string name="nav_bar_settings">"Cài đặt"</string>
+	<!---->
+	<string name="nav_bar_record">"Micrô"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Vào mục chia đôi màn hình"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Thoát chế độ chia đôi màn hình"</string>
+	<!---->
+	<string name="nav_bar_close">"Đóng"</string>
+	<!---->
+	<string name="nav_bar_back">"Quay lại"</string>
+	<!---->
+	<string name="slider">"Thanh trượt"</string>
+	<!---->
+	<string name="switch_on">"Bật"</string>
+	<!---->
+	<string name="switch_off">"Tắt"</string>
+	<!---->
+	<string name="common_text_cancel">"Hủy"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"Để sử dụng các chức năng liên quan đến AI, bạn cần bật ứng dụng TCL AI. Bạn có thể lần lượt chọn Cài đặt > Ứng dụng > Xem tất cả ứng dụng > Thông tin ứng dụng TCL AI để bật."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"Để sử dụng các chức năng liên quan đến AI, bạn cần bật ứng dụng TCL AI. Bạn có thể lần lượt chọn Cài đặt > Ứng dụng > Xem tất cả ứng dụng > Thông tin ứng dụng TCL AI để bật."</string>
+	<!---->
+	<string name="drag_bar_description">"Thay đổi kích thước khung xem"</string>
+	<!---->
+	<string name="network_exception_tip">"Ngoại lệ mạng. Hãy kiểm tra mạng."</string>
+	<!---->
+	<string name="simplified_chinese">"Tiếng Trung giản thể"</string>
+	<!---->
+	<string name="traditional_chinese">"Tiếng Trung phồn thể"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"Phát hiện hoạt động quá mức. Vui lòng đăng nhập để tiếp tục"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"Để bảo vệ tài khoản của bạn, vui lòng đăng nhập để tiếp tục."</string>
+	<!---->
+	<string name="nav_bar_copy">"Sao chép"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Đã sao chép"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Chạm để khôi phục phụ đề."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"Đã hết hạn mức cho tính năng này."</string>
+	<!---->
+	<string name="free_credit_exhausted">"Đã hết hạn ngạch miễn phí. Nạp tiền thành viên của bạn để tiếp tục sử dụng dịch vụ dịch thuật."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"Bạn đã đạt đến giới hạn sử dụng cho cấp độ thành viên hiện tại của mình. Nâng cấp cấp độ thành viên của bạn để tiếp tục sử dụng dịch vụ dịch thuật."</string>
+</resources>

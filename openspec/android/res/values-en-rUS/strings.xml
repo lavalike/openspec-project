@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Real-time Subtitles"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Subtitles settings"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Translation"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"Bilingual display"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Font size"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Background opacity"</string>
+	<!---->
+	<string name="subtitles_appear_des">"Subtitles will appear like this"</string>
+	<!---->
+	<string name="subtitles_fun_des">"You can activate the subtitle floating window via the Sidebar or Quick Settings. Once enabled, it captures system audio or ambient sounds and converts them into text in real time, with support for multiple languages and translation."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Support real-time audio to text conversion. You can open the subtitle floating window in the control center or sidebar."</string>
+	<!---->
+	<string name="subtitles_source_language">"Source language"</string>
+	<!---->
+	<string name="subtitles_target_language">"Target language"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"English"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"English"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"The bottom app doesn\'t support split screen"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"Couldn\'t load. Try again."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"Preview image"</string>
+	<!---->
+	<string name="subtitles_notice_des">"Subtitles are enabled.\nAutomatically recognize system or microphone sounds and generate subtitles."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Application permissions conflict. Turn off the recording before using subtitles."</string>
+	<!---->
+	<string name="font_size_small">"Small"</string>
+	<!---->
+	<string name="font_size_default">"Default"</string>
+	<!---->
+	<string name="font_size_large">"Large"</string>
+	<!---->
+	<string name="subtitles_translation_by">"Translation by"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Application permissions conflict. Subtitles have been turned off."</string>
+	<!---->
+	<string name="permissions_denied_tip">"Permissions denied. You can change them in Settings > Apps."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Settings"</string>
+	<!---->
+	<string name="recognising_system">"Recognizing system sound"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Enable to record ambient sounds"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"Recognizing system and ambient sounds"</string>
+	<!---->
+	<string name="ok_button">"OK"</string>
+	<!---->
+	<string name="retry_button">"Retry"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"Network exception. Switched to offline translation."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Server exception. Switched to offline translation."</string>
+	<!---->
+	<string name="server_input_error">"Sorry, we can\'t process the current input. Try a different input."</string>
+	<!---->
+	<string name="free_quota_exhausted">"The free quota has been exhausted. Recharge your membership to continue using the translation service."</string>
+	<!---->
+	<string name="reached_membership_limit">"You have reached the usage limit for your current membership level. Upgrade your membership level to continue using the translation service."</string>
+	<!---->
+	<string name="top_up_membership">"Top up your membership"</string>
+	<!---->
+	<string name="upgrade_membership">"Upgrade your membership"</string>
+	<!---->
+	<string name="turn_off_translation">"Turn off translation"</string>
+	<!---->
+	<string name="login_failed_token_expired">"Login expired. Log in again."</string>
+	<!---->
+	<string name="nav_bar_settings">"Settings"</string>
+	<!---->
+	<string name="nav_bar_record">"Microphone"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Enter split screen"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Exit split screen"</string>
+	<!---->
+	<string name="nav_bar_close">"Close"</string>
+	<!---->
+	<string name="nav_bar_back">"Back"</string>
+	<!---->
+	<string name="slider">"Slider"</string>
+	<!---->
+	<string name="switch_on">"On"</string>
+	<!---->
+	<string name="switch_off">"Off"</string>
+	<!---->
+	<string name="common_text_cancel">"Cancel"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"To use AI-related functions, you need to enable the TCL AI Application. You can select Settings > Apps > View all apps > TCL AI App Info in sequence to enable it."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"To use AI-related functions, you need to enable the TCL AI Application. You can select Settings > Apps > See all apps > TCL AI App Info in sequence to enable it."</string>
+	<!---->
+	<string name="drag_bar_description">"Resize the window"</string>
+	<!---->
+	<string name="network_exception_tip">"Network exception. Check the network."</string>
+	<!---->
+	<string name="simplified_chinese">"Simplified Chinese"</string>
+	<!---->
+	<string name="traditional_chinese">"Traditional Chinese"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"Excessive activity detected. Log in to continue"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"To ensure account security, log in to continue."</string>
+	<!---->
+	<string name="nav_bar_copy">"Copy"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Copied"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Touch to restore subtitles."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"The quota for this feature has been exhausted"</string>
+	<!---->
+	<string name="free_credit_exhausted">"The free quota has been exhausted. Recharge your membership to continue using the translation service."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"You have reached the usage limit for your current membership level. Upgrade your membership level to continue using the translation service."</string>
+</resources>

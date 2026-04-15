@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"زیرنویس‌ لحظه‌ای"</string>
+	<!---->
+	<string name="subtitles_settings_title">"تنظیمات زیرنویس"</string>
+	<!---->
+	<string name="subtitles_translation_title">"ترجمه"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"نمایش دوزبانه"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"اندازه فونت"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"تاری پس زمینه"</string>
+	<!---->
+	<string name="subtitles_appear_des">"زیرنویس‌ها این‌گونه ظاهر می‌شوند"</string>
+	<!---->
+	<string name="subtitles_fun_des">"می‌توانید پنجره شناور زیرنویس را از طریق نوار کناری یا تنظیمات سریع فعال کنید. پس از فعال‌سازی، این قابلیت صدای سیستم یا صداهای محیط را دریافت کرده و به‌صورت لحظه‌ای به متن تبدیل می‌کند و از چندین زبان و ترجمه پشتیبانی می‌کند."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"از تبدیل هم‌زمان صدا به متن پشتیبانی می‌شود. پنجره شناور زیرنویس را می‌توانید در مرکز کنترل یا نوار کناری باز کنید."</string>
+	<!---->
+	<string name="subtitles_source_language">"زبان مبدأ"</string>
+	<!---->
+	<string name="subtitles_target_language">"زبان مقصد"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"انگلیسی"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"انگلیسی"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"برنامه پایین از تقسیم صفحه پشتیبانی نمی‌کند"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"بارگیری نمی‌شود. دوباره امتحان کنید."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"پیش نمایش تصویر"</string>
+	<!---->
+	<string name="subtitles_notice_des">"زیرنویس‌ها فعال است.\nصداهای سیستم یا میکروفن به‌طور خودکار شناسایی و زیرنویس‌ها ایجاد می‌شود."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"تداخل در مجوزهای برنامه. پیش از استفاده از زیرنویس‌ها، ضبط را غیرفعال کنید."</string>
+	<!---->
+	<string name="font_size_small">"کوچک"</string>
+	<!---->
+	<string name="font_size_default">"پيش فرض"</string>
+	<!---->
+	<string name="font_size_large">"بزرگ"</string>
+	<!---->
+	<string name="subtitles_translation_by">"ترجمه توسط"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"تداخل مجوزهای برنامه. زیرنویس غیرفعال شده است."</string>
+	<!---->
+	<string name="permissions_denied_tip">"مجوزها رد شدند. آن‌ها را می‌توانید در تنظیمات > برنامه‌ها تغییر دهید."</string>
+	<!---->
+	<string name="permissions_settings_tip">"تنظیمات"</string>
+	<!---->
+	<string name="recognising_system">"در حال تشخیص صدای سیستم"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"برای ضبط صداهای محیط، فعال کنید"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"در حال تشخیص صداهای سیستم و محیط"</string>
+	<!---->
+	<string name="ok_button">"تایید"</string>
+	<!---->
+	<string name="retry_button">"تلاش دوباره"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"خطای شبکه. به ترجمه آفلاین تغییر کرد."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"خطای سرور. به ترجمه آفلاین تغییر کرد."</string>
+	<!---->
+	<string name="server_input_error">"متأسفانه نمی‌توانیم ورودی اخیر را پردازش کنیم. ورودی دیگری امتحان کنید."</string>
+	<!---->
+	<string name="free_quota_exhausted">"سمهیه رایگان تمام شده است. برای ادامه استفاده از سرویس ترجمه، عضویت خود را تمدید کنید."</string>
+	<!---->
+	<string name="reached_membership_limit">"به سقف محدودیت استفاده از عضویت فعلی‌تان رسیده‌اید. برای ادامه استفاده از سرویس ترجمه، عضویت خود را ارتقا دهید."</string>
+	<!---->
+	<string name="top_up_membership">"افزایش اعتبار حساب"</string>
+	<!---->
+	<string name="upgrade_membership">"ارتقای عضویت"</string>
+	<!---->
+	<string name="turn_off_translation">"خاموش کردن ترجمه"</string>
+	<!---->
+	<string name="login_failed_token_expired">"ورود به سیستم منقضی شد. دوباره وارد شوید."</string>
+	<!---->
+	<string name="nav_bar_settings">"تنظیمات"</string>
+	<!---->
+	<string name="nav_bar_record">"میکروفن"</string>
+	<!---->
+	<string name="nav_bar_split_in">"ورود به تقسیم صفحه"</string>
+	<!---->
+	<string name="nav_bar_split_out">"خروج از تقسیم صفحه"</string>
+	<!---->
+	<string name="nav_bar_close">"بستن"</string>
+	<!---->
+	<string name="nav_bar_back">"برگشت"</string>
+	<!---->
+	<string name="slider">"لغزنده"</string>
+	<!---->
+	<string name="switch_on">"روشن"</string>
+	<!---->
+	<string name="switch_off">"خاموش"</string>
+	<!---->
+	<string name="common_text_cancel">"لغو"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"برای استفاده از عملکردهای مرتبط با AI باید برنامه TCL Al را فعال کنید. برای فعال‌سازی آن می‌توانید «تنظیمات > برنامه‌ها > مشاهده تمام برنامه‌ها > اطلاعات برنامه TCL Al» را به‌ترتیب انتخاب کنید."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"برای استفاده از عملکردهای مرتبط با AI باید برنامه TCL Al را فعال کنید. برای فعال‌سازی آن می‌توانید «تنظیمات > برنامه‌ها > مشاهده تمام برنامه‌ها > اطلاعات برنامه TCL Al» را به‌ترتیب انتخاب کنید."</string>
+	<!---->
+	<string name="drag_bar_description">"تغییر اندازه پنجره"</string>
+	<!---->
+	<string name="network_exception_tip">"استثنای شبکه. اتصال شبکه را بررسی کنید."</string>
+	<!---->
+	<string name="simplified_chinese">"چینی ساده‌شده"</string>
+	<!---->
+	<string name="traditional_chinese">"چینی سنتی"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"فعالیت بیش از حد شناسایی شد. برای ادامه وارد حساب کاربری شوید"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"برای اطمینان از حفظ امنیت حساب، برای ادامه وارد شوید."</string>
+	<!---->
+	<string name="nav_bar_copy">"کپی"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"کپی شد"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"برای بازگردانی زیرنویس‌ها لمس کنید."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"سهمیه استفاده از این قابلیت به پایان رسیده است"</string>
+	<!---->
+	<string name="free_credit_exhausted">"سمهیه رایگان تمام شده است. برای ادامه استفاده از سرویس ترجمه، عضویت خود را تمدید کنید."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"به سقف محدودیت استفاده از عضویت فعلی‌تان رسیده‌اید. برای ادامه استفاده از سرویس ترجمه، عضویت خود را ارتقا دهید."</string>
+</resources>

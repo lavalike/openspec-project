@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"AI字幕"</string>
+	<!---->
+	<string name="subtitles_settings_title">"字幕设置"</string>
+	<!---->
+	<string name="subtitles_translation_title">"翻译"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"双语显示"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"字体大小"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"背景不透明度"</string>
+	<!---->
+	<string name="subtitles_appear_des">"字幕将这样显示"</string>
+	<!---->
+	<string name="subtitles_fun_des">"可在侧边栏或控制中心中开启字幕悬浮窗功能。开启后，实时字幕可捕捉系统声音或环境声音，并可以实时音频转文本，支持多种语言的翻译"</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"实时音频转文本，可在控制中心或侧边栏开启字幕悬浮窗。"</string>
+	<!---->
+	<string name="subtitles_source_language">"源语言"</string>
+	<!---->
+	<string name="subtitles_target_language">"目标语言"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"英语"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"英语"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"底部应用程序不支持分屏"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"加载失败请重试"</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"预览图像"</string>
+	<!---->
+	<string name="subtitles_notice_des">"字幕已开启\n自动识别系统或麦克风声音并生成字幕"</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"应用程序权限冲突，请在使用字幕之前关闭录制。"</string>
+	<!---->
+	<string name="font_size_small">"小的"</string>
+	<!---->
+	<string name="font_size_default">"默认"</string>
+	<!---->
+	<string name="font_size_large">"大的"</string>
+	<!---->
+	<string name="subtitles_translation_by">"翻译来自"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"应用权限冲突，字幕已关闭"</string>
+	<!---->
+	<string name="permissions_denied_tip">"权限被拒绝，您可以依次选择“设置”>“应用”来更改权限。"</string>
+	<!---->
+	<string name="permissions_settings_tip">"设置"</string>
+	<!---->
+	<string name="recognising_system">"正在识别系统声音"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"开启后可录制环境声音"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"正在识别系统及环境声音"</string>
+	<!---->
+	<string name="ok_button">"好的"</string>
+	<!---->
+	<string name="retry_button">"重试"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"网络ＡＢＣ异常，已切换为本地翻译。"</string>
+	<!---->
+	<string name="server_exception_switched_offline">"服务器异常，已切换为本地翻译。"</string>
+	<!---->
+	<string name="server_input_error">"抱歉，⽆法处理当前输⼊的内容，请尝试输⼊其他内容重试。"</string>
+	<!---->
+	<string name="free_quota_exhausted">"免费额度已⽤尽，请充值会员继续使⽤翻译服务。"</string>
+	<!---->
+	<string name="reached_membership_limit">"您已达到当前会员等级的使⽤限制，请升级会员等级以继续使⽤翻译服务。"</string>
+	<!---->
+	<string name="top_up_membership">"充值会员"</string>
+	<!---->
+	<string name="upgrade_membership">"升级会员"</string>
+	<!---->
+	<string name="turn_off_translation">"关闭翻译"</string>
+	<!---->
+	<string name="login_failed_token_expired">"登录失效，请重新登录。"</string>
+	<!---->
+	<string name="nav_bar_settings">"设置"</string>
+	<!---->
+	<string name="nav_bar_record">"麦克风"</string>
+	<!---->
+	<string name="nav_bar_split_in">"进入分屏模式"</string>
+	<!---->
+	<string name="nav_bar_split_out">"退出分屏模式"</string>
+	<!---->
+	<string name="nav_bar_close">"关闭"</string>
+	<!---->
+	<string name="nav_bar_back">"返回"</string>
+	<!---->
+	<string name="slider">"滑块"</string>
+	<!---->
+	<string name="switch_on">"开启"</string>
+	<!---->
+	<string name="switch_off">"关闭"</string>
+	<!---->
+	<string name="common_text_cancel">"取消"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"使用AI相关功能，需要启用TCL AI 应用程序，可以依次选择设置 > 应用 > 查看所有应用 > TCLAI应用程序信息来启用。"</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"使用AI相关功能，需要启用TCL AI 应用程序，可以依次选择设置 > 应用 > 查看所有应用 > TCLAI应用程序信息来启用。"</string>
+	<!---->
+	<string name="drag_bar_description">"调整小窗大小"</string>
+	<!---->
+	<string name="network_exception_tip">"网络异常，请检测网络"</string>
+	<!---->
+	<string name="simplified_chinese">"简体中文"</string>
+	<!---->
+	<string name="traditional_chinese">"繁体中文"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"检测到操作频繁，请登录后继续操作"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"为保障账户安全，请登录后继续使用"</string>
+	<!---->
+	<string name="nav_bar_copy">"复制"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"已复制"</string>
+	<!--translate [exit_dialog_title] from sourcecode xml -->
+	<string name="exit_dialog_title">"是否直接退出"</string>
+	<!--translate [exit_dialog_title_save] from sourcecode xml -->
+	<string name="exit_dialog_title_save">"要保存字幕至“便签”吗"</string>
+	<!--translate [exit_dialog_save_success] from sourcecode xml -->
+	<string name="exit_dialog_save_success">"已成功保存至便签"</string>
+	<!--translate [exit_dialog_button_save] from sourcecode xml -->
+	<string name="exit_dialog_button_save">"退出并保存至便签"</string>
+	<!--translate [exit_dialog_button_exit_without_save] from sourcecode xml -->
+	<string name="exit_dialog_button_exit_without_save">"退出并不保存"</string>
+	<!--translate [exit_dialog_button_exit] from sourcecode xml -->
+	<string name="exit_dialog_button_exit">"退出"</string>
+	<!--translate [exit_dialog_button_cancel] from sourcecode xml -->
+	<string name="exit_dialog_button_cancel">"取消"</string>
+	<!---->
+	<string name="subtitles_touch_restore">"点击恢复字幕"</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"此功能额度已用尽"</string>
+	<!---->
+	<string name="free_credit_exhausted">"免费额度已用尽，请充值会员继续使用翻译服务。"</string>
+	<!---->
+	<string name="membership_credit_exhausted">"您已达到当前会员等级的使用限制，请升级会员等级以继续使用翻译服务。"</string>
+</resources>

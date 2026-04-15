@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Titlovi u realnom vremenu"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Podešavanja titlova"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Prevod"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"Dvojezični prikaz"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Veličina fonta"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Prozirnost pozadine"</string>
+	<!---->
+	<string name="subtitles_appear_des">"Titlovi će se pojaviti ovako"</string>
+	<!---->
+	<string name="subtitles_fun_des">"Možete da aktivirate plutajući prozor sa titlovima pomoću bočne trake ili brzih podešavanja. Kada je prozor aktiviran, hvata zvuk sistema ili zvuk iz okoline i pretvara ga u tekst u realnom vremenu, i podržava više jezika i prevod."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Podržava konverziju zvuka u tekst u realnom vremenu.Možete da otvorite plutajući prozor sa titlom u kontrolnom centru ili na bočnoj traci."</string>
+	<!---->
+	<string name="subtitles_source_language">"Izvorni jezik"</string>
+	<!---->
+	<string name="subtitles_target_language">"Ciljni jezik"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"engleski"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"engleski"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"Donja aplikacija ne podržava podeljeni ekran"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"Nije moguće učitati. Pokušajte ponovo."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"Prikaži sliku"</string>
+	<!---->
+	<string name="subtitles_notice_des">"Titlovi su omogućeni.\n Automatski prepoznajte zvukove sistema ili mikrofona i generišite titlove."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Sukob dozvola za aplikacije. Isključite snimanje pre upotrebe titlova."</string>
+	<!---->
+	<string name="font_size_small">"Malo"</string>
+	<!---->
+	<string name="font_size_default">"Podrazumevano"</string>
+	<!---->
+	<string name="font_size_large">"Veliko"</string>
+	<!---->
+	<string name="subtitles_translation_by">"Prevod:"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Sukob dozvola za aplikacije. Titlovi su isključeni."</string>
+	<!---->
+	<string name="permissions_denied_tip">"Dozvole su odbijene. Možete da ih promenite u Podešavanjima > Aplikacije."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Podešavanja"</string>
+	<!---->
+	<string name="recognising_system">"Prepoznavanje sistemskog zvuka"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Omogućite snimanje ambijentalnih zvukova"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"Prepoznavanje sistemskih i ambijentalnih zvukova"</string>
+	<!---->
+	<string name="ok_button">"U redu"</string>
+	<!---->
+	<string name="retry_button">"Pokušaj ponovo"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"Greška na mreži. Prebačeno na oflajn prevod."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Greška na serveru. Prebačeno na oflajn prevod."</string>
+	<!---->
+	<string name="server_input_error">"Žao nam je, ne možemo da obradimo trenutni unos. Pokušajte sa drugačijim unosom."</string>
+	<!---->
+	<string name="free_quota_exhausted">"Slobodna kvota je iskorišćena. Dopunite svoje članstvo da biste nastavili da koristite uslugu prevođenja."</string>
+	<!---->
+	<string name="reached_membership_limit">"Dostigli ste ograničenje korišćenja za trenutni nivo članstva. Nadogradite članstvo da biste nastavili da koristite uslugu prevođenja."</string>
+	<!---->
+	<string name="top_up_membership">"Dopunite svoje članstvo"</string>
+	<!---->
+	<string name="upgrade_membership">"Nadogradite svoje članstvo"</string>
+	<!---->
+	<string name="turn_off_translation">"Isključite prevod"</string>
+	<!---->
+	<string name="login_failed_token_expired">"Prijava je istekla. Prijavite se ponovo."</string>
+	<!---->
+	<string name="nav_bar_settings">"Podešavanja"</string>
+	<!---->
+	<string name="nav_bar_record">"Mikrofon"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Uđite u podeljeni ekran"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Izađi iz podeljenog ekrana"</string>
+	<!---->
+	<string name="nav_bar_close">"Zatvori"</string>
+	<!---->
+	<string name="nav_bar_back">"Nazad"</string>
+	<!---->
+	<string name="slider">"Klizač"</string>
+	<!---->
+	<string name="switch_on">"Uključeno"</string>
+	<!---->
+	<string name="switch_off">"Isključeno"</string>
+	<!---->
+	<string name="common_text_cancel">"Otkaži"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"Da biste koristili funkcije povezane sa veštačkom inteligencijom, potrebno je da omogućite TCL AI aplikaciju. Možete da izaberete Podešavanja > Aplikacije > Pogledajte sve aplikacije > Informacije o TCL AI aplikaciji da biste je omogućili."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"Da biste koristili funkcije povezane sa veštačkom inteligencijom, potrebno je da omogućite TCL AI aplikaciju. Možete da izaberete Podešavanja > Aplikacije > Pogledajte sve aplikacije > Informacije o TCL AI aplikaciji da biste je omogućili."</string>
+	<!---->
+	<string name="drag_bar_description">"Promenite veličinu prozora"</string>
+	<!---->
+	<string name="network_exception_tip">"Veza sa mrežom je prekinuta. Proverite vezu sa mrežom."</string>
+	<!---->
+	<string name="simplified_chinese">"Pojednostavljeni kineski"</string>
+	<!---->
+	<string name="traditional_chinese">"Tradicionalni kineski"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"Otkrivena je prekomerna aktivnost. Prijavite se da nastavite."</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"Radi bezbednosti naloga, prijavite se da biste nastavili."</string>
+	<!---->
+	<string name="nav_bar_copy">"Kopiraj"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Kopirano"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Dodirnite da biste vratili titlove"</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"Kvota za ovu funkciju je iscrpljena"</string>
+	<!---->
+	<string name="free_credit_exhausted">"Slobodna kvota je iskorišćena. Dopunite svoje članstvo da biste nastavili da koristite uslugu prevođenja."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"Dostigli ste ograničenje korišćenja za trenutni nivo članstva. Nadogradite članstvo da biste nastavili da koristite uslugu prevođenja."</string>
+</resources>

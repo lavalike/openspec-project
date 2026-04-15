@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"ریئل ٹائم سب ٹائٹلز"</string>
+	<!---->
+	<string name="subtitles_settings_title">"ذیلی عنوانات کی ترتیبات"</string>
+	<!---->
+	<string name="subtitles_translation_title">"ترجمہ"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"دو زبانی ڈسپلے"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"فونٹ سائز"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"پس منظر کا دھندلا پن"</string>
+	<!---->
+	<string name="subtitles_appear_des">"سب ٹائٹلز اس طرح ظاہر ہوں گے"</string>
+	<!---->
+	<string name="subtitles_fun_des">"آپ سائڈ بار یا فوری ترتیبات کے ذریعے سب ٹائٹل فلوٹنگ ونڈو کو فعال کر سکتے ہیں۔ ایک بار فعال ہونے کے بعد، یہ سسٹم آڈیو یا ارد گرد کے آوازوں کو حقیقت وقت میں متن میں تبدیل کرتا ہے، اور متعدد زبانوں اور ترجمے کی حمایت فراہم کرتا ہے۔"</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"ریئل ٹائم آڈیو سے ٹیکسٹ کی تبدیلی کی حمایت کریں۔ آپ کنٹرول سینٹر یا سائیڈ بار میں سب ٹائٹل فلوٹنگ ونڈو کھول سکتے ہیں۔"</string>
+	<!---->
+	<string name="subtitles_source_language">"سورس زبان"</string>
+	<!---->
+	<string name="subtitles_target_language">"ٹارگیٹ زبان"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"انگریزی"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"انگریزی"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"نیچے کی ایپ اسپلٹ اسکرین کی حمایت نہیں کرتی ہے"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"لوڈ نہیں کر سکا۔ دوبارہ کوشش کرو۔"</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"پیش منظر تصویر"</string>
+	<!---->
+	<string name="subtitles_notice_des">"سب ٹائٹل فعال ہیں۔\nخود بخود سسٹم یا مائکروفون کی آوازوں کو پہچانیں اور سب ٹائٹل تیار کریں۔"</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"ایپلی کیشن کی اجازتوں کا ٹکراؤ ہوتا ہے۔ سب ٹائٹل استعمال کرنے سے پہلے ریکارڈنگ بند کردیں۔"</string>
+	<!---->
+	<string name="font_size_small">"چھوٹا"</string>
+	<!---->
+	<string name="font_size_default">"ڈیفالٹ"</string>
+	<!---->
+	<string name="font_size_large">"بڑا"</string>
+	<!---->
+	<string name="subtitles_translation_by">"ترجمعہ بذریعہ"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"ایپلی کیشن کی اجازتوں کا ٹکراؤ ہوتا ہے۔ سب ٹائٹل بند کر دیے گئے ہیں۔"</string>
+	<!---->
+	<string name="permissions_denied_tip">"اجازتیں مسترد کر دی گئیں۔ آپ انہیں ترتیبات ایپس میں تبدیل کر > سکتے ہیں۔"</string>
+	<!---->
+	<string name="permissions_settings_tip">"ترتیبات"</string>
+	<!---->
+	<string name="recognising_system">"سسٹم کی آواز کو پہچاننا"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"ارد گرد کی آوازوں کو ریکارڈ کرنے کے قابل بنائیں"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"نظام اور ارد گرد کی آوازوں کو پہچاننا"</string>
+	<!---->
+	<string name="ok_button">"ٹھیک ہے"</string>
+	<!---->
+	<string name="retry_button">"دوبارہ کوشش کریں"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"نیٹ ورک استثنیٰ۔ آف لائن ترجمہ پر منتقل کیا گیا۔"</string>
+	<!---->
+	<string name="server_exception_switched_offline">"سرور استثنیٰ۔ آف لائن ترجمہ پر منتقل کیا گیا۔"</string>
+	<!---->
+	<string name="server_input_error">"معذرت، ہم موجودہ ان پٹ پر عمل نہیں کر سکتے ہیں. ایک مختلف ان پٹ کی کوشش کریں۔"</string>
+	<!---->
+	<string name="free_quota_exhausted">"مفت کوٹہ ختم ہو چکا ہے۔ ترجمہ سروس کا استعمال جاری رکھنے کے لئے اپنی رکنیت کو ریچارج کریں۔"</string>
+	<!---->
+	<string name="reached_membership_limit">"آپ اپنی موجودہ رکنیت کی سطح کے لئے استعمال کی حد تک پہنچ چکے ہیں۔ ترجمہ سروس کا استعمال جاری رکھنے کے لئے اپنی رکنیت کی سطح کو اپ گریڈ کریں۔"</string>
+	<!---->
+	<string name="top_up_membership">"اپنی رکنیت کو ٹاپ اپ کریں"</string>
+	<!---->
+	<string name="upgrade_membership">"اپنی رکنیت کو اپ گریڈ کریں"</string>
+	<!---->
+	<string name="turn_off_translation">"ترجمہ بند کر دیں"</string>
+	<!---->
+	<string name="login_failed_token_expired">"لاگ ان کی میعاد ختم ہوگئی۔ دوبارہ لاگ ان کریں۔"</string>
+	<!---->
+	<string name="nav_bar_settings">"ترتیبات"</string>
+	<!---->
+	<string name="nav_bar_record">"مائکروفون"</string>
+	<!---->
+	<string name="nav_bar_split_in">"تقسیم اسکرین داخل کریں"</string>
+	<!---->
+	<string name="nav_bar_split_out">"اسپلٹ سکرین سے باہر نکلیں"</string>
+	<!---->
+	<string name="nav_bar_close">"بند کریں"</string>
+	<!---->
+	<string name="nav_bar_back">"واپس"</string>
+	<!---->
+	<string name="slider">"سلائیڈر"</string>
+	<!---->
+	<string name="switch_on">"چالو"</string>
+	<!---->
+	<string name="switch_off">"بند"</string>
+	<!---->
+	<string name="common_text_cancel">"منسوخ کریں"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"Al متعلقہ افعال کو استعمال کرنے کے لئے، آپ کو TCL Al ایپ کو فعال کرنے کی ضرورت ہے۔ آپ اسے فعال کرنے کے لئے ترتیبات > ایپس > تمام ایپس دیکھیں > TCL Al ایپ کی معلومات > کو ترتیب کو منتخب کرسکتے ہیں میں دیکھ سکتے ہیں۔"</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"Al متعلقہ افعال کو استعمال کرنے کے لئے، آپ کو TCL Al ایپ کو فعال کرنے کی ضرورت ہے۔ آپ اسے فعال کرنے کے لئے ترتیبات > ایپس > تمام ایپس دیکھیں > TCL Al ایپ کی معلومات > کو ترتیب کو منتخب کرسکتے ہیں میں دیکھ سکتے ہیں۔"</string>
+	<!---->
+	<string name="drag_bar_description">"ونڈو کا سائز تبدیل کریں"</string>
+	<!---->
+	<string name="network_exception_tip">"نیٹ ورک استثنیٰ. نیٹ ورک چیک کریں۔"</string>
+	<!---->
+	<string name="simplified_chinese">"سادہ چینی"</string>
+	<!---->
+	<string name="traditional_chinese">"روایتی چینی"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"ضرورت سے زیادہ سرگرمی کا پتہ چلا۔ جاری رکھنے کے لیے لاگ ان کریں۔"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"اکاؤنٹ کی حفاظت کے لیے، جاری رکھنے کے لیے لاگ ان کریں۔"</string>
+	<!---->
+	<string name="nav_bar_copy">"کاپی کریں"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"نقل شدہ"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"سب ٹائٹلز بحال کرنے کے لئے ٹچ کریں۔"</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"اس فیچر کے لیے کوٹہ ختم ہو گیا ہے"</string>
+	<!---->
+	<string name="free_credit_exhausted">"مفت کوٹہ ختم ہو چکا ہے۔ ترجمہ سروس کا استعمال جاری رکھنے کے لئے اپنی رکنیت کو ریچارج کریں۔"</string>
+	<!---->
+	<string name="membership_credit_exhausted">"آپ اپنی موجودہ رکنیت کی سطح کے لئے استعمال کی حد تک پہنچ چکے ہیں۔ ترجمہ سروس کا استعمال جاری رکھنے کے لئے اپنی رکنیت کی سطح کو اپ گریڈ کریں۔"</string>
+</resources>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"同步字幕"</string>
+	<!---->
+	<string name="subtitles_settings_title">"字幕設定"</string>
+	<!---->
+	<string name="subtitles_translation_title">"翻譯"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"雙語顯示"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"字體大小"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"背景透明度"</string>
+	<!---->
+	<string name="subtitles_appear_des">"字幕會這樣出現"</string>
+	<!---->
+	<string name="subtitles_fun_des">"您可以透過「側邊欄」或「快速設定」啟動字幕懸浮視窗。啟用後，該功能會擷取系統音訊或環境聲音，並將其即時轉換為文字，同時支援多種語言及翻譯功能。"</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"支援即時音頻轉文字。您可在控制中心或側邊欄開啟字幕懸浮窗。"</string>
+	<!---->
+	<string name="subtitles_source_language">"源語言"</string>
+	<!---->
+	<string name="subtitles_target_language">"目標語言"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"英文"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"英文"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"底層應用不支持分屏"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"無法加載。請再試。"</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"預覽影像"</string>
+	<!---->
+	<string name="subtitles_notice_des">"字幕已啟用。\n自動識別系統或麥克風聲音並生成字幕。"</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"應用程式權限衝突。使用字幕前請關閉錄製。"</string>
+	<!---->
+	<string name="font_size_small">"小"</string>
+	<!---->
+	<string name="font_size_default">"預設"</string>
+	<!---->
+	<string name="font_size_large">"大"</string>
+	<!---->
+	<string name="subtitles_translation_by">"翻譯由"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"應用程式權限衝突。字幕已關閉。"</string>
+	<!---->
+	<string name="permissions_denied_tip">"權限被拒。您可以在「設定」 > 「應用程式」中變更它們。"</string>
+	<!---->
+	<string name="permissions_settings_tip">"設定"</string>
+	<!---->
+	<string name="recognising_system">"識別系統聲音"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"啟用環境錄音"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"識別系統及環境聲音"</string>
+	<!---->
+	<string name="ok_button">"確定"</string>
+	<!---->
+	<string name="retry_button">"重試"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"網絡異常。已切換至線下翻譯。"</string>
+	<!---->
+	<string name="server_exception_switched_offline">"伺服器異常。已切換至線下翻譯。"</string>
+	<!---->
+	<string name="server_input_error">"抱歉，我們無法處理此輸入。請嘗試其他輸入。"</string>
+	<!---->
+	<string name="free_quota_exhausted">"免費額度已耗盡。請儲值您的會員資格，以繼續使用翻譯服務。"</string>
+	<!---->
+	<string name="reached_membership_limit">"您已達到當前會籍的使用上限。請升級您的會員等級以繼續使用翻譯服務。"</string>
+	<!---->
+	<string name="top_up_membership">"會員儲值"</string>
+	<!---->
+	<string name="upgrade_membership">"升級會員等級"</string>
+	<!---->
+	<string name="turn_off_translation">"關閉翻譯"</string>
+	<!---->
+	<string name="login_failed_token_expired">"登入已過期。請重新登入。"</string>
+	<!---->
+	<string name="nav_bar_settings">"設定"</string>
+	<!---->
+	<string name="nav_bar_record">"麥克風"</string>
+	<!---->
+	<string name="nav_bar_split_in">"進入雙屏"</string>
+	<!---->
+	<string name="nav_bar_split_out">"退出分割畫面"</string>
+	<!---->
+	<string name="nav_bar_close">"關閉"</string>
+	<!---->
+	<string name="nav_bar_back">"返回"</string>
+	<!---->
+	<string name="slider">"滑動桿"</string>
+	<!---->
+	<string name="switch_on">"開啟"</string>
+	<!---->
+	<string name="switch_off">"關閉"</string>
+	<!---->
+	<string name="common_text_cancel">"取消"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"如需使用與 AI 相關的功能，您需要啟用 TCL AI 應用程式。您可以順序選取「設定」>「全部應用程式」>「檢視所有應用程式」>「TCL AI 應用程式資訊」以啟用。"</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"如需使用與 AI 相關的功能，您需要啟用 TCL AI 應用程式。您可以順序選取「設定」>「全部應用程式」>「檢視所有應用程式」>「TCL AI 應用程式資訊」以啟用。"</string>
+	<!---->
+	<string name="drag_bar_description">"調整視窗大小"</string>
+	<!---->
+	<string name="network_exception_tip">"網絡異常，請檢查網絡。"</string>
+	<!---->
+	<string name="simplified_chinese">"簡體中文"</string>
+	<!---->
+	<string name="traditional_chinese">"繁體中文"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"偵測到過多活動。請登入以繼續"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"為確保賬戶安全，請登入以繼續。"</string>
+	<!---->
+	<string name="nav_bar_copy">"複製"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"已複製"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"輕觸以恢復字幕。"</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"此功能的使用限額已用完"</string>
+	<!---->
+	<string name="free_credit_exhausted">"免費額度已耗盡。請儲值您的會員資格，以繼續使用翻譯服務。"</string>
+	<!---->
+	<string name="membership_credit_exhausted">"您已達到當前會籍的使用上限。請升級您的會員等級以繼續使用翻譯服務。"</string>
+</resources>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Realaus laiko subtitrai"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Subtitrų nustatymai"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Vertimas"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"Dvikalbis ekranas"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Šrifto dydis"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Fono nepermatomumas"</string>
+	<!---->
+	<string name="subtitles_appear_des">"Subtitrai bus rodomi taip"</string>
+	<!---->
+	<string name="subtitles_fun_des">"Paantraštės slankųjį langą galite suaktyvinti naudodami šoninę juostą arba sparčiuosius parametrus. Įjungus, jis fiksuoja sistemos garsą arba aplinkos garsus ir konvertuoja juos į tekstą realiuoju laiku, palaikydamas kelias kalbas ir vertimą."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Palaiko realaus laiko garso ir teksto konvertavimą. Valdymo centre arba šoninėje juostoje galite atidaryti sklandantį subtitrų langą."</string>
+	<!---->
+	<string name="subtitles_source_language">"Pirminė kalba"</string>
+	<!---->
+	<string name="subtitles_target_language">"Tikslinė kalba"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"Anglų"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"Anglų"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"Apatinė programa nepalaiko padalinto ekrano"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"Nepavyko įkelti. Bandykite dar kartą."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"Vaizdo peržiūra"</string>
+	<!---->
+	<string name="subtitles_notice_des">"Subtitrai įjungti.\nAutomatiškai atpažinti sistemos ar mikrofono garsus ir sukurti subtitrus."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Programos leidimų konfliktas. Prieš naudodami subtitrus išjunkite įrašymą."</string>
+	<!---->
+	<string name="font_size_small">"Mažas"</string>
+	<!---->
+	<string name="font_size_default">"Numat."</string>
+	<!---->
+	<string name="font_size_large">"Didelis"</string>
+	<!---->
+	<string name="subtitles_translation_by">"Vertimas"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Programos leidimų konfliktas. Subtitrai buvo išjungti."</string>
+	<!---->
+	<string name="permissions_denied_tip">"Leidimai panaikinti. Leidimus galite pakeisti skiltyje Nustatymai > Programėlės."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Nustatymai"</string>
+	<!---->
+	<string name="recognising_system">"Atpažįstamas sistemos garsas"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Įjungti aplinkos garsų įrašymą"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"Atpažįstami sistemos ir aplinkos garsai"</string>
+	<!---->
+	<string name="ok_button">"Gerai"</string>
+	<!---->
+	<string name="retry_button">"Bandyti dar kartą"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"Tinklo išimtis. Perjungta į prie interneto neprijungtą vertimą."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Serverio išimtis. Perjungta į prie interneto neprijungtą vertimą."</string>
+	<!---->
+	<string name="server_input_error">"Atsiprašome, negalime apdoroti dabartinės įvesties. Išbandykite kitą įvestį."</string>
+	<!---->
+	<string name="free_quota_exhausted">"Nemokama kvota išnaudota. Norėdami toliau naudotis vertimo paslauga, atnaujinkite savo narystę."</string>
+	<!---->
+	<string name="reached_membership_limit">"Pasiekėte dabartinio narystės lygio naudojimo limitą. Norėdami toliau naudotis vertimo paslauga, atnaujinkite narystės lygį."</string>
+	<!---->
+	<string name="top_up_membership">"Pratęsti narystę"</string>
+	<!---->
+	<string name="upgrade_membership">"Atnaujinti narystę"</string>
+	<!---->
+	<string name="turn_off_translation">"Išjungti vertimą"</string>
+	<!---->
+	<string name="login_failed_token_expired">"Prisijungimas baigėsi. Prisijunkite dar kartą."</string>
+	<!---->
+	<string name="nav_bar_settings">"Nustatymai"</string>
+	<!---->
+	<string name="nav_bar_record">"Mikrofonas"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Atverti padalintą ekraną"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Išeiti iš padalinto ekrano"</string>
+	<!---->
+	<string name="nav_bar_close">"Uždaryti"</string>
+	<!---->
+	<string name="nav_bar_back">"Atgal"</string>
+	<!---->
+	<string name="slider">"Slankiklis"</string>
+	<!---->
+	<string name="switch_on">"Įjungti"</string>
+	<!---->
+	<string name="switch_off">"Išjungti"</string>
+	<!---->
+	<string name="common_text_cancel">"Atšaukti"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"Norėdami naudotis su Al susijusiomis funkcijomis, turite įjungti TCL Al programėlę. Norėdami ją įjungti, iš eilės pasirinkite Nustatymai > Programėlės > Žiūrėti visas programėles > TCL Al App Info."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"Norėdami naudotis su Al susijusiomis funkcijomis, turite įjungti TCL Al programėlę. Norėdami ją įjungti, iš eilės pasirinkite Nustatymai > Programėlės > Žiūrėti visas programėles > TCL Al App Info."</string>
+	<!---->
+	<string name="drag_bar_description">"Pakeisti lango dydį"</string>
+	<!---->
+	<string name="network_exception_tip">"Tinklas atjungtas. Patikrinkite tinklą."</string>
+	<!---->
+	<string name="simplified_chinese">"Supaprastinta kinų kalba"</string>
+	<!---->
+	<string name="traditional_chinese">"Tradicinė kinų kalba"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"Aptiktas per didelis aktyvumas. Prisijunkite, kad tęstumėte"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"Norėdami užtikrinti paskyros saugumą, prisijunkite ir tęskite."</string>
+	<!---->
+	<string name="nav_bar_copy">"Kopijuoti"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Nukopijuota"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Palieskite, jei norite atkurti subtitrus."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"Šios funkcijos kvota išnaudota"</string>
+	<!---->
+	<string name="free_credit_exhausted">"Nemokama kvota išnaudota. Norėdami toliau naudotis vertimo paslauga, atnaujinkite savo narystę."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"Pasiekėte dabartinio narystės lygio naudojimo limitą. Norėdami toliau naudotis vertimo paslauga, atnaujinkite narystės lygį."</string>
+</resources>

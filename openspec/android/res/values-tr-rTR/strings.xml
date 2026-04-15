@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Gerçek Zamanlı Altyazılar"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Altyazı ayarları"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Çeviri"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"İki dilli görüntüleme"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Yazı tipi boyutu"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Arka plan opaklığı"</string>
+	<!---->
+	<string name="subtitles_appear_des">"Altyazılar şu şekilde görünecektir"</string>
+	<!---->
+	<string name="subtitles_fun_des">"Kenar Çubuğu veya Hızlı Ayarlar ile alt yazı kayan penceresini etkinleştirebilirsiniz. Bu özellik etkinleştirildiğinde, sistem sesini ve ortam sesini alır ve bunu çoklu dil ve çeviri desteği ile birlikte gerçek zamanlı olarak metne dönüştürür."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Gerçek zamanlı sesten metne dönüştürmeyi destekler. Altyazı yüzen penceresini kontrol merkezinde veya kenar çubuğunda açabilirsiniz."</string>
+	<!---->
+	<string name="subtitles_source_language">"Kaynak dil"</string>
+	<!---->
+	<string name="subtitles_target_language">"Hedef dil"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"Türkçe"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"Türkçe"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"Alt uygulama bölünmüş ekranı desteklemiyor"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"Yüklenemedi. Tekrar dene."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"Görüntüyü önizleyin"</string>
+	<!---->
+	<string name="subtitles_notice_des">"Altyazılar etkin.\nSistem veya mikrofon seslerini otomatik olarak tanır ve altyazılar oluşturur."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Uygulama izinleri çakışıyor. Altyazıları kullanmadan önce kaydı kapatın."</string>
+	<!---->
+	<string name="font_size_small">"Küçük"</string>
+	<!---->
+	<string name="font_size_default">"Varsayılan"</string>
+	<!---->
+	<string name="font_size_large">"Büyük"</string>
+	<!---->
+	<string name="subtitles_translation_by">"Çeviren"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Uygulama izinleri çakışıyor. Altyazılar kapatıldı."</string>
+	<!---->
+	<string name="permissions_denied_tip">"İzinler reddedildi. Bunları Ayarlar > Uygulamalar\'da değiştirebilirsiniz."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Ayarlar"</string>
+	<!---->
+	<string name="recognising_system">"Sistem sesini tanıma"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Ortam seslerini kaydetmeyi etkinleştir"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"Sistem ve ortam seslerini tanıma"</string>
+	<!---->
+	<string name="ok_button">"TAMAM"</string>
+	<!---->
+	<string name="retry_button">"Tekrar Dene"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"Ağ istisnası. Çevrimdışı çeviriye geçildi."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Sunucu istisnası. Çevrimdışı çeviriye geçildi."</string>
+	<!---->
+	<string name="server_input_error">"Üzgünüz, mevcut girdiyi işleyemiyoruz. Farklı bir girdi deneyin."</string>
+	<!---->
+	<string name="free_quota_exhausted">"Ücretsiz kota tükendi. Çeviri hizmetini kullanmaya devam etmek için üyeliğinizi yeniden yükleyin."</string>
+	<!---->
+	<string name="reached_membership_limit">"Mevcut üyelik seviyeniz için kullanım sınırına ulaştınız. Çeviri hizmetini kullanmaya devam etmek için üyelik seviyenizi yükseltin."</string>
+	<!---->
+	<string name="top_up_membership">"Üyeliğinizi yenileyin"</string>
+	<!---->
+	<string name="upgrade_membership">"Üyeliğinizi yükseltin"</string>
+	<!---->
+	<string name="turn_off_translation">"Çeviriyi kapat"</string>
+	<!---->
+	<string name="login_failed_token_expired">"Oturum açma süresi doldu. Tekrar giriş yap."</string>
+	<!---->
+	<string name="nav_bar_settings">"Ayarlar"</string>
+	<!---->
+	<string name="nav_bar_record">"Mikrofon"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Bölünmüş ekrana girin"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Bölünmüş ekrandan çık"</string>
+	<!---->
+	<string name="nav_bar_close">"Yakın"</string>
+	<!---->
+	<string name="nav_bar_back">"Geri"</string>
+	<!---->
+	<string name="slider">"Kaydırıcı"</string>
+	<!---->
+	<string name="switch_on">"Açık"</string>
+	<!---->
+	<string name="switch_off">"Kapalı"</string>
+	<!---->
+	<string name="common_text_cancel">"İptal"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"Al ile ilgili işlevleri kullanmak için TCL Al Uygulamasını etkinleştirmeniz gerekir. Etkinleştirmek için Ayarlar > Uygulamalar > Tüm uygulamaları gör > TCL Al Uygulama Bilgileri\'ni sırayla seçebilirsiniz."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"Al ile ilgili işlevleri kullanmak için TCL Al Uygulamasını etkinleştirmeniz gerekir. Etkinleştirmek için Ayarlar > Uygulamalar > Tüm uygulamaları gör > TCL Al Uygulama Bilgileri\'ni sırayla seçebilirsiniz."</string>
+	<!---->
+	<string name="drag_bar_description">"Pencereyi yeniden boyutlandırın"</string>
+	<!---->
+	<string name="network_exception_tip">"Ağ istisnası. Ağı kontrol edin."</string>
+	<!---->
+	<string name="simplified_chinese">"Basitleştirilmiş Çince"</string>
+	<!---->
+	<string name="traditional_chinese">"Geleneksel Çince"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"Aşırı aktivite tespit edildi. Devam etmek için giriş yapın"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"Hesap güvenliğini sağlamak için devam etmek için oturum açın."</string>
+	<!---->
+	<string name="nav_bar_copy">"Kopyala"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Kopyalandı"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Alt yazıları geri yüklemek için dokunun."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"Bu özellik için kota bitti"</string>
+	<!---->
+	<string name="free_credit_exhausted">"Ücretsiz kota tükendi. Çeviri hizmetini kullanmaya devam etmek için üyeliğinizi yeniden yükleyin."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"Mevcut üyelik seviyeniz için kullanım sınırına ulaştınız. Çeviri hizmetini kullanmaya devam etmek için üyelik seviyenizi yükseltin."</string>
+</resources>

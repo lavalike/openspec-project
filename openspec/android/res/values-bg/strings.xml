@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Субтитри в реално време"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Настройки на субтитрите"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Превод"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"Двуезичен дисплей"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Размер на шрифта"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Непрозрачност на фона"</string>
+	<!---->
+	<string name="subtitles_appear_des">"Субтитрите ще изглеждат така"</string>
+	<!---->
+	<string name="subtitles_fun_des">"Можете да активирате плаващия прозорец със субтитри чрез Страничната лента или Бързите настройки. След като бъде активиран, той улавя системния звук или околните звуци и ги преобразува в текст в реално време, с поддръжка на множество езици и превод."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Поддържа преобразуване на аудио в текст в реално време. Можете да отворите плаващия прозорец на субтитрите в контролния център или страничната лента."</string>
+	<!---->
+	<string name="subtitles_source_language">"Изходен език"</string>
+	<!---->
+	<string name="subtitles_target_language">"Целеви език"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"Български"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"Български"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"Долното приложение не поддържа разделен екран"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"Не може да се зареди. Опитайте отново."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"Преглед на изображението"</string>
+	<!---->
+	<string name="subtitles_notice_des">"Субтитрите са активирани.\nАвтоматично разпознаване на системни или микрофонни звуци и генериране на субтитри."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Конфликт с разрешения за приложение. Изключете записа, преди да използвате субтитри."</string>
+	<!---->
+	<string name="font_size_small">"Малки"</string>
+	<!---->
+	<string name="font_size_default">"По подразбиране"</string>
+	<!---->
+	<string name="font_size_large">"Голям"</string>
+	<!---->
+	<string name="subtitles_translation_by">"Преводът е на"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Конфликт с разрешенията за приложението. Субтитрите са изключени."</string>
+	<!---->
+	<string name="permissions_denied_tip">"Разрешенията са отказани. Може да ги промените в „Настройки” > Приложения."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Настройки"</string>
+	<!---->
+	<string name="recognising_system">"Разпознаване на звуковия сигнал на системата"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Разрешаване на запис на околни звуци"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"Разпознаване на системни и околни звуци"</string>
+	<!---->
+	<string name="ok_button">"OK"</string>
+	<!---->
+	<string name="retry_button">"Повтори"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"Мрежово изключение. Превключихте към офлайн превод."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Изключение на сървъра. Превключихте към офлайн превод."</string>
+	<!---->
+	<string name="server_input_error">"Съжаляваме, но не можем да обработим текущия вход. Опитайте с друг вход."</string>
+	<!---->
+	<string name="free_quota_exhausted">"Безплатната квота е изчерпана. Презаредете членството си, за да продължите да използвате услугата за превод."</string>
+	<!---->
+	<string name="reached_membership_limit">"Достигнали сте лимита за използване за текущото си ниво на членство. Повишете нивото си на членство, за да продължите да използвате услугата за превод."</string>
+	<!---->
+	<string name="top_up_membership">"Допълнете своето членство"</string>
+	<!---->
+	<string name="upgrade_membership">"Надградете членството си"</string>
+	<!---->
+	<string name="turn_off_translation">"Изключете превода"</string>
+	<!---->
+	<string name="login_failed_token_expired">"Времето на влизане изтече. Влезте отново."</string>
+	<!---->
+	<string name="nav_bar_settings">"Настройки"</string>
+	<!---->
+	<string name="nav_bar_record">"Микрофон"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Въвеждане на разделен екран"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Изход от разделен екран"</string>
+	<!---->
+	<string name="nav_bar_close">"Затвори"</string>
+	<!---->
+	<string name="nav_bar_back">"Назад"</string>
+	<!---->
+	<string name="slider">"Плъзгач"</string>
+	<!---->
+	<string name="switch_on">"Включено"</string>
+	<!---->
+	<string name="switch_off">"Изключено"</string>
+	<!---->
+	<string name="common_text_cancel">"Отказ"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"Трябва да активирате приложението TCL Al, за да използвате свързаните с изкуствен интелект функции. Може да го направите, като изберете последователно Настройки > Приложения > Преглед на всички приложения > Информация за приложението TCL Al."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"Трябва да активирате приложението TCL Al, за да използвате свързаните с изкуствен интелект функции. Може да го направите, като изберете последователно Настройки > Приложения > Преглед на всички приложения > Информация за приложението TCL Al."</string>
+	<!---->
+	<string name="drag_bar_description">"Промяна на размера на прозореца"</string>
+	<!---->
+	<string name="network_exception_tip">"Мрежово изключение. Проверете мрежата."</string>
+	<!---->
+	<string name="simplified_chinese">"Опростен китайски"</string>
+	<!---->
+	<string name="traditional_chinese">"Традиционен китайски"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"Засечена е прекомерна активност. Впишете се, за да продължите"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"За гарантиране на сигурността на акаунта, влезте в профила си, за да продължите."</string>
+	<!---->
+	<string name="nav_bar_copy">"Копиране"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Копирано"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Докоснете, за да възстановите субтитрите."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"Квотата за тази функция е изчерпана"</string>
+	<!---->
+	<string name="free_credit_exhausted">"Безплатната квота е изчерпана. Презаредете членството си, за да продължите да използвате услугата за превод."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"Достигнали сте лимита за използване за текущото си ниво на членство. Повишете нивото си на членство, за да продължите да използвате услугата за превод."</string>
+</resources>

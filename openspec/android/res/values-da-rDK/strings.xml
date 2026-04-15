@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Undertekster i realtid"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Indstillinger for undertekster"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Oversættelse"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"Tosproget display"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Skriftstørrelse"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Baggrundens uigennemsigtighed"</string>
+	<!---->
+	<string name="subtitles_appear_des">"Undertekster vil se sådan ud"</string>
+	<!---->
+	<string name="subtitles_fun_des">"Du kan aktivere det flydende vindue til undertekster via sidepanelet eller hurtige indstillinger. Når funktionen er aktiveret, optager den systemlyd eller omgivende lyde og konverterer dem til tekst i realtid med understøttelse af flere sprog samt oversættelse."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Understøtter real-time lyd til tekst konvertering. Du kan åbne det flydende undertekstvindue i kontrolcenteret eller sidebjælken."</string>
+	<!---->
+	<string name="subtitles_source_language">"Kildesprog"</string>
+	<!---->
+	<string name="subtitles_target_language">"Målsprog"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"Engelsk"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"Engelsk"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"Den nederste app understøtter ikke opdelt skærmtilstand"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"Kunne ikke indlæses. Prøv igen."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"Gennemse billede"</string>
+	<!---->
+	<string name="subtitles_notice_des">"Undertekster er aktiveret.\nGenkend automatisk system- eller mikrofonlyde og generer undertekster."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Applikationstilladelser er i konflikt. Sluk for optagelsen, før du bruger undertekster."</string>
+	<!---->
+	<string name="font_size_small">"Lille"</string>
+	<!---->
+	<string name="font_size_default">"Standard"</string>
+	<!---->
+	<string name="font_size_large">"Stor"</string>
+	<!---->
+	<string name="subtitles_translation_by">"Oversættelse af"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Applikationstilladelser er i konflikt. Undertekster er blevet slået fra."</string>
+	<!---->
+	<string name="permissions_denied_tip">"Tilladelser nægtet. Du kan ændre dem i Indstillinger > Apps."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Indstillinger"</string>
+	<!---->
+	<string name="recognising_system">"Genkendelse af systemlyd"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Aktivér for at gøre det muligt at optage omgivende lyde"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"Genkendelse af system- og omgivelseslyde"</string>
+	<!---->
+	<string name="ok_button">"OK"</string>
+	<!---->
+	<string name="retry_button">"Prøv igen"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"Netværksundtagelse. Skiftet til offlineoversættelse."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Serverundtagelse. Skiftet til offlineoversættelse."</string>
+	<!---->
+	<string name="server_input_error">"Vi kan desværre ikke behandle det nuværende input. Prøv med noget andet input."</string>
+	<!---->
+	<string name="free_quota_exhausted">"Den gratis kvote er blevet opbrugt. Genlad dit medlemskab til at fortsætte med at bruge oversættelsestjenesten."</string>
+	<!---->
+	<string name="reached_membership_limit">"Du har nået forbrugsbegrænsningen for dit nuværende medlemsniveau. Opgradér dit medlemsniveau, så du kan fortsætte med at bruge oversættelsestjenesten."</string>
+	<!---->
+	<string name="top_up_membership">"Fyld dit medlemskab op"</string>
+	<!---->
+	<string name="upgrade_membership">"Opgradér dit medlemskab"</string>
+	<!---->
+	<string name="turn_off_translation">"Sluk for oversættelse"</string>
+	<!---->
+	<string name="login_failed_token_expired">"Indlogningen er udløbet. Log ind igen."</string>
+	<!---->
+	<string name="nav_bar_settings">"Indstillinger"</string>
+	<!---->
+	<string name="nav_bar_record">"Mikrofon"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Gå ind i delt skærm"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Afslut delt skærm"</string>
+	<!---->
+	<string name="nav_bar_close">"Luk"</string>
+	<!---->
+	<string name="nav_bar_back">"Tilbage"</string>
+	<!---->
+	<string name="slider">"Skyder"</string>
+	<!---->
+	<string name="switch_on">"Til"</string>
+	<!---->
+	<string name="switch_off">"Fra"</string>
+	<!---->
+	<string name="common_text_cancel">"Annuller"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"For at bruge AI-relaterede funktioner skal du aktivere TCL AI-appen. Du kan vælge Indstillinger > Apps > Se alle apps > TCL AI-appinfo i rækkefølge for at aktivere den."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"For at bruge AI-relaterede funktioner skal du aktivere TCL AI-appen. Du kan vælge Indstillinger > Apps > Se alle apps > TCL AI-appinfo i rækkefølge for at aktivere den."</string>
+	<!---->
+	<string name="drag_bar_description">"Tilpas vinduets størrelse"</string>
+	<!---->
+	<string name="network_exception_tip">"Netværket er undtaget. Kontrollér netværket."</string>
+	<!---->
+	<string name="simplified_chinese">"Forenklet kinesisk"</string>
+	<!---->
+	<string name="traditional_chinese">"Traditionelt kinesisk"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"Overdreven aktivitet registreret. Log ind for at fortsætte"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"For at sikre kontosikkerhed skal du logge ind for at fortsætte."</string>
+	<!---->
+	<string name="nav_bar_copy">"Kopier"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Kopieret"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Tryk for at gendanne undertekster."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"Kvoten for denne funktion er opbrugt"</string>
+	<!---->
+	<string name="free_credit_exhausted">"Den gratis kvote er blevet opbrugt. Genlad dit medlemskab til at fortsætte med at bruge oversættelsestjenesten."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"Du har nået forbrugsbegrænsningen for dit nuværende medlemsniveau. Opgradér dit medlemsniveau, så du kan fortsætte med at bruge oversættelsestjenesten."</string>
+</resources>

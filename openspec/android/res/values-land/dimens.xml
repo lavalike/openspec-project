@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nav_bar_margin_bottom">12dp</dimen>
+
+    <!--phone part land-->
+    <dimen name="part_main_horizontal_padding">54dp</dimen>
+    <dimen name="part_font_size_bottom">8dp</dimen>
+    <dimen name="part_background_opacity_bottom">4dp</dimen>
+    <dimen name="part_background_font_text_vertical">12dp</dimen>
+    <dimen name="part_preview_screen_vertical">56dp</dimen>
+    <dimen name="part_Language_des_margin">22dp</dimen>
+    <dimen name="part_checkbox_margin">22dp</dimen>
+    <dimen name="part_seekbar_interval">0dp</dimen>
+
+    <dimen name="tips_window_margin_outside">10dp</dimen>
+    <dimen name="tips_window_margin_navigation">8dp</dimen>
+</resources>

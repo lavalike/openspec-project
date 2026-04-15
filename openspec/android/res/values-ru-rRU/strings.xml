@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Субтитры в реальном времени"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Настройки субтитров"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Перевод"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"Двуязычный дисплей"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Размер шрифта"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Непрозрачность фона"</string>
+	<!---->
+	<string name="subtitles_appear_des">"Субтитры будут выглядеть так"</string>
+	<!---->
+	<string name="subtitles_fun_des">"Вы можете активировать всплывающее окно субтитров через Боковую панель или Быстрые настройки. После активации оно захватывает системный звук или окружающие звуки и преобразует их в текст в режиме реального времени с поддержкой нескольких языков и перевода."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Поддержка преобразования аудио в текст в реальном времени. Вы можете открыть плавающее окно с субтитрами в центре управления или на боковой панели."</string>
+	<!---->
+	<string name="subtitles_source_language">"Исходный язык"</string>
+	<!---->
+	<string name="subtitles_target_language">"Целевой язык"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"Английский"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"Английский"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"Нижнее приложение не поддерживает режим «Два окна»"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"Не удалось загрузить. Повторите попытку."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"Предварительный просмотр изображения"</string>
+	<!---->
+	<string name="subtitles_notice_des">"Субтитры включены.\nБудет происходить автоматическое распознавание звуков системы или микрофона и генерирование субтитров."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Конфликт разрешений приложения. Перед использованием субтитров отключите запись."</string>
+	<!---->
+	<string name="font_size_small">"Мелкий"</string>
+	<!---->
+	<string name="font_size_default">"По умолчанию"</string>
+	<!---->
+	<string name="font_size_large">"Крупный"</string>
+	<!---->
+	<string name="subtitles_translation_by">"Перевод выполнен"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Конфликт разрешений приложения. Субтитры были отключены."</string>
+	<!---->
+	<string name="permissions_denied_tip">"Разрешения запрещены. Вы можете изменить их в меню Настройки > Приложения."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Настройки"</string>
+	<!---->
+	<string name="recognising_system">"Распознавание системных звуков"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Включение записи окружающих звуков"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"Распознавание системных и окружающих звуков"</string>
+	<!---->
+	<string name="ok_button">"ОК"</string>
+	<!---->
+	<string name="retry_button">"Повторить попытку"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"Исключение сети. Переключено на автономный перевод."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Исключение сервера. Переключено на автономный перевод."</string>
+	<!---->
+	<string name="server_input_error">"К сожалению, мы не можем обработать текущий входной сигнал. Попробуйте другой входной сигнал."</string>
+	<!---->
+	<string name="free_quota_exhausted">"Бесплатный лимит исчерпан. Пополните свой счет, чтобы продолжить пользоваться службой перевода."</string>
+	<!---->
+	<string name="reached_membership_limit">"Вы достигли лимита использования для вашего текущего уровня членства. Повысьте свой уровень членства, чтобы продолжить пользоваться службой перевода."</string>
+	<!---->
+	<string name="top_up_membership">"Пополнить свой счет"</string>
+	<!---->
+	<string name="upgrade_membership">"Повысить уровень членства"</string>
+	<!---->
+	<string name="turn_off_translation">"Отключить перевод"</string>
+	<!---->
+	<string name="login_failed_token_expired">"Срок входа в систему истек. Войдите еще раз."</string>
+	<!---->
+	<string name="nav_bar_settings">"Настройки"</string>
+	<!---->
+	<string name="nav_bar_record">"Микрофон"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Включить режим «Два окна»"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Выйти из режима разделенного экрана"</string>
+	<!---->
+	<string name="nav_bar_close">"Закрыть"</string>
+	<!---->
+	<string name="nav_bar_back">"Назад"</string>
+	<!---->
+	<string name="slider">"Ручка настройки"</string>
+	<!---->
+	<string name="switch_on">"ВКЛ"</string>
+	<!---->
+	<string name="switch_off">"ВЫКЛ"</string>
+	<!---->
+	<string name="common_text_cancel">"Отмена"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"Для использования связанных с ИИ функций необходимо включить приложение TCL AI. Можно выбрать Настройки > Приложения > Все приложения > Данные приложения TCL AI в указанном порядке, чтобы включить его."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"Для использования связанных с ИИ функций необходимо включить приложение TCL AI. Можно выбрать Настройки > Приложения > Все приложения > Данные приложения TCL AI в указанном порядке, чтобы включить его."</string>
+	<!---->
+	<string name="drag_bar_description">"Изменение размера окна"</string>
+	<!---->
+	<string name="network_exception_tip">"Сетевое исключение. Проверьте подключение к сети."</string>
+	<!---->
+	<string name="simplified_chinese">"Упрощенный китайский"</string>
+	<!---->
+	<string name="traditional_chinese">"Традиционный китайский"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"Обнаружена чрезмерная активность. Войдите в систему, чтобы продолжить"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"Для обеспечения безопасности аккаунта войдите, чтобы продолжить."</string>
+	<!---->
+	<string name="nav_bar_copy">"Копировать"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Скопирован"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Коснитесь, чтобы восстановить субтитры."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"Лимит для этой функции исчерпан"</string>
+	<!---->
+	<string name="free_credit_exhausted">"Бесплатный лимит исчерпан. Пополните свой счет, чтобы продолжить пользоваться службой перевода."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"Вы достигли лимита использования для вашего текущего уровня членства. Повысьте свой уровень членства, чтобы продолжить пользоваться службой перевода."</string>
+</resources>

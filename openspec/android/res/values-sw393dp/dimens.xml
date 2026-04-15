@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="rounded_corner_radius">20dp</dimen>
+    <dimen name="draggable_spacer_width">21.8dp</dimen>
+    <dimen name="dragging_border_width">2dp</dimen>
+    <dimen name="draggable_click_padding">7.6dp</dimen>
+    <dimen name="nav_bar_button_size">30.6dp</dimen>
+    <dimen name="nav_bar_button_space">17.5dp</dimen>
+    <dimen name="nav_bar_margin_bottom">8.7dp</dimen>
+    <dimen name="drag_bar_width">43.7dp</dimen>
+    <dimen name="drag_bar_height">3dp</dimen>
+    <dimen name="drag_bar_margin_top">6.6dp</dimen>
+    <dimen name="drag_bar_margin_bottom">2.2dp</dimen>
+    <dimen name="floating_window_min_width">366.1dp</dimen>
+    <dimen name="floating_window_min_height">21.8dp</dimen>
+    <dimen name="floating_window_default_height">109.2dp</dimen>
+    <dimen name="floating_window_max_height">677.8dp</dimen>
+    <dimen name="floating_window_narrow_horizontal_padding">21.8dp</dimen>
+    <dimen name="floating_window_narrow_vertical_padding">13.1dp</dimen>
+    <dimen name="floating_window_translation_icon_height">26.2dp</dimen>
+    <dimen name="floating_window_translation_icon_margin_top">8.7dp</dimen>
+    <dimen name="floating_window_translation_icon_content_height">17.5dp</dimen>
+    <dimen name="floating_window_translation_icon_content_margin">3.3dp</dimen>
+    <dimen name="tips_window_margin_outside">10dp</dimen>
+    <dimen name="tips_window_arrow_radius">2.2dp</dimen>
+    <dimen name="tips_window_arrow_extra_margin_navigation">8.7dp</dimen>
+    <dimen name="tips_content_padding_vertical">20dp</dimen>
+    <dimen name="tips_content_padding_horizontal">20dp</dimen>
+    <dimen name="tips_content_button_margin_bottom">17.5dp</dimen>
+    <dimen name="tips_window_margin_navigation">8.7dp</dimen>
+    <dimen name="full_config_horizontal_padding">13.1dp</dimen>
+    <dimen name="description_text_padding">26.2dp</dimen>
+    <dimen name="public_translation_horizontal_padding">21.8dp</dimen>
+    <dimen name="public_language_button_width">135.4dp</dimen>
+    <dimen name="public_language_button_height">43.7dp</dimen>
+    <dimen name="public_preview_horizontal_padding">13.1dp</dimen>
+    <dimen name="public_bilingual_top_bottom_padding">10.9dp</dimen>
+    <dimen name="public_preview_height">163.8dp</dimen>
+    <dimen name="part_activity_width">373.7dp</dimen>
+    <dimen name="part_header_height">65.5dp</dimen>
+    <dimen name="public_config_horizontal_padding">13.1dp</dimen>
+    <dimen name="preview_radius">21.8dp</dimen>
+    <dimen name="part_main_horizontal_padding">0.0dp</dimen>
+    <dimen name="full_description_text_bottom">19.6dp</dimen>
+    <dimen name="full_subtitles_toggle_top">19.6dp</dimen>
+    <dimen name="part_preview_screen_top">10.9dp</dimen>
+    <dimen name="content_line_extra_space">8.7dp</dimen>
+    <dimen name="retry_load_button_height">43.7dp</dimen>
+    <dimen name="retry_load_button_width">117.9dp</dimen>
+    <!--split-->
+    <dimen name="split_part_main_horizontal_padding">0.0dp</dimen>
+    <dimen name="split_part_preview_screen_padding">13.1dp</dimen>
+    <dimen name="split_translation_icon_height">21.8dp</dimen>
+    <dimen name="split_translation_icon_margin_top">8.7dp</dimen>
+    <dimen name="split_translation_icon_margin_bottom">4.4dp</dimen>
+    <!--part land phone layout-->
+    <dimen name="part_window_width">431.1dp</dimen>
+    <dimen name="part_font_size_bottom">8.7dp</dimen>
+    <dimen name="part_background_opacity_bottom">15.3dp</dimen>
+    <dimen name="part_background_font_text_vertical">14.2dp</dimen>
+    <dimen name="part_preview_screen_vertical">13.1dp</dimen>
+    <dimen name="part_Language_des_margin">19.7dp</dimen>
+    <dimen name="part_checkbox_margin">15.3dp</dimen>
+    <dimen name="part_seekbar_interval">8.7dp</dimen>
+    <dimen name="part_button_width">144.1dp</dimen>
+    <!--Tablet part layout-->
+    <dimen name="full_config_horizontal_part_tablet_padding">13.1dp</dimen>
+    <dimen name="public_translation_horizontal_part_tablet_padding">13.1dp</dimen>
+    <dimen name="public_language_button_part_tablet_width">126.6dp</dimen>
+    <dimen name="public_language_button_part_tablet_height">34.9dp</dimen>
+    <!--Tablet full layout-->
+    <dimen name="full_language_button_height">39.3dp</dimen>
+    <dimen name="public_translation_horizontal_tablet_padding">113.5dp</dimen>
+    <dimen name="public_preview_horizontal_tablet_padding">134.8dp</dimen>
+    <dimen name="public_preview_tablet_height">222.4dp</dimen>
+    <dimen name="public_language_button_tablet_width">202.1dp</dimen>
+    <dimen name="split_window_horizontal_padding">4dp</dimen>
+    <dimen name="split_window_navigation_bar_vertical_padding">6.6dp</dimen>
+    <dimen name="split_window_content_padding_top">13.1dp</dimen>
+    <dimen name="split_window_content_padding_bottom">5.5dp</dimen>
+    <dimen name="full_guide_top">41.5dp</dimen>
+    <dimen name="full_guide_height">262.0dp</dimen>
+    <dimen name="full_guide_width">262.0dp</dimen>
+    <dimen name="full_switch_height">61.1dp</dimen>
+    <!--Dialog-->
+    <dimen name="dialog_rounded_corner_radius">17.5dp</dimen>
+    <dimen name="dialog_margin_bottom">21.8dp</dimen>
+    <dimen name="dialog_width">357.8dp</dimen>
+    <dimen name="dialog_horizontal_padding">26.2dp</dimen>
+    <dimen name="dialog_vertical_padding">26.2dp</dimen>
+    <dimen name="dialog_text_button_margin">26.2dp</dimen>
+    <dimen name="dialog_button_height">52.4dp</dimen>
+    <dimen name="text_dialog_rounded_corner_radius">21.8dp</dimen>
+    <dimen name="text_dialog_text_button_margin">17.5dp</dimen>
+    <dimen name="text_dialog_bottom_padding">17.5dp</dimen>
+    <dimen name="text_dialog_button_margin">8.7dp</dimen>
+    <dimen name="text_dialog_button_height">48.0dp</dimen>
+
+    <dimen name="dp_4">4.4dp</dimen>
+    <dimen name="dp_6">6.6dp</dimen>
+    <dimen name="dp_7">7.6dp</dimen>
+    <dimen name="dp_8">8.7dp</dimen>
+    <dimen name="dp_12">13.1dp</dimen>
+    <dimen name="dp_14">15.3dp</dimen>
+    <dimen name="dp_16">17.5dp</dimen>
+    <dimen name="dp_18">19.7dp</dimen>
+    <dimen name="dp_24">26.2dp</dimen>
+    <dimen name="dp_32">34.9dp</dimen>
+    <dimen name="dp_34">37.1dp</dimen>
+    <dimen name="dp_48">52.4dp</dimen>
+    <dimen name="dp_200">218.3dp</dimen>
+
+
+
+
+
+</resources>

@@ -1,0 +1,23 @@
+<!-- styles.xml -->
+<resources>
+
+    <!-- 悬浮 Dialog 主题：要透明/浮动以便背景模糊可见 -->
+    <style name="Theme.FloatingOverlayDialog" parent="Theme.AppCompat.Dialog">
+        <!-- 让 Window 半透明，才能看到背后内容 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@drawable/overlay_dialog_bg</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+        <!-- 只在这个 Window 范围内模糊背后内容 -->
+<!--        <item name="android:windowBackgroundBlurRadius">30dp</item>-->
+        <!-- 或者模糊整个屏幕（Window 背后所有内容） -->
+<!--        <item name="android:windowBlurBehindEnabled">true</item>-->
+<!--        <item name="android:windowBlurBehindRadius">40DP</item>-->
+        <!-- 取消默认的 dim，否则 dim 层也会挡住交互 -->
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="PopupAnimation">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style>
+</resources>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Titulky v reálném čase"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Nastavení titulků"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Překlad"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"Dvojjazyčné zobrazení"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Velikost písma"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Neprůhlednost pozadí"</string>
+	<!---->
+	<string name="subtitles_appear_des">"Titulky budou vypadat takto"</string>
+	<!---->
+	<string name="subtitles_fun_des">"Plovoucí okno s titulky můžete aktivovat pomocí bočního panelu nebo rychlého nastavení. Po aktivaci zaznamená systémový zvuk nebo okolní zvuky a převádí je v reálném čase na text, přičemž podporuje více jazyků a překlad."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Podpora převodu zvuku na text v reálném čase. Plovoucí okno titulků můžete otevřít v ovládacím centru nebo na bočním panelu."</string>
+	<!---->
+	<string name="subtitles_source_language">"Zdrojový jazyk"</string>
+	<!---->
+	<string name="subtitles_target_language">"Cílový jazyk"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"Angličtina"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"Angličtina"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"Dolní aplikace nepodporuje rozdělenou obrazovku"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"Nelze načíst. Zkuste to znovu."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"Náhled obrázku"</string>
+	<!---->
+	<string name="subtitles_notice_des">"Titulky jsou povoleny.\nAutomaticky rozpoznat zvuky systému a mikrofonu a vygenerovat titulky."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Konflikt oprávnění aplikace. Před použitím titulků vypněte záznam."</string>
+	<!---->
+	<string name="font_size_small">"Malá"</string>
+	<!---->
+	<string name="font_size_default">"Výchozí nastavení"</string>
+	<!---->
+	<string name="font_size_large">"Velké"</string>
+	<!---->
+	<string name="subtitles_translation_by">"Přeložit podle"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Konflikt v oprávnění aplikace. Titulky byly vypnuty."</string>
+	<!---->
+	<string name="permissions_denied_tip">"Oprávnění byla zamítnuta. Změnu lze provést v nabídce Nastavení > Aplikace."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Nastavení"</string>
+	<!---->
+	<string name="recognising_system">"Rozpoznávání systémových zvuků"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Povolit záznam okolních zvuků"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"Rozpoznávání systémových a okolních zvuků"</string>
+	<!---->
+	<string name="ok_button">"OK"</string>
+	<!---->
+	<string name="retry_button">"Zkusit znovu"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"V síti došlo k výjimce. Proběhlo přepnutí na offline překlad."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Na serveru došlo k výjimce. Proběhlo přepnutí na offline překlad."</string>
+	<!---->
+	<string name="server_input_error">"Omlouváme se, ale aktuální vstup nelze zpracovat. Zkuste použít jiný."</string>
+	<!---->
+	<string name="free_quota_exhausted">"Bezplatná kvóta byla vyčerpána. Chcete-li v použití překladové služby pokračovat, dobijte si členství."</string>
+	<!---->
+	<string name="reached_membership_limit">"Dosáhli jste limitu využití pro svou aktuální úroveň členství. Chcete-li v použití překladové služby pokračovat, úroveň členství upgradujte."</string>
+	<!---->
+	<string name="top_up_membership">"Dobít členství"</string>
+	<!---->
+	<string name="upgrade_membership">"Upgradovat členství"</string>
+	<!---->
+	<string name="turn_off_translation">"Vypnout překlad"</string>
+	<!---->
+	<string name="login_failed_token_expired">"Platnost přihlášení vypršela. Přihlaste se znovu."</string>
+	<!---->
+	<string name="nav_bar_settings">"Nastavení"</string>
+	<!---->
+	<string name="nav_bar_record">"Mikrofon"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Přejít na rozdělenou obrazovku"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Ukončit režim rozdělené obrazovky"</string>
+	<!---->
+	<string name="nav_bar_close">"Zavřít"</string>
+	<!---->
+	<string name="nav_bar_back">"Zpět"</string>
+	<!---->
+	<string name="slider">"Jezdec"</string>
+	<!---->
+	<string name="switch_on">"Zapnuto"</string>
+	<!---->
+	<string name="switch_off">"Vypnuto"</string>
+	<!---->
+	<string name="common_text_cancel">"Zrušit"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"Chcete-li používat funkce související s Al, musíte povolit aplikaci TCL Al. Chcete-li ji povolit, můžete postupně vybrat položky Nastavení > Aplikace > Zobrazit všechny aplikace > Informace o aplikaci TCL Al."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"Chcete-li používat funkce související s Al, musíte povolit aplikaci TCL Al. Chcete-li ji povolit, můžete postupně vybrat položky Nastavení > Aplikace > Zobrazit všechny aplikace > Informace o aplikaci TCL Al."</string>
+	<!---->
+	<string name="drag_bar_description">"Změna velikosti okna"</string>
+	<!---->
+	<string name="network_exception_tip">"V síti došlo k výjimce. Zkontrolujte síť."</string>
+	<!---->
+	<string name="simplified_chinese">"Zjednodušená čínština"</string>
+	<!---->
+	<string name="traditional_chinese">"Tradiční čínština"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"Byla zjištěna nadstandardní aktivita. Než bude možné pokračovat, přihlaste se."</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"Chcete-li účet ochránit, přihlaste se a pokračujte."</string>
+	<!---->
+	<string name="nav_bar_copy">"Kopírovat"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Zkopírováno"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Klepnutím obnovíte titulky."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"Kvóta pro tuto funkci byla vyčerpána"</string>
+	<!---->
+	<string name="free_credit_exhausted">"Bezplatná kvóta byla vyčerpána. Chcete-li v použití překladové služby pokračovat, dobijte si členství."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"Dosáhli jste limitu využití pro svou aktuální úroveň členství. Chcete-li v použití překladové služby pokračovat, úroveň členství upgradujte."</string>
+</resources>

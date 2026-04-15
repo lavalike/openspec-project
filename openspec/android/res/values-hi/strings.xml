@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"रियल-टाइम उपशीर्षक"</string>
+	<!---->
+	<string name="subtitles_settings_title">"सबटाइटल सेटिंग्स"</string>
+	<!---->
+	<string name="subtitles_translation_title">"अनुवाद"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"द्विभाषी प्रदर्शन"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"अक्षरों का आकार"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"बैकग्राउंड पारदर्शिता"</string>
+	<!---->
+	<string name="subtitles_appear_des">"उपशीर्षक इस प्रकार दिखाई देंगे"</string>
+	<!---->
+	<string name="subtitles_fun_des">"आप साइडबार या त्वरित सेटिंग्स के माध्यम से सबटाइटल फ़्लोटिंग विंडो को सक्रिय कर सकते हैं। एक बार सक्षम होने के बाद, यह सिस्टम ऑडियो या परिवेश ध्वनियों को कैप्चर करता है और उन्हें वास्तविक समय में, कई भाषाओं और अनुवाद के समर्थन के साथ टेक्स्ट में परिवर्तित करता है।"</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"पाठ रूपांतरण के लिए रियल टाइम ऑडियो का समर्थन करें। आप नियंत्रण केंद्र या साइडबार में सबटाइटल फ्लोटिंग विंडो खोल सकते हैं।"</string>
+	<!---->
+	<string name="subtitles_source_language">"सोर्स भाषा"</string>
+	<!---->
+	<string name="subtitles_target_language">"टार्गेट भाषा"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"अंग्रेज़ी"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"अंग्रेज़ी"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"निचला ऐप स्प्लिट स्क्रीन का समर्थन नहीं करता है"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"लोड नहीं हो सका. पुनः प्रयास करें।"</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"इमेज का प्रीव्यू करें"</string>
+	<!---->
+	<string name="subtitles_notice_des">"सबटाइटल सक्षम हैं।\n सिस्टम या माइक्रोफ़ोन ध्वनियों को स्वचालित रूप से पहचानें और सबटाइटल जनरेट करें।"</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"एप्लिकेशन परमिशन कॉन्फ्लिक्ट। सबटाइटल का उपयोग करने से पहले रिकॉर्डिंग ऑफ करें।"</string>
+	<!---->
+	<string name="font_size_small">"छोटा"</string>
+	<!---->
+	<string name="font_size_default">"डिफ़ॉल्ट"</string>
+	<!---->
+	<string name="font_size_large">"बड़ा"</string>
+	<!---->
+	<string name="subtitles_translation_by">"द्वारा अनुवाद"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"एप्लिकेशन परमिशन कॉन्फ्लिक्ट। सबटाइटल ऑफ कर दिए गए हैं ।"</string>
+	<!---->
+	<string name="permissions_denied_tip">"अनुमतियाँ अस्वीकृत।आप उन्हें सैटिंग्स > ऐप्स में बदल सकते हैं।"</string>
+	<!---->
+	<string name="permissions_settings_tip">"सेटिंग्स"</string>
+	<!---->
+	<string name="recognising_system">"सिस्टम ध्वनि को पहचानते हुए"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"परिवेशी ध्वनियों को रिकॉर्ड करने के लिए सक्षम करें"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"सिस्टम और परिवेशी ध्वनियों को पहचानते हुए"</string>
+	<!---->
+	<string name="ok_button">"ओके"</string>
+	<!---->
+	<string name="retry_button">"पुन: प्रयास करें"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"नेटवर्क अपवाद। ऑफ़लाइन अनुवाद पर स्विच किया गया।"</string>
+	<!---->
+	<string name="server_exception_switched_offline">"सर्वर अपवाद। ऑफ़लाइन अनुवाद पर स्विच किया गया।"</string>
+	<!---->
+	<string name="server_input_error">"क्षमा करें, हम वर्तमान इनपुट को संसाधित नहीं कर सकते। कोई भिन्न इनपुट आज़माएं।"</string>
+	<!---->
+	<string name="free_quota_exhausted">"मुफ्त कोटा समाप्त हो गया है। अनुवाद सेवा का उपयोग जारी रखने के लिए अपनी सदस्यता को रिचार्ज करें।"</string>
+	<!---->
+	<string name="reached_membership_limit">"आप अपने वर्तमान सदस्यता स्तर के लिए उपयोग सीमा तक पहुँच गए हैं। अनुवाद सेवा का उपयोग जारी रखने के लिए अपने सदस्यता स्तर को अपग्रेड करें।"</string>
+	<!---->
+	<string name="top_up_membership">"Top up member"</string>
+	<!---->
+	<string name="upgrade_membership">"Upgrade membership"</string>
+	<!---->
+	<string name="turn_off_translation">"अनुवाद ऑफ करें"</string>
+	<!---->
+	<string name="login_failed_token_expired">"लॉगिन की समय सीमा समाप्त हो गई। फिर से लॉग इन करें।"</string>
+	<!---->
+	<string name="nav_bar_settings">"सेटिंग्स"</string>
+	<!---->
+	<string name="nav_bar_record">"माइक्रोफ़ोन"</string>
+	<!---->
+	<string name="nav_bar_split_in">"स्प्लिट स्क्रीन दर्ज करें"</string>
+	<!---->
+	<string name="nav_bar_split_out">"स्प्लिट स्क्रीन से बाहर निकलें"</string>
+	<!---->
+	<string name="nav_bar_close">"बंद करें"</string>
+	<!---->
+	<string name="nav_bar_back">"वापस जाएं"</string>
+	<!---->
+	<string name="slider">"स्लाइडर"</string>
+	<!---->
+	<string name="switch_on">"ऑन करें"</string>
+	<!---->
+	<string name="switch_off">"ऑफ करें"</string>
+	<!---->
+	<string name="common_text_cancel">"रद्द करें"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"AI-संबंधित कार्यों का उपयोग करने के लिए, आपको TCL AI एप्लिकेशन को सक्षम करना होगा। आप इसे सक्षम करने के लिए सेटिंग > ऐप्स > सभी एप्स देखें > क्रम में TCL AI ऐप जानकारी का चयन कर सकते हैं।"</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"AI-संबंधित कार्यों का उपयोग करने के लिए, आपको TCL AI एप्लिकेशन को सक्षम करना होगा। आप इसे सक्षम करने के लिए सेटिंग > ऐप्स > सभी एप्स देखें > क्रम में TCL AI ऐप जानकारी का चयन कर सकते हैं।"</string>
+	<!---->
+	<string name="drag_bar_description">"विंडो का आकार बदलें"</string>
+	<!---->
+	<string name="network_exception_tip">"नेटवर्क अपवाद।नेटवर्क जांचें।"</string>
+	<!---->
+	<string name="simplified_chinese">"सरलीकृत चीनी"</string>
+	<!---->
+	<string name="traditional_chinese">"पारंपरिक चीनी"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"अत्यधिक गतिविधि का पता चला। जारी रखने के लिए लॉग इन करें"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"खाता सुरक्षा सुनिश्चित करने के लिए, जारी रखने के लिए लॉग इन करें।"</string>
+	<!---->
+	<string name="nav_bar_copy">"प्रतिलिपि करें"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"कॉपी किया"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"सबटाइटल रीस्टोर करने के लिए टच करें।"</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"इस फ़ीचर का कोटा समाप्त हो गया है"</string>
+	<!---->
+	<string name="free_credit_exhausted">"मुफ्त कोटा समाप्त हो गया है। अनुवाद सेवा का उपयोग जारी रखने के लिए अपनी सदस्यता को रिचार्ज करें।"</string>
+	<!---->
+	<string name="membership_credit_exhausted">"आप अपने वर्तमान सदस्यता स्तर के लिए उपयोग सीमा तक पहुँच गए हैं। अनुवाद सेवा का उपयोग जारी रखने के लिए अपने सदस्यता स्तर को अपग्रेड करें।"</string>
+</resources>

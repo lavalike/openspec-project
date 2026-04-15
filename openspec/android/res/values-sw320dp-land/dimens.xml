@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Phone max-->
+    <dimen name="tips_content_padding_vertical">6dp</dimen>
+    <dimen name="tips_content_button_margin_bottom">4dp</dimen>
+</resources>

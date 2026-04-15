@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Napisy w czasie rzeczywistym"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Ustawienia napisów"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Tłumaczenie"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"Wyświetlanie dwujęzyczne"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Rozmiar czcionki"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Przezroczystość tła"</string>
+	<!---->
+	<string name="subtitles_appear_des">"Napisy będą wyświetlane w tej formie"</string>
+	<!---->
+	<string name="subtitles_fun_des">"Możesz aktywować pływające okno napisów za pomocą paska bocznego lub Szybkich ustawień. Po włączeniu funkcja ta przechwytuje dźwięk systemowy lub dźwięki otoczenia i przekształca je w tekst w czasie rzeczywistym, z obsługą wielu języków i tłumaczeniem."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Obsługujemy konwersję dźwięku na tekst w czasie rzeczywistym. Możesz otworzyć pływające okienko napisów w centrum sterowania lub na pasku bocznym."</string>
+	<!---->
+	<string name="subtitles_source_language">"Język źródłowy"</string>
+	<!---->
+	<string name="subtitles_target_language">"Język docelowy"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"Angielski"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"Angielski"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"Aplikacja dolna nie obsługuje podzielonego ekranu"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"Nie udało się załadować. Spróbuj ponownie."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"Podgląd obrazu"</string>
+	<!---->
+	<string name="subtitles_notice_des">"Napisy są włączone.\nAutomatycznie rozpoznawaj dźwięki systemu lub mikrofonu oraz generuj napisy."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Występuje konflikt zezwoleń aplikacji. Wyłącz nagrywanie, zanim zaczniesz korzystać z napisów."</string>
+	<!---->
+	<string name="font_size_small">"Mały"</string>
+	<!---->
+	<string name="font_size_default">"Domyślne"</string>
+	<!---->
+	<string name="font_size_large">"Duży"</string>
+	<!---->
+	<string name="subtitles_translation_by">"Tłumaczenie przy użyciu"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Konflikt zezwoleń aplikacji. Napisy zostały wyłączone."</string>
+	<!---->
+	<string name="permissions_denied_tip">"Odmowa przydzielenia uprawnień. Uprawnienia można zmienić, wybierając kolejno opcje Ustawienia > Aplikacje."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Ustawienia"</string>
+	<!---->
+	<string name="recognising_system">"Rozpoznawanie dźwięków systemu"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Włącz, aby nagrywać dźwięki otoczenia"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"Rozpoznawanie dźwięków systemu i otoczenia"</string>
+	<!---->
+	<string name="ok_button">"OK"</string>
+	<!---->
+	<string name="retry_button">"Spróbuj ponownie"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"Wyjątek sieci. Nastąpiło przejście do tłumaczenia offline."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Wyjątek serwera. Nastąpiło przejście do tłumaczenia offline."</string>
+	<!---->
+	<string name="server_input_error">"Niestety, nie możemy przetworzyć bieżących danych wejściowych. Wprowadź inne dane wejściowe."</string>
+	<!---->
+	<string name="free_quota_exhausted">"Darmowa kwota wyczerpała się. Doładuj członkostwo, aby móc dalej korzystać z usługi tłumaczeniowej."</string>
+	<!---->
+	<string name="reached_membership_limit">"Osiągnięty został limit korzystania na bieżącym poziomie członka. Podnieś poziom członkostwa, aby móc dalej korzystać z usługi tłumaczeniowej."</string>
+	<!---->
+	<string name="top_up_membership">"Doładuj członkostwo"</string>
+	<!---->
+	<string name="upgrade_membership">"Podnieś poziom członkostwa"</string>
+	<!---->
+	<string name="turn_off_translation">"Wyłącz tłumaczenie"</string>
+	<!---->
+	<string name="login_failed_token_expired">"Logowanie wygasło. Zaloguj ponownie."</string>
+	<!---->
+	<string name="nav_bar_settings">"Ustawienia"</string>
+	<!---->
+	<string name="nav_bar_record">"Mikrofon"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Przejdź do podzielonego ekranu"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Wyjdź z podzielonego ekranu"</string>
+	<!---->
+	<string name="nav_bar_close">"Zamknij"</string>
+	<!---->
+	<string name="nav_bar_back">"Wstecz"</string>
+	<!---->
+	<string name="slider">"Suwak"</string>
+	<!---->
+	<string name="switch_on">"Wł."</string>
+	<!---->
+	<string name="switch_off">"Wył."</string>
+	<!---->
+	<string name="common_text_cancel">"Anuluj"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"Aby korzystać z funkcji związanych z AI, włącz aplikację TCL AI. Aby to zrobić, wybierz kolejno opcje Ustawienia > Aplikacje > Wyświetl wszystkie aplikacje > Informacje o aplikacji TCL AI."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"Aby korzystać z funkcji związanych z AI, włącz aplikację TCL AI. Aby to zrobić, wybierz kolejno opcje Ustawienia > Aplikacje > Wyświetl wszystkie aplikacje > Informacje o aplikacji TCL AI."</string>
+	<!---->
+	<string name="drag_bar_description">"Zmień format okna"</string>
+	<!---->
+	<string name="network_exception_tip">"Wyjątek sieciowy. Sprawdź sieć."</string>
+	<!---->
+	<string name="simplified_chinese">"Uproszczony chiński"</string>
+	<!---->
+	<string name="traditional_chinese">"Tradycyjny chiński"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"Wykryto nadmiarową aktywność. Zaloguj się, aby kontynuować."</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"W trosce o bezpieczeństwo konta zaloguj się, aby kontynuować."</string>
+	<!---->
+	<string name="nav_bar_copy">"Kopiuj"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Skopiowano"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Dotknij, aby przywrócić napisy."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"Limit tej funkcji został wyczerpany"</string>
+	<!---->
+	<string name="free_credit_exhausted">"Darmowa kwota wyczerpała się. Doładuj członkostwo, aby móc dalej korzystać z usługi tłumaczeniowej."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"Osiągnięty został limit korzystania na bieżącym poziomie członka. Podnieś poziom członkostwa, aby móc dalej korzystać z usługi tłumaczeniowej."</string>
+</resources>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Undertexter i realtid"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Undertexter inställningar"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Översättning"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"Tvåspråkig display"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Teckensnittsstorlek"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Bakgrundsopacitet"</string>
+	<!---->
+	<string name="subtitles_appear_des">"Undertexter kommer att se ut så här"</string>
+	<!---->
+	<string name="subtitles_fun_des">"Du kan aktivera det flytande fönstret för undertexter via sidofältet eller snabbinställningarna. När det är aktiverat fångar det upp systemljud eller omgivningsljud och omvandlar dem till text i realtid, med stöd för flera språk och översättning."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Stöd konvertering av ljud till text i realtid. Du kan öppna undertextens flytande fönster i kontrollcentret eller sidofältet."</string>
+	<!---->
+	<string name="subtitles_source_language">"Källspråk"</string>
+	<!---->
+	<string name="subtitles_target_language">"Målspråk"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"Engelska"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"Engelska"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"Den nedre appen stöder inte delad skärm"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"Kunde inte läsa in. Försök igen"</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"Förhandsgranska bilden"</string>
+	<!---->
+	<string name="subtitles_notice_des">"Undertexter är aktiverade.\nKänn automatiskt igen system- eller mikrofonljud och generera undertexter."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Konflikt mellan applikationsbehörigheter. Stäng av inspelningen innan du använder undertexter."</string>
+	<!---->
+	<string name="font_size_small">"Liten"</string>
+	<!---->
+	<string name="font_size_default">"Standardinställning"</string>
+	<!---->
+	<string name="font_size_large">"Stor"</string>
+	<!---->
+	<string name="subtitles_translation_by">"Översättning av"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Applikationsbehörigheter konflikt. Undertexter har stängts av."</string>
+	<!---->
+	<string name="permissions_denied_tip">"Behörigheter nekade. Du kan ändra dessa i Inställningar > Appar."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Inställningar"</string>
+	<!---->
+	<string name="recognising_system">"Identifierar systemljud"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Aktivera för att spela in omgivande ljud"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"Identifierar system- och omgivande ljud"</string>
+	<!---->
+	<string name="ok_button">"OK"</string>
+	<!---->
+	<string name="retry_button">"Försök igen"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"Nätverk undantag. Bytte till offlineöversättning."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Serverundantag. Bytte till offlineöversättning."</string>
+	<!---->
+	<string name="server_input_error">"Vi kan tyvärr inte bearbeta den aktuella inmatningen. Prova en annan ingång."</string>
+	<!---->
+	<string name="free_quota_exhausted">"Den kostnadsfria kvoten har förbrukats. Ladda ditt medlemskap för att fortsätta använda översättningstjänsten."</string>
+	<!---->
+	<string name="reached_membership_limit">"Du har nått användningsgränsen för din nuvarande medlemsnivå. Uppgradera din medlemsnivå för att fortsätta använda översättningstjänsten."</string>
+	<!---->
+	<string name="top_up_membership">"Fyll på ditt medlemskap"</string>
+	<!---->
+	<string name="upgrade_membership">"Uppgradera medlemskap"</string>
+	<!---->
+	<string name="turn_off_translation">"Stäng av översättning"</string>
+	<!---->
+	<string name="login_failed_token_expired">"Inloggningen upphörde, logga in igen"</string>
+	<!---->
+	<string name="nav_bar_settings">"Inställningar"</string>
+	<!---->
+	<string name="nav_bar_record">"Mikrofon"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Gå in i delad skärm"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Avsluta delad skärm"</string>
+	<!---->
+	<string name="nav_bar_close">"Stäng"</string>
+	<!---->
+	<string name="nav_bar_back">"Tillbaka"</string>
+	<!---->
+	<string name="slider">"Skjutreglage"</string>
+	<!---->
+	<string name="switch_on">"På"</string>
+	<!---->
+	<string name="switch_off">"Av"</string>
+	<!---->
+	<string name="common_text_cancel">"Avbryt"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"För att använda AI-relaterade funktioner måste du aktivera TCL AI-appen. Du kan välja Inställningar > Appar > Se alla appar > TCL AI-appinfo i tur och ordning för att aktivera den."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"För att använda AI-relaterade funktioner måste du aktivera TCL AI-appen. Du kan välja Inställningar > Appar > Se alla appar > TCL AI-appinfo i tur och ordning för att aktivera den."</string>
+	<!---->
+	<string name="drag_bar_description">"Ändra storlek på fönstret"</string>
+	<!---->
+	<string name="network_exception_tip">"Undantag för nätverk. Kontrollera nätverksanslutningen."</string>
+	<!---->
+	<string name="simplified_chinese">"Förenklad kinesiska"</string>
+	<!---->
+	<string name="traditional_chinese">"Traditionell kinesisk"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"Överdriven aktivitet upptäckt. Logga in för att fortsätta"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"För att säkerhetställa kontosäkerheten, logga in för att fortsätta."</string>
+	<!---->
+	<string name="nav_bar_copy">"Kopiera"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Kopierat"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Rör för att återställa undertexter."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"Kvoten för den här funktionen har förbrukats"</string>
+	<!---->
+	<string name="free_credit_exhausted">"Den kostnadsfria kvoten har förbrukats. Ladda ditt medlemskap för att fortsätta använda översättningstjänsten."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"Du har nått användningsgränsen för din nuvarande medlemsnivå. Uppgradera din medlemsnivå för att fortsätta använda översättningstjänsten."</string>
+</resources>

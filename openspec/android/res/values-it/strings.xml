@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Sottotitoli in tempo reale"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Impostazioni dei sottotitoli"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Traduzione"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"Visualizzazione bilingue"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Dimensioni carattere"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Opacità sfondo"</string>
+	<!---->
+	<string name="subtitles_appear_des">"I sottotitoli appariranno in questo modo"</string>
+	<!---->
+	<string name="subtitles_fun_des">"Puoi attivare la finestra mobile dei sottotitoli tramite la Barra laterale o le Impostazioni rapide. Una volta abilitata, cattura l’audio di sistema o i suoni ambientali e li converte in testo in tempo reale, con supporto per più lingue e traduzione integrata."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Supporta la conversione da audio a testo in tempo reale. Sarà possibile aprire la finestra flottante dei sottotitoli nel centro di controllo o nella barra laterale."</string>
+	<!---->
+	<string name="subtitles_source_language">"Lingua di partenza"</string>
+	<!---->
+	<string name="subtitles_target_language">"Lingua di destinazione"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"Italiano"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"Italiano"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"L\'applicazione inferiore non supporta lo schermo diviso"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"Impossibile caricare. Riprovare."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"Anteprima immagine"</string>
+	<!---->
+	<string name="subtitles_notice_des">"I sottotitoli sono abilitati.\nRiconosce automaticamente i suoni del sistema o del microfono e genera sottotitoli."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Conflitto di permessi dell\'applicazione. Disattivare la registrazione prima di utilizzare i sottotitoli."</string>
+	<!---->
+	<string name="font_size_small">"Piccole"</string>
+	<!---->
+	<string name="font_size_default">"Predefinito"</string>
+	<!---->
+	<string name="font_size_large">"Grandi"</string>
+	<!---->
+	<string name="subtitles_translation_by">"Traduzione eseguita da"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Conflitto di autorizzazioni dell\'applicazione. I sottotitoli sono stati disattivati."</string>
+	<!---->
+	<string name="permissions_denied_tip">"Autorizzazioni negate. È possibile modificare le autorizzazioni in Impostazioni > Applicazioni."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Impostazioni"</string>
+	<!---->
+	<string name="recognising_system">"Riconoscimento dei suoni di sistema in corso"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Abilita per registrare i suoni ambientali"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"Riconoscimento dei suoni di sistema e ambientali in corso"</string>
+	<!---->
+	<string name="ok_button">"OK"</string>
+	<!---->
+	<string name="retry_button">"Riprova"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"Eccezione di rete. Passaggio effettuato alla traduzione offline."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Eccezione del server. Passato alla traduzione offline."</string>
+	<!---->
+	<string name="server_input_error">"Siamo spiacenti, non siamo in grado di elaborare l\'input attuale. Prova con un altro input."</string>
+	<!---->
+	<string name="free_quota_exhausted">"La quota gratuita è stata esaurita. Ricarica il tuo abbonamento per continuare a utilizzare il servizio di traduzione."</string>
+	<!---->
+	<string name="reached_membership_limit">"Ha raggiunto il limite di utilizzo per il tuo attuale livello di membership. Aumenta il tuo livello di appartenenza per continuare a utilizzare il servizio di traduzione."</string>
+	<!---->
+	<string name="top_up_membership">"Ricarica il tuo abbonamento"</string>
+	<!---->
+	<string name="upgrade_membership">"Aggiorna il tuo abbonamento"</string>
+	<!---->
+	<string name="turn_off_translation">"Disattiva la traduzione"</string>
+	<!---->
+	<string name="login_failed_token_expired">"Accesso scaduto. Si prega di eseguire nuovamente l’accesso."</string>
+	<!---->
+	<string name="nav_bar_settings">"Impostazioni"</string>
+	<!---->
+	<string name="nav_bar_record">"Microfono"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Accedi a Dividi schermo"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Esci dallo schermo suddiviso"</string>
+	<!---->
+	<string name="nav_bar_close">"Chiudi"</string>
+	<!---->
+	<string name="nav_bar_back">"Indietro"</string>
+	<!---->
+	<string name="slider">"Cursore"</string>
+	<!---->
+	<string name="switch_on">"Attivato"</string>
+	<!---->
+	<string name="switch_off">"Disattivato"</string>
+	<!---->
+	<string name="common_text_cancel">"Annulla"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"Per utilizzare le funzioni relative all\'intelligenza artificiale, è necessario attivare l\'app TCL AI. Sarà possibile selezionare Impostazioni > App > Visualizza tutte le app > Informazioni sull\'app TCL AI in sequenza per attivarla."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"Per utilizzare le funzioni relative all\'intelligenza artificiale, è necessario attivare l\'app TCL AI. Sarà possibile selezionare Impostazioni > App > Visualizza tutte le app > Informazioni sull\'app TCL AI in sequenza per attivarla."</string>
+	<!---->
+	<string name="drag_bar_description">"Ridimensiona la finestra"</string>
+	<!---->
+	<string name="network_exception_tip">"Eccezione di rete. Controllare la rete."</string>
+	<!---->
+	<string name="simplified_chinese">"Cinese semplificato"</string>
+	<!---->
+	<string name="traditional_chinese">"Cinese tradizionale"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"È stata rilevata un\'attività eccessiva. Accedere per continuare"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"Al fine di garantire la sicurezza dell\'account, accedi per continuare."</string>
+	<!---->
+	<string name="nav_bar_copy">"Copia"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Copiato"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Toccare per ripristinare i sottotitoli."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"La quota per questa funzione è stata esaurita"</string>
+	<!---->
+	<string name="free_credit_exhausted">"La quota gratuita è stata esaurita. Ricarica il tuo abbonamento per continuare a utilizzare il servizio di traduzione."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"Ha raggiunto il limite di utilizzo per il tuo attuale livello di membership. Aumenta il tuo livello di appartenenza per continuare a utilizzare il servizio di traduzione."</string>
+</resources>

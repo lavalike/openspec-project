@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Valós idejű felirat"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Feliratbeállítások"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Fordítás"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"Kétnyelvű megjelenítés"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Betűméret"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Háttér átlátszatlansága"</string>
+	<!---->
+	<string name="subtitles_appear_des">"A feliratok a következőképp jelennek meg"</string>
+	<!---->
+	<string name="subtitles_fun_des">"A felirat lebegő ablakot az Oldalsávban vagy a Gyorsbeállításokban lehet aktiválni. Ha be van kapcsolva, akkor rögzíti a rendszerhangot vagy a környezeti hangokat, és valós időben szöveggé alakítja őket, számos nyelv támogatásával és fordítás funkció biztosításával."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Támogatja a hang szövegre történő valós idejű átalakítását. A felirat lebegő ablakát a vezérlőközponton vagy az oldalsávon keresztül nyithatja meg."</string>
+	<!---->
+	<string name="subtitles_source_language">"Forrásnyelv"</string>
+	<!---->
+	<string name="subtitles_target_language">"Célnyelv"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"Angol"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"Angol"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"Az alábbi alkalmazás nem támogatja az osztott képernyős módot"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"A betöltés sikertelen. Próbálja meg újból."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"Kép előnézete"</string>
+	<!---->
+	<string name="subtitles_notice_des">"Felirat engedélyezve.\nRendszer- vagy mikrofonhangok automatikus felismerése és felirat generálása."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Konfliktus az applikáció engedélyei között. A felirat használata előtt állítsa le a felvételt."</string>
+	<!---->
+	<string name="font_size_small">"Kicsi"</string>
+	<!---->
+	<string name="font_size_default">"Alapbeállítás"</string>
+	<!---->
+	<string name="font_size_large">"Nagy"</string>
+	<!---->
+	<string name="subtitles_translation_by">"A fordítást biztosította:"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Alkalmazásengedélyek közötti ütközés. A feliratokat kikapcsoltuk."</string>
+	<!---->
+	<string name="permissions_denied_tip">"Engedélyek megtagadva. Az engedélyeket a Beállítások > Alkalmazások menüpontban módosíthatja."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Beállítások"</string>
+	<!---->
+	<string name="recognising_system">"Rendszerhang felismerése"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Környezeti hangot felvételének engedélyezése"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"Rendszer- és környezeti hangok felismerése"</string>
+	<!---->
+	<string name="ok_button">"OK"</string>
+	<!---->
+	<string name="retry_button">"Újrapróbálkozás"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"Hálózati kivétel. A rendszer átváltott offline fordításra."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Kiszolgálói kivétel. A rendszer átváltott offline fordításra."</string>
+	<!---->
+	<string name="server_input_error">"Sajnáljuk, a jelenlegi bevitel feldolgozása nem lehetséges. Próbáljon meg egy másik bevitelt."</string>
+	<!---->
+	<string name="free_quota_exhausted">"Az ingyenes keret kimerült. Töltse fel a csomagját a fordítási szolgáltatás további használatához."</string>
+	<!---->
+	<string name="reached_membership_limit">"Elérte a jelenlegi csomagjának felhasználási keretét. Váltson nagyobb csomagra a fordítási szolgáltatás további használatához."</string>
+	<!---->
+	<string name="top_up_membership">"Csomag feltöltése"</string>
+	<!---->
+	<string name="upgrade_membership">"Váltás nagyobb csomagra"</string>
+	<!---->
+	<string name="turn_off_translation">"Fordítás kikapcsolása"</string>
+	<!---->
+	<string name="login_failed_token_expired">"A bejelentkezés lejárt. Jelentkezzen be újra."</string>
+	<!---->
+	<string name="nav_bar_settings">"Beállítások"</string>
+	<!---->
+	<string name="nav_bar_record">"Mikrofon"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Belépés osztott képernyőbe"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Lépjen ki az osztott képernyős nézetből"</string>
+	<!---->
+	<string name="nav_bar_close">"Bezár"</string>
+	<!---->
+	<string name="nav_bar_back">"Vissza"</string>
+	<!---->
+	<string name="slider">"Állítógomb"</string>
+	<!---->
+	<string name="switch_on">"Be"</string>
+	<!---->
+	<string name="switch_off">"Ki"</string>
+	<!---->
+	<string name="common_text_cancel">"Mégse"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"Az MI-funkciók használatához engedélyeznie kell a TCL AI alkalmazást. Az alkalmazás engedélyezéséhez válassza a Beállítások > Alkalmazások > Összes alkalmazás megtekintése > TCL AI appinfó menüpontot."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"Az MI-funkciók használatához engedélyeznie kell a TCL AI alkalmazást. Az alkalmazás engedélyezéséhez válassza a Beállítások > Alkalmazások > Összes alkalmazás megtekintése > TCL AI appinfó menüpontot."</string>
+	<!---->
+	<string name="drag_bar_description">"Méretezze át az ablakot"</string>
+	<!---->
+	<string name="network_exception_tip">"Hálózati kivétel. Ellenőrizze a hálózatot."</string>
+	<!---->
+	<string name="simplified_chinese">"Kínai (egyszerűsített)"</string>
+	<!---->
+	<string name="traditional_chinese">"Kínai (hagyományos)"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"Túlzott mennyiségű tevékenység észlelve. Jelentkezzen be a folytatáshoz."</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"A fiókja biztonságának garantálása érdekében jelentkezzen be a folytatáshoz."</string>
+	<!---->
+	<string name="nav_bar_copy">"Másolás"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Másolva"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Érintse meg a felirat visszaállításához."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"Ennél a funkciónál elfogyott a kvóta"</string>
+	<!---->
+	<string name="free_credit_exhausted">"Az ingyenes keret kimerült. Töltse fel a csomagját a fordítási szolgáltatás további használatához."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"Elérte a jelenlegi csomagjának felhasználási keretét. Váltson nagyobb csomagra a fordítási szolgáltatás további használatához."</string>
+</resources>

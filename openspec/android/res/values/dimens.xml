@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="rounded_corner_radius">20dp</dimen>
+    <dimen name="draggable_spacer_width">20dp</dimen>
+    <dimen name="dragging_border_width">2dp</dimen>
+    <dimen name="draggable_click_padding">7dp</dimen>
+
+    <dimen name="nav_bar_button_size">28dp</dimen>
+    <dimen name="nav_bar_button_space">16dp</dimen>
+    <dimen name="nav_bar_margin_bottom">8dp</dimen>
+
+    <dimen name="drag_bar_width">40dp</dimen>
+    <dimen name="drag_bar_height">3dp</dimen>
+    <dimen name="drag_bar_margin_top">6dp</dimen>
+    <dimen name="drag_bar_margin_bottom">4dp</dimen>
+
+    <dimen name="floating_window_min_width">336dp</dimen>
+    <dimen name="floating_window_min_height">20dp</dimen>
+    <dimen name="floating_window_default_height">100dp</dimen>
+    <dimen name="floating_window_max_height">620dp</dimen>
+    <dimen name="floating_window_narrow_horizontal_padding">20dp</dimen>
+    <dimen name="floating_window_narrow_vertical_padding">12dp</dimen>
+
+    <dimen name="floating_window_translation_icon_height">24dp</dimen>
+    <dimen name="floating_window_translation_icon_margin_top">8dp</dimen>
+    <dimen name="floating_window_translation_icon_content_height">16dp</dimen>
+    <dimen name="floating_window_translation_icon_content_margin">3dp</dimen>
+
+    <dimen name="tips_window_margin_outside">10dp</dimen>
+    <dimen name="tips_window_arrow_radius">2dp</dimen>
+    <dimen name="tips_window_arrow_extra_margin_navigation">8dp</dimen>
+    <dimen name="tips_content_padding_vertical">20dp</dimen>
+    <dimen name="tips_content_padding_horizontal">20dp</dimen>
+    <dimen name="tips_content_button_margin_bottom">18dp</dimen>
+    <dimen name="tips_window_margin_navigation">8dp</dimen>
+    <dimen name="tips_content_button_padding_vertical">10dp</dimen>
+
+    <dimen name="full_config_horizontal_padding">12dp</dimen>
+    <dimen name="description_text_padding">24dp</dimen>
+    <dimen name="public_translation_horizontal_padding">20dp</dimen>
+    <dimen name="public_language_button_width">124dp</dimen>
+    <dimen name="public_language_button_height">40dp</dimen>
+    <dimen name="public_preview_horizontal_padding">12dp</dimen>
+    <dimen name="public_bilingual_top_bottom_padding">10dp</dimen>
+    <dimen name="public_preview_height">150dp</dimen>
+    <dimen name="part_activity_width">342dp</dimen>
+    <dimen name="part_header_height">60dp</dimen>
+    <dimen name="public_config_horizontal_padding">12dp</dimen>
+    <dimen name="preview_radius">12dp</dimen>
+    <dimen name="part_main_horizontal_padding">0dp</dimen>
+    <dimen name="full_description_text_bottom">24dp</dimen>
+    <dimen name="full_subtitles_toggle_top">20dp</dimen>
+    <dimen name="part_preview_screen_top">10dp</dimen>
+
+    <dimen name="content_line_extra_space">8dp</dimen>
+
+    <dimen name="retry_load_button_height">40dp</dimen>
+    <dimen name="retry_load_button_width">108dp</dimen>
+
+    <!--split-->
+    <dimen name="split_part_main_horizontal_padding">0dp</dimen>
+    <dimen name="split_part_preview_screen_padding">12dp</dimen>
+
+    <dimen name="split_translation_icon_height">20dp</dimen>
+    <dimen name="split_translation_icon_margin_top">8dp</dimen>
+    <dimen name="split_translation_icon_margin_bottom">4dp</dimen>
+    <!--part land phone layout-->
+    <dimen name="part_window_width">396dp</dimen>
+    <dimen name="part_font_size_bottom">8dp</dimen>
+    <dimen name="part_background_opacity_bottom">14dp</dimen>
+    <dimen name="part_background_font_text_vertical">14dp</dimen>
+    <dimen name="part_preview_screen_vertical">12dp</dimen>
+    <dimen name="part_Language_des_margin">18dp</dimen>
+    <dimen name="part_checkbox_margin">14dp</dimen>
+    <dimen name="part_seekbar_interval">8dp</dimen>
+    <!--Tablet part layout-->
+    <dimen name="full_config_horizontal_part_tablet_padding">12dp</dimen>
+    <dimen name="public_translation_horizontal_part_tablet_padding">20dp</dimen>
+    <dimen name="public_language_button_part_tablet_width">116dp</dimen>
+    <dimen name="public_language_button_part_tablet_height">32dp</dimen>
+    <!--Tablet full layout-->
+    <dimen name="full_language_button_height">40dp</dimen>
+    <dimen name="public_translation_horizontal_tablet_padding">104dp</dimen>
+    <dimen name="public_preview_horizontal_tablet_padding">134dp</dimen>
+    <dimen name="public_preview_tablet_height">222dp</dimen>
+    <dimen name="public_language_button_tablet_width">200dp</dimen>
+    <dimen name="split_window_horizontal_padding">4dp</dimen>
+    <dimen name="split_window_navigation_bar_vertical_padding">6dp</dimen>
+    <dimen name="split_window_content_padding_top">12dp</dimen>
+    <dimen name="split_window_content_padding_bottom">5dp</dimen>
+    <dimen name="full_guide_top">24dp</dimen>
+    <dimen name="full_guide_height">240dp</dimen>
+    <dimen name="full_guide_width">240dp</dimen>
+    <dimen name="full_switch_height">56dp</dimen>
+    <!--Dialog-->
+    <dimen name="dialog_rounded_corner_radius">16dp</dimen>
+    <dimen name="dialog_margin_bottom">20dp</dimen>
+    <dimen name="dialog_width">328dp</dimen>
+    <dimen name="dialog_horizontal_padding">24dp</dimen>
+    <dimen name="dialog_vertical_padding">24dp</dimen>
+    <dimen name="dialog_text_button_margin">24dp</dimen>
+    <dimen name="dialog_button_height">48dp</dimen>
+    <dimen name="text_dialog_rounded_corner_radius">20dp</dimen>
+    <dimen name="text_dialog_text_button_margin">16dp</dimen>
+    <dimen name="text_dialog_bottom_padding">16dp</dimen>
+    <dimen name="text_dialog_button_margin">8dp</dimen>
+    <dimen name="text_dialog_button_height">44dp</dimen>
+
+    <dimen name="dp_4">4dp</dimen>
+    <dimen name="dp_6">6dp</dimen>
+    <dimen name="dp_7">7dp</dimen>
+    <dimen name="dp_8">8dp</dimen>
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="dp_12">12dp</dimen>
+    <dimen name="dp_14">14dp</dimen>
+    <dimen name="dp_16">16dp</dimen>
+    <dimen name="dp_18">18dp</dimen>
+    <dimen name="dp_24">24dp</dimen>
+    <dimen name="dp_32">32dp</dimen>
+    <dimen name="dp_34">34dp</dimen>
+    <dimen name="dp_48">48dp</dimen>
+    <dimen name="dp_200">200dp</dimen>
+
+    <dimen name="sp_14">14sp</dimen>
+    <dimen name="sp_16">16sp</dimen>
+
+</resources>

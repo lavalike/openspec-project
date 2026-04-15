@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Untertitel in Echtzeit"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Einstellungen für Untertitel"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Übersetzung"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"Zweisprachige Anzeige"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Schriftgröße"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Deckkraft des Hintergrunds"</string>
+	<!---->
+	<string name="subtitles_appear_des">"Untertitel sehen so aus"</string>
+	<!---->
+	<string name="subtitles_fun_des">"Sie können das schwebende Fenster für Untertitel über die Seitenleiste oder die Schnelleinstellungen aktivieren. Einmal aktiviert, nimmt es System- oder Umgebungsgeräusche auf und wandelt sie in Echtzeit in Text um, wobei mehrere Sprachen und Übersetzungen unterstützt werden."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Unterstützt die Umwandlung von Audio in Text in Echtzeit. Sie können das schwebende Fenster für Untertitel im Steuerzentrum oder in der Seitenleiste öffnen."</string>
+	<!---->
+	<string name="subtitles_source_language">"Ausgangssprache"</string>
+	<!---->
+	<string name="subtitles_target_language">"Zielsprache"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"Englisch"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"Englisch"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"Die untere App unterstützt keinen geteilten Bildschirm"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"Konnte nicht laden. Bitte erneut versuchen."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"Bildvorschau"</string>
+	<!---->
+	<string name="subtitles_notice_des">"Untertitel sind aktiviert.\nEs werden automatisch System- oder Mikrofontöne erkannt und Untertitel erzeugt."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Konflikt der Anwendungsberechtigungen. Schalten Sie die Aufzeichnung ab, bevor Sie Untertitel nutzen."</string>
+	<!---->
+	<string name="font_size_small">"Klein"</string>
+	<!---->
+	<string name="font_size_default">"Standard"</string>
+	<!---->
+	<string name="font_size_large">"Groß"</string>
+	<!---->
+	<string name="subtitles_translation_by">"Übersetzung durch"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Konflikt bei Anwendungsberechtigungen. Untertitel wurden ausgeschaltet."</string>
+	<!---->
+	<string name="permissions_denied_tip">"Berechtigungen verweigert. Ändern Sie diese unter Einstellungen > Apps."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Einstellungen"</string>
+	<!---->
+	<string name="recognising_system">"Erkennung von Systemgeräuschen"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Aufnahme von Umgebungsgeräuschen aktivieren"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"Erkennung von System- und Umgebungsgeräuschen"</string>
+	<!---->
+	<string name="ok_button">"OK"</string>
+	<!---->
+	<string name="retry_button">"Wiederholen"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"Netzwerk-Ausnahme. Umgeschaltet auf Offline-Übersetzung."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Server-Ausnahme. Umgeschaltet auf Offline-Übersetzung."</string>
+	<!---->
+	<string name="server_input_error">"Leider können wir die aktuelle Eingabe nicht verarbeiten. Versuchen Sie eine andere Eingabe."</string>
+	<!---->
+	<string name="free_quota_exhausted">"Das kostenlose Kontingent ist erschöpft. Erweitern Sie Ihre Mitgliedschaft, um den Übersetzungsdienst weiterhin nutzen zu können."</string>
+	<!---->
+	<string name="reached_membership_limit">"Sie haben das Nutzungslimit für Ihre aktuelle Mitgliedschaftsstufe erreicht. Führen Sie ein Upgrade Ihrer Mitgliedschaftsstufe durch, um den Übersetzungsservice weiterhin nutzen zu können."</string>
+	<!---->
+	<string name="top_up_membership">"Ihre Mitgliedschaft erweitern"</string>
+	<!---->
+	<string name="upgrade_membership">"Ihre Mitgliedschaft upgraden"</string>
+	<!---->
+	<string name="turn_off_translation">"Übersetzung deaktivieren"</string>
+	<!---->
+	<string name="login_failed_token_expired">"Anmeldung ist abgelaufen. Erneut anmelden."</string>
+	<!---->
+	<string name="nav_bar_settings">"Einstellungen"</string>
+	<!---->
+	<string name="nav_bar_record">"Mikrofon"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Geteilten Bildschirm starten"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Geteilten Bildschirm verlassen"</string>
+	<!---->
+	<string name="nav_bar_close">"Schließen"</string>
+	<!---->
+	<string name="nav_bar_back">"Zurück"</string>
+	<!---->
+	<string name="slider">"Schieberegler"</string>
+	<!---->
+	<string name="switch_on">"An"</string>
+	<!---->
+	<string name="switch_off">"Aus"</string>
+	<!---->
+	<string name="common_text_cancel">"Abbrechen"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"Damit Sie KI-unterstützte Funktionen verwenden können, muss die TCL Al App aktiviert werden. Sie können dies unter Einstellungen > Apps > Alle anzeigen > TCL Al App Info aktivieren."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"Damit Sie KI-unterstützte Funktionen verwenden können, muss die TCL Al App aktiviert werden. Sie können dies unter Einstellungen > Apps > Alle anzeigen > TCL Al App Info aktivieren."</string>
+	<!---->
+	<string name="drag_bar_description">"Fenstergröße anpassen"</string>
+	<!---->
+	<string name="network_exception_tip">"Netzwerk-Fehler. Überprüfen Sie das Netzwerk."</string>
+	<!---->
+	<string name="simplified_chinese">"Vereinfachtes Chinesisch"</string>
+	<!---->
+	<string name="traditional_chinese">"Traditionelles Chinesisch"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"Übermäßige Aktivität erkannt. Bitte anmelden, um fortzufahren"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"Für die Kontosicherheit bitte zum Fortfahren anmelden."</string>
+	<!---->
+	<string name="nav_bar_copy">"Kopieren"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Kopiert"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Berühren, um die Untertitel wiederherzustellen."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"Das Kontingent für diese Funktion ist erschöpft."</string>
+	<!---->
+	<string name="free_credit_exhausted">"Das kostenlose Kontingent ist erschöpft. Erweitern Sie Ihre Mitgliedschaft, um den Übersetzungsdienst weiterhin nutzen zu können."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"Sie haben das Nutzungslimit für Ihre aktuelle Mitgliedschaftsstufe erreicht. Führen Sie ein Upgrade Ihrer Mitgliedschaftsstufe durch, um den Übersetzungsservice weiterhin nutzen zu können."</string>
+</resources>

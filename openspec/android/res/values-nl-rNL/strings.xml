@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Realtime ondertitels"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Instellingen ondertitels"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Vertaling"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"Tweetalige weergave"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Lettergrootte"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Achtergrondtransparantie"</string>
+	<!---->
+	<string name="subtitles_appear_des">"Ondertitels verschijnen als volgt"</string>
+	<!---->
+	<string name="subtitles_fun_des">"U kunt het zwevende ondertitelingsvenster activeren via de zijbalk of Snelle instellingen. Zodra het is ingeschakeld, vangt het systeemaudio of omgevingsgeluiden op en zet deze in real time om in tekst, met ondersteuning voor meerdere talen en vertaling."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Ondersteuning voor real-time conversie van audio naar tekst. U kunt het zwevende ondertitelingsvenster openen in het bedieningscentrum of de zijbalk."</string>
+	<!---->
+	<string name="subtitles_source_language">"Brontaal"</string>
+	<!---->
+	<string name="subtitles_target_language">"Doeltaal"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"Engels"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"Engels"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"Gesplitst scherm wordt door onderste app niet ondersteund"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"Kan niet laden. Probeer het opnieuw."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"Voorbeeldafbeelding"</string>
+	<!---->
+	<string name="subtitles_notice_des">"Ondertitels zijn ingeschakeld.\nHerken automatisch systeem- of microfoongeluiden en genereer ondertitels."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Conflict in applicatiemachtigingen. Schakel de opname uit voordat u ondertitels gebruikt."</string>
+	<!---->
+	<string name="font_size_small">"Klein"</string>
+	<!---->
+	<string name="font_size_default">"Standaard"</string>
+	<!---->
+	<string name="font_size_large">"Groot"</string>
+	<!---->
+	<string name="subtitles_translation_by">"Vertaling door"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Toepassingsmachtigingen conflicteren. Ondertitels zijn uitgeschakeld."</string>
+	<!---->
+	<string name="permissions_denied_tip">"Toestemmingen geweigerd. U kunt deze wijzigen in Instellingen > Apps."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Instellingen"</string>
+	<!---->
+	<string name="recognising_system">"Systeemgeluid herkennen"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Inschakelen om omgevingsgeluiden op te nemen"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"Systeem- en omgevingsgeluiden herkennen"</string>
+	<!---->
+	<string name="ok_button">"OK"</string>
+	<!---->
+	<string name="retry_button">"Opnieuw proberen"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"Netwerkuitzondering. Overgeschakeld naar offline vertaling."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Serveruitzondering. Overgeschakeld naar offline vertaling."</string>
+	<!---->
+	<string name="server_input_error">"We kunnen de huidige invoer niet verwerken. Probeer een andere invoer."</string>
+	<!---->
+	<string name="free_quota_exhausted">"Het gratis quotum is verbruikt. Waardeer uw lidmaatschap op om door te gaan met het gebruik van de vertaaldienst."</string>
+	<!---->
+	<string name="reached_membership_limit">"U hebt de gebruikslimiet voor uw huidige lidmaatschapsniveau bereikt. Upgrade uw lidmaatschapsniveau om door te gaan met het gebruik van de vertaaldienst."</string>
+	<!---->
+	<string name="top_up_membership">"Uw lidmaatschap opwaarderen"</string>
+	<!---->
+	<string name="upgrade_membership">"Uw lidmaatschap upgraden"</string>
+	<!---->
+	<string name="turn_off_translation">"Vertaling uitschakelen"</string>
+	<!---->
+	<string name="login_failed_token_expired">"Aanmelding is verlopen. Meld u opnieuw aan."</string>
+	<!---->
+	<string name="nav_bar_settings">"Instellingen"</string>
+	<!---->
+	<string name="nav_bar_record">"Microfoon"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Naar gesplitst scherm gaan"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Gesplitst scherm afsluiten"</string>
+	<!---->
+	<string name="nav_bar_close">"Sluiten"</string>
+	<!---->
+	<string name="nav_bar_back">"Terug"</string>
+	<!---->
+	<string name="slider">"Schuifregelaar"</string>
+	<!---->
+	<string name="switch_on">"Aan"</string>
+	<!---->
+	<string name="switch_off">"Uit"</string>
+	<!---->
+	<string name="common_text_cancel">"Annuleren"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"Als u Al-gerelateerde functies wilt gebruiken, moet u de TCL Al-app inschakelen. U kunt achtereenvolgens Instellingen > Apps > Alle apps weergeven > Info over TCL Al-app selecteren om de app in te schakelen."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"Als u Al-gerelateerde functies wilt gebruiken, moet u de TCL Al-app inschakelen. U kunt achtereenvolgens Instellingen > Apps > Alle apps weergeven > Info over TCL Al-app selecteren om de app in te schakelen."</string>
+	<!---->
+	<string name="drag_bar_description">"Vensterformaat aanpassen"</string>
+	<!---->
+	<string name="network_exception_tip">"Netwerkuitzondering. Controleer het netwerk."</string>
+	<!---->
+	<string name="simplified_chinese">"Vereenvoudigd Chinees"</string>
+	<!---->
+	<string name="traditional_chinese">"Traditioneel Chinees"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"Overmatige activiteit gedetecteerd. Log in om door te gaan"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"Om de veiligheid van uw account te garanderen, logt u in om door te gaan."</string>
+	<!---->
+	<string name="nav_bar_copy">"Kopiëren"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Gekopieerd"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Tik om de ondertitels te herstellen."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"Het maximumaantal voor deze functie is bereikt"</string>
+	<!---->
+	<string name="free_credit_exhausted">"Het gratis quotum is verbruikt. Waardeer uw lidmaatschap op om door te gaan met het gebruik van de vertaaldienst."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"U hebt de gebruikslimiet voor uw huidige lidmaatschapsniveau bereikt. Upgrade uw lidmaatschapsniveau om door te gaan met het gebruik van de vertaaldienst."</string>
+</resources>

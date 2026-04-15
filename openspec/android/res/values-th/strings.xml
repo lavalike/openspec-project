@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"คำบรรยายใต้ภาพตามเวลาจริง"</string>
+	<!---->
+	<string name="subtitles_settings_title">"การตั้งค่าคำบรรยายใต้ภาพ"</string>
+	<!---->
+	<string name="subtitles_translation_title">"การแปล"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"การแสดงแบบสองภาษา"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"ขนาดอักษร"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"ความทึบของพื้นหลัง"</string>
+	<!---->
+	<string name="subtitles_appear_des">"คำบรรยายใต้ภาพจะปรากฏขึ้นเช่นนี้"</string>
+	<!---->
+	<string name="subtitles_fun_des">"คุณสามารถเปิดใช้งานหน้าต่างลอยแสดงคำบรรยายได้โดยใช้แถบด้านข้างหรือการตั้งค่าด่วน เมื่อเปิดใช้งานแล้ว ฟังก์ชันนี้จะจับเสียงระบบหรือเสียงโดยรอบแล้วแปลงเป็นข้อความในแบบเรียลไทม์ โดยสามารถรองรับได้หลายภาษาและรองรับการแปลด้วย"</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"รองรับการแปลงเสียงแบบเรียลไทม์เป็นการสนทนาด้วยข้อความ คุณสามารถเปิดหน้าต่างแบบลอยของคำบรรยายได้ในศูนย์ควบคุมหรือแถบด้านข้าง"</string>
+	<!---->
+	<string name="subtitles_source_language">"ภาษาต้นทาง"</string>
+	<!---->
+	<string name="subtitles_target_language">"ภาษาปลายทาง"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"อังกฤษ"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"อังกฤษ"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"แอปด้านล่างไม่รองรับการแบ่งหน้าจอ"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"ไม่สามารถโหลดได้ ลองอีกครั้ง"</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"ภาพตัวอย่าง"</string>
+	<!---->
+	<string name="subtitles_notice_des">"คำบรรยายใต้ภาพถูกเปิดใช้งาน\nจะรับรู้เสียงของระบบหรือไมโครโฟนและสร้างคำบรรยายใต้ภาพขึ้นโดยอัตโนมัติ"</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"เกิดข้อขัดแย้งการอนุญาตของแอปพลิเคชัน ปิดการบันทึกเสียงก่อนที่จะใช้งานคำบรรยายใต้ภาพ"</string>
+	<!---->
+	<string name="font_size_small">"เล็ก"</string>
+	<!---->
+	<string name="font_size_default">"ค่าเริ่มต้น"</string>
+	<!---->
+	<string name="font_size_large">"ใหญ่"</string>
+	<!---->
+	<string name="subtitles_translation_by">"แปลโดย"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"เกิดข้อขัดแย้งของสิทธิ์การใช้ของแอปพลิเคชัน คำบรรยายใต้ภาพถูกปิดลงแล้ว"</string>
+	<!---->
+	<string name="permissions_denied_tip">"ปฏิเสธการขออนุญาตแล้ว คุณสามารถเปลี่ยนการขออนุญาตได้ใน การตั้งค่า > แอป"</string>
+	<!---->
+	<string name="permissions_settings_tip">"การตั้งค่า"</string>
+	<!---->
+	<string name="recognising_system">"กำลังจดจำเสียงของระบบ"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"เปิดใช้งานเพื่อบันทึกเสียงบรรยากาศ"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"กำลังจดจำเสียงของระบบและเสียงโดยรอบ"</string>
+	<!---->
+	<string name="ok_button">"ตกลง"</string>
+	<!---->
+	<string name="retry_button">"ลองอีกครั้ง"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"ข้อยกเว้นการทำงานของเครือข่าย สลับเป็นการแปลแบบออฟไลน์"</string>
+	<!---->
+	<string name="server_exception_switched_offline">"ข้อยกเว้นการทำงานของเซิร์ฟเวอร์ สลับเป็นการแปลแบบออฟไลน์"</string>
+	<!---->
+	<string name="server_input_error">"ขออภัย เราไม่สามารถประมวลผลข้อมูลที่ป้อนในขณะนี้ได้ ลองป้อนข้อมูลอื่น"</string>
+	<!---->
+	<string name="free_quota_exhausted">"โควต้าฟรีถูกใช้หมดแล้ว ชำระค่าสมาชิกของคุณเพื่อใช้บริการแปลต่อไป"</string>
+	<!---->
+	<string name="reached_membership_limit">"คุณใช้งานถึงขีดจำกัดสูงสุดสำหรับระดับสมาชิกปัจจุบันของคุณแล้ว อัปเกรดระดับสมาชิกของคุณเพื่อใช้บริการแปลต่อไป"</string>
+	<!---->
+	<string name="top_up_membership">"เติมเงินสำหรับค่าสมาชิกของคุณ"</string>
+	<!---->
+	<string name="upgrade_membership">"อัปเกรดสมาชิกของคุณ"</string>
+	<!---->
+	<string name="turn_off_translation">"ปิดการแปล"</string>
+	<!---->
+	<string name="login_failed_token_expired">"การล็อกอินหมดเวลา โปรดล็อกอินอีกครั้ง"</string>
+	<!---->
+	<string name="nav_bar_settings">"การตั้งค่า"</string>
+	<!---->
+	<string name="nav_bar_record">"ไมโครโฟน"</string>
+	<!---->
+	<string name="nav_bar_split_in">"เข้าโหมดการแบ่งหน้าจอ"</string>
+	<!---->
+	<string name="nav_bar_split_out">"ออกจากการแบ่งหน้าจอ"</string>
+	<!---->
+	<string name="nav_bar_close">"ปิด"</string>
+	<!---->
+	<string name="nav_bar_back">"ย้อนกลับ"</string>
+	<!---->
+	<string name="slider">"ตัวเลื่อน"</string>
+	<!---->
+	<string name="switch_on">"เปิด"</string>
+	<!---->
+	<string name="switch_off">"ปิด"</string>
+	<!---->
+	<string name="common_text_cancel">"ยกเลิก"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"หากต้องการใช้ฟังก์ชันที่เกี่ยวกับ Al คุณจำเป็นต้องเปิดใช้งานแอป TCL Al คุณสามารถเปิดใช้งานแอปได้โดยการเลือก การตั้งค่า > แอป > ดูแอปทั้งหมด > ข้อมูลแอป TCL Al ตามลำดับเพื่อเปิดใช้งานแอป"</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"หากต้องการใช้ฟังก์ชันที่เกี่ยวกับ Al คุณจำเป็นต้องเปิดใช้งานแอป TCL Al คุณสามารถเปิดใช้งานแอปได้โดยการเลือก การตั้งค่า > แอป > ดูแอปทั้งหมด > ข้อมูลแอป TCL Al ตามลำดับเพื่อเปิดใช้งานแอป"</string>
+	<!---->
+	<string name="drag_bar_description">"ปรับขนาดหน้าต่าง"</string>
+	<!---->
+	<string name="network_exception_tip">"ข้อยกเว้นของเครือข่าย โปรดตรวจสอบเครือข่าย"</string>
+	<!---->
+	<string name="simplified_chinese">"จีนประยุกต์"</string>
+	<!---->
+	<string name="traditional_chinese">"จีนดั้งเดิม"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"ตรวจพบกิจกรรมมากเกินปกติ เข้าสู่ระบบเพื่อดำเนินการต่อ"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"เพื่อให้แน่ใจถึงความปลอดภัยของบัญชี เข้าสู่ระบบเพื่อดำเนินการต่อ"</string>
+	<!---->
+	<string name="nav_bar_copy">"คัดลอก"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"คัดลอกแล้ว"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"แตะเพื่อเรียกคืนคำบรรยาย"</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"โควต้าสำหรับคุณสมบัตินี้ได้ใช้หมดแล้ว"</string>
+	<!---->
+	<string name="free_credit_exhausted">"โควต้าฟรีถูกใช้หมดแล้ว ชำระค่าสมาชิกของคุณเพื่อใช้บริการแปลต่อไป"</string>
+	<!---->
+	<string name="membership_credit_exhausted">"คุณใช้งานถึงขีดจำกัดสูงสุดสำหรับระดับสมาชิกปัจจุบันของคุณแล้ว อัปเกรดระดับสมาชิกของคุณเพื่อใช้บริการแปลต่อไป"</string>
+</resources>

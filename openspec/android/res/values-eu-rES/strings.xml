@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Denbora errealeko azpitituluak"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Azpitituluen ezarpenak"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Itzulpena"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"Bistaratze elebiduna"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Letra-tamaina"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Atzeko planoaren opakutasuna"</string>
+	<!---->
+	<string name="subtitles_appear_des">"Azpitituluak honela bistaratuko dira"</string>
+	<!---->
+	<string name="subtitles_fun_des">"Azpitituluen leiho gainerakorra alboko barraren edo ezarpen bizkorren bidez aktiba dezakezu. Gaituta dagoenean, sistemaren audioa edo inguruko soinuak kapturatu eta testu bihurtzen ditu denbora errealean, eta hizkuntza anitzetarako eta itzulpenetarako laguntza eskaintzen du."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Onartu denbora errealeko audioa testu bihurtzea. Azpitituluen leiho gainerakorra ireki dezakezu kontrol-zentroan edo alboko barran."</string>
+	<!---->
+	<string name="subtitles_source_language">"Iturburu-hizkuntza"</string>
+	<!---->
+	<string name="subtitles_target_language">"Xede-hizkuntza"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"Euskara"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"Euskara"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"Beheko aplikazioarekin ezin da erabili zatitutako pantaila"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"Ezin izan da kargatu. Saiatu berriro."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"Aurreikusi irudia"</string>
+	<!---->
+	<string name="subtitles_notice_des">"Azpitituluak gaituta daude.\nEzagutu automatikoki sistemaren edo mikrofonoaren soinuak eta sortu azpitituluak."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Aplikazio-baimenen gatazka. Azpitituluak erabili aurretik, desaktibatu grabaketa."</string>
+	<!---->
+	<string name="font_size_small">"Txikia"</string>
+	<!---->
+	<string name="font_size_default">"Lehenetsia"</string>
+	<!---->
+	<string name="font_size_large">"Handia"</string>
+	<!---->
+	<string name="subtitles_translation_by">"Itzulpenaren hornitzailea:"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Aplikazio-baimenen gatazka. Azpitituluak desaktibatu dira."</string>
+	<!---->
+	<string name="permissions_denied_tip">"Ez dira eman baimenak. Horiek Ezarpenak > Aplikazioak atalean alda ditzakezu."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Ezarpenak"</string>
+	<!---->
+	<string name="recognising_system">"Sistemaren soinua ezagutzen"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Gaitu inguruneko soinuak grabatzeko"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"Sistemaren soinua eta inguruneko soinuak ezagutzen"</string>
+	<!---->
+	<string name="ok_button">"Ados"</string>
+	<!---->
+	<string name="retry_button">"Saiatu berriro"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"Sarearen salbuespena. Lineaz kanpoko itzulpenera aldatu da."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Zerbitzariaren salbuespena. Lineaz kanpoko itzulpenera aldatu da."</string>
+	<!---->
+	<string name="server_input_error">"Ezin dugu prozesatu uneko sarrera. Saiatu beste sarrera batekin."</string>
+	<!---->
+	<string name="free_quota_exhausted">"Doako kuota agortu da. Kargatu bazkidetza itzulpen-zerbitzua erabiltzen jarraitzeko."</string>
+	<!---->
+	<string name="reached_membership_limit">"Uneko bazkidetza-mailaren erabilera-mugara iritsi zara. Bertsio-berritu bazkidetza-maila itzulpen-zerbitzua erabiltzen jarraitzeko."</string>
+	<!---->
+	<string name="top_up_membership">"Kargatu bazkidetza"</string>
+	<!---->
+	<string name="upgrade_membership">"Bertsio-berritu bazkidetza"</string>
+	<!---->
+	<string name="turn_off_translation">"Desaktibatu itzulpena"</string>
+	<!---->
+	<string name="login_failed_token_expired">"Saio-hasiera iraungi da. Hasi saioa berriro."</string>
+	<!---->
+	<string name="nav_bar_settings">"Ezarpenak"</string>
+	<!---->
+	<string name="nav_bar_record">"Mikrofonoa"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Sartu zatitutako pantailan"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Irten zatitutako pantailatik"</string>
+	<!---->
+	<string name="nav_bar_close">"Itxi"</string>
+	<!---->
+	<string name="nav_bar_back">"Atzera"</string>
+	<!---->
+	<string name="slider">"Botoi lerrakorra"</string>
+	<!---->
+	<string name="switch_on">"Aktibatuta"</string>
+	<!---->
+	<string name="switch_off">"Desaktibatuta"</string>
+	<!---->
+	<string name="common_text_cancel">"Utzi"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"AArekin lotutako funtzioak erabiltzeko, TCL AA aplikazioa gaitu behar duzu. Hura gaitzeko, hautatu sekuentzian Ezarpenak > Aplikazioak > Ikusi aplikazio guztiak > TCL AA aplikazioaren informazioa."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"AArekin lotutako funtzioak erabiltzeko, TCL AA aplikazioa gaitu behar duzu. Hura gaitzeko, hautatu sekuentzian Ezarpenak > Aplikazioak > Ikusi aplikazio guztiak > TCL AA aplikazioaren informazioa."</string>
+	<!---->
+	<string name="drag_bar_description">"Aldatu leihoaren tamaina"</string>
+	<!---->
+	<string name="network_exception_tip">"Sarearen salbuespena. Egiaztatu sare-konexioa."</string>
+	<!---->
+	<string name="simplified_chinese">"Txinera sinplifikatua"</string>
+	<!---->
+	<string name="traditional_chinese">"Txinera tradizionala"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"Gehiegiko jarduera hauteman da. Hasi saioa jarraitzeko."</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"Kontuaren segurtasuna ziurtatzeko, hasi saioa aurrera egiteko."</string>
+	<!---->
+	<string name="nav_bar_copy">"Kopiatu"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Kopiatuta"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Sakatu azpitituluak berrezartzeko."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"Eginbide honen kuota agortu da"</string>
+	<!---->
+	<string name="free_credit_exhausted">"Doako kuota agortu da. Kargatu bazkidetza itzulpen-zerbitzua erabiltzen jarraitzeko."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"Uneko bazkidetza-mailaren erabilera-mugara iritsi zara. Bertsio-berritu bazkidetza-maila itzulpen-zerbitzua erabiltzen jarraitzeko."</string>
+</resources>

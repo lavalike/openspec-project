@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Субтитри у режимі реального часу"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Налаштування субтитрів"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Переклад"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"Двомовний дисплей"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Розмір шрифту"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Прозорість фону"</string>
+	<!---->
+	<string name="subtitles_appear_des">"Субтитри виглядатимуть так"</string>
+	<!---->
+	<string name="subtitles_fun_des">"Ви можете активувати спливаюче вікно субтитрів через Бічну панель або Швидкі налаштування. Після активації воно захоплює системний або навколишній звук і перетворює його в текст у реальному часі з підтримкою кількох мов і перекладу."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Підтримка перетворення звуку в текст у реальному часі. Ви можете відкрити плаваюче вікно субтитрів у центрі керування або на бічній панелі."</string>
+	<!---->
+	<string name="subtitles_source_language">"Вихідна мова"</string>
+	<!---->
+	<string name="subtitles_target_language">"Цільова мова"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"Англійська"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"Англійська"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"Нижня програма не підтримує поділ екрана"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"Не вдалося завантажити. Спробуйте знову."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"Попередній перегляд зображення"</string>
+	<!---->
+	<string name="subtitles_notice_des">"Субтитри увімкнено.\nАвтоматично розпізнає звуки системи й мікрофона та генерує субтитри."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Конфлікт дозволів для програми. Вимкніть запис перед використанням субтитрів."</string>
+	<!---->
+	<string name="font_size_small">"Малий"</string>
+	<!---->
+	<string name="font_size_default">"За замовчуванням"</string>
+	<!---->
+	<string name="font_size_large">"Великий"</string>
+	<!---->
+	<string name="subtitles_translation_by">"Переклад"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Конфлікт дозволів програми. Субтитри вимкнено."</string>
+	<!---->
+	<string name="permissions_denied_tip">"У дозволах відмовлено. Дозволи можна змінити в пункті меню Налаштування >Програми."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Налаштування"</string>
+	<!---->
+	<string name="recognising_system">"Розпізнавання системних звуків"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Увімкнути запис навколишніх звуків"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"Розпізнавання системних і навколишніх звуків"</string>
+	<!---->
+	<string name="ok_button">"OK"</string>
+	<!---->
+	<string name="retry_button">"Повторити"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"Виняток мережі. Переключено на офлайн-переклад."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Виняток сервера. Переключено на офлайн-переклад."</string>
+	<!---->
+	<string name="server_input_error">"Вибачте, ми не можемо обробити поточний вхід. Спробуйте інший вхід."</string>
+	<!---->
+	<string name="free_quota_exhausted">"Безкоштовну квоту вичерпано. Поповніть членство, щоб продовжити користуватися послугою перекладу."</string>
+	<!---->
+	<string name="reached_membership_limit">"Ви досягли ліміту використання для вашого поточного рівня членства. Підвищте свій рівень членства, щоб і надалі користуватися послугою перекладу."</string>
+	<!---->
+	<string name="top_up_membership">"Поповніть своє членство"</string>
+	<!---->
+	<string name="upgrade_membership">"Оновіть своє членство"</string>
+	<!---->
+	<string name="turn_off_translation">"Вимкніть переклад"</string>
+	<!---->
+	<string name="login_failed_token_expired">"Час входу закінчився. Увійдіть знову."</string>
+	<!---->
+	<string name="nav_bar_settings">"Налаштування"</string>
+	<!---->
+	<string name="nav_bar_record">"Мікрофон"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Перейти на розділений екран"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Вийти з розділеного екрана"</string>
+	<!---->
+	<string name="nav_bar_close">"Закрити"</string>
+	<!---->
+	<string name="nav_bar_back">"Назад"</string>
+	<!---->
+	<string name="slider">"Повзунок"</string>
+	<!---->
+	<string name="switch_on">"Увімк."</string>
+	<!---->
+	<string name="switch_off">"Вимк."</string>
+	<!---->
+	<string name="common_text_cancel">"Скасувати"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"Щоб використовувати функції, пов\'язані зі штучним інтелектом, потрібно ввімкнути додаток TCL AI. Ви можете послідовно вибрати Налаштування > Додатки > Переглянути всі програми > Інформація про додаток TCL AI, щоб увімкнути його."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"Щоб використовувати функції, пов\'язані зі штучним інтелектом, потрібно ввімкнути додаток TCL AI. Ви можете послідовно вибрати Налаштування > Додатки > Переглянути всі програми > Інформація про додаток TCL AI, щоб увімкнути його."</string>
+	<!---->
+	<string name="drag_bar_description">"Зміна розміру вікна"</string>
+	<!---->
+	<string name="network_exception_tip">"Виключення для мережі. Перевірте параметри мережі."</string>
+	<!---->
+	<string name="simplified_chinese">"Спрощена китайська"</string>
+	<!---->
+	<string name="traditional_chinese">"Традиційна китайська"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"Виявлено надмірну активність. Увійдіть, щоб продовжити"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"Для забезпечення безпеки облікового запису увійдіть, щоб продовжити."</string>
+	<!---->
+	<string name="nav_bar_copy">"Копіюв."</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Скопійовано"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Торкніться, щоб відновити субтитри."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"Ліміт для цієї функції вичерпано"</string>
+	<!---->
+	<string name="free_credit_exhausted">"Безкоштовну квоту вичерпано. Поповніть членство, щоб продовжити користуватися послугою перекладу."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"Ви досягли ліміту використання для вашого поточного рівня членства. Підвищте свій рівень членства, щоб і надалі користуватися послугою перекладу."</string>
+</resources>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"כתוביות בזמן אמת"</string>
+	<!---->
+	<string name="subtitles_settings_title">"הגדרות כתוביות"</string>
+	<!---->
+	<string name="subtitles_translation_title">"תרגום"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"תצוגה דו-לשונית"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"גודל גופן"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"אטימות רקע"</string>
+	<!---->
+	<string name="subtitles_appear_des">"כך יוצגו כתוביות"</string>
+	<!---->
+	<string name="subtitles_fun_des">"באפשרותך לשפעל חלון צף של כתוביות דרך "סרגל צד" או "הגדרות מהירות". לאחר האפשור, תבוצע לכידת שמע של המערכת או של צלילי סביבה וממיר אותם לטקסט בזמן אמת, לרבות תמיכה בריבוי שפות ותרגום."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"תמיכה בתדבור (המרת טקסט לדיבור) בזמן אמת. ניתן לפתוח את החלון הצף כתוביות דרך מרכז השליטה או סרגל הצד."</string>
+	<!---->
+	<string name="subtitles_source_language">"שפת מקור"</string>
+	<!---->
+	<string name="subtitles_target_language">"שפת יעד"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"אנגלית"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"אנגלית"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"היישומון התחתון אינו תומך במסך מפוצל"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"לא ניתן לטעון. נסה שנית."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"תצוגה מקדימה של תמונה"</string>
+	<!---->
+	<string name="subtitles_notice_des">"היישומון כתוביות מאופשר.\nמזהה אוטומטית צלילי מערכת או מיקרופון ומחולל כתוביות."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"התנגשות בהרשאות של יישומון. כבה את ההקלטה לפני השימוש בכתוביות."</string>
+	<!---->
+	<string name="font_size_small">"קטן"</string>
+	<!---->
+	<string name="font_size_default">"ברירת מחדל"</string>
+	<!---->
+	<string name="font_size_large">"גדול"</string>
+	<!---->
+	<string name="subtitles_translation_by">"תרגום על ידי"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"התנגשות הרשאות יישום. הכתוביות כובו."</string>
+	<!---->
+	<string name="permissions_denied_tip">"ההרשאות נדחו. תוכל לשנות אותן בדף "הגדרות" > "יישומונים"."</string>
+	<!---->
+	<string name="permissions_settings_tip">"הגדרות"</string>
+	<!---->
+	<string name="recognising_system">"זיהוי צלילי מערכת"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"אפשר להקליט צלילי סביבה"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"זיהוי צלילי מערכת וצלילי סביבה"</string>
+	<!---->
+	<string name="ok_button">"אישור"</string>
+	<!---->
+	<string name="retry_button">"נסה שנית"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"תקלת רשת, עבר לתרגום לא מקוון."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"תקלת שרת, עבר לתרגום לא מקוון."</string>
+	<!---->
+	<string name="server_input_error">"מצטערים, איננו יכולים לעבד את הקלט הנוכחי. נסה קלט אחר."</string>
+	<!---->
+	<string name="free_quota_exhausted">"מכסת החינם אזלה. טען מחדש את החברות שלך כדי להמשיך ולהשתמש בשירות התרגום."</string>
+	<!---->
+	<string name="reached_membership_limit">"הגעת למגבלת השימוש ברמת החברות הנוכחית. שדרג את רמת החברות כדי להמשיך ולהשתמש בשירות התרגום."</string>
+	<!---->
+	<string name="top_up_membership">"מלא את החברות שלך"</string>
+	<!---->
+	<string name="upgrade_membership">"שדרג את החברות שלך"</string>
+	<!---->
+	<string name="turn_off_translation">"כבה את התרגום"</string>
+	<!---->
+	<string name="login_failed_token_expired">"פג תוקף הכניסה, היכנס שנית."</string>
+	<!---->
+	<string name="nav_bar_settings">"הגדרות"</string>
+	<!---->
+	<string name="nav_bar_record">"מיקרופון"</string>
+	<!---->
+	<string name="nav_bar_split_in">"הכנס למסך מפוצל"</string>
+	<!---->
+	<string name="nav_bar_split_out">"צא ממסך מפוצל"</string>
+	<!---->
+	<string name="nav_bar_close">"סגור"</string>
+	<!---->
+	<string name="nav_bar_back">"הקודם"</string>
+	<!---->
+	<string name="slider">"מחלק"</string>
+	<!---->
+	<string name="switch_on">"פועל"</string>
+	<!---->
+	<string name="switch_off">"כבוי"</string>
+	<!---->
+	<string name="common_text_cancel">"ביטול"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"כדי להשתמש בתפקודים מבוססי בינה מלאכותית, עליך לאפשר תחילה את היישומון TCL Al. תוכל לבחור לפי הסדר בדף "הגדרות" > "יישומונים" > "ראה את כל היישומונים" > "מידע על יישומון TCL AI" כדי לאפשר אותו."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"כדי להשתמש בתפקודים מבוססי בינה מלאכותית, עליך לאפשר תחילה את היישומון TCL Al. תוכל לבחור לפי הסדר בדף "הגדרות" > "יישומונים" > "ראה את כל היישומונים" > "מידע על יישומון TCL AI" כדי לאפשר אותו."</string>
+	<!---->
+	<string name="drag_bar_description">"שנה את גודל החלון"</string>
+	<!---->
+	<string name="network_exception_tip">"תקלת רשת, בדוק את הרשת."</string>
+	<!---->
+	<string name="simplified_chinese">"סינית פשוטה"</string>
+	<!---->
+	<string name="traditional_chinese">"סינית מסורתית"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"התגלתה פעילות מופרזת"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"כדי להבטיח את בטחון החשבון, היכנס כדי להמשיך."</string>
+	<!---->
+	<string name="nav_bar_copy">"העתק"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"מועתק"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"גע כדי לשחזר כתוביות."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"המכסה עבור התכונה הזו התרוקנה"</string>
+	<!---->
+	<string name="free_credit_exhausted">"מכסת החינם אזלה. טען מחדש את החברות שלך כדי להמשיך ולהשתמש בשירות התרגום."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"הגעת למגבלת השימוש ברמת החברות הנוכחית. שדרג את רמת החברות כדי להמשיך ולהשתמש בשירות התרגום."</string>
+</resources>

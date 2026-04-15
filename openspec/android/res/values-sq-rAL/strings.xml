@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Titrat në kohë reale"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Cilësimet e titrave"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Përkthim"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"Ekrani dygjuhësh"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Madhësia e shkronjave"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Paqartësia e sfondit"</string>
+	<!---->
+	<string name="subtitles_appear_des">"Titrat do të shfaqen kështu"</string>
+	<!---->
+	<string name="subtitles_fun_des">"Mund të aktivizosh dritaren lundruese të titrave përmes shiritit anësor ose cilësimeve të shpejta. Pasi të aktivizohet, ajo regjistron audion e sistemit ose tingujt e ambientit dhe i konverton në tekst në kohë reale, me mbështetje për gjuhë të shumta dhe përkthim."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Mbështet konvertimin audio në tekst në kohë reale. Mund të hapësh dritaren lundruese të titrave në qendrën e kontrollit ose shiritin anësor."</string>
+	<!---->
+	<string name="subtitles_source_language">"Gjuha burimore"</string>
+	<!---->
+	<string name="subtitles_target_language">"Gjuha e synuar"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"Shqip"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"Shqip"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"Aplikacioni i poshtëm nuk mbështet ekranin e ndarë"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"Nuk mund të ngarkohej. Provo sërish."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"Shiko paraprakisht imazhin"</string>
+	<!---->
+	<string name="subtitles_notice_des">"Titrat janë aktivizuar.\nNjih automatikisht tingujt e sistemit ose të mikrofonit dhe gjenero titra."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Ka një konflikt me lejet e aplikacionit. Fik regjistrimin para se të përdorësh titrat."</string>
+	<!---->
+	<string name="font_size_small">"Të vogla"</string>
+	<!---->
+	<string name="font_size_default">"Standarde"</string>
+	<!---->
+	<string name="font_size_large">"I madh"</string>
+	<!---->
+	<string name="subtitles_translation_by">"Përkthim nga"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Konflikt në lejet e aplikacionit. Titrat janë çaktivizuar."</string>
+	<!---->
+	<string name="permissions_denied_tip">"Lejet u refuzuan. Mund t’i ndryshoni te Cilësimet > Aplikacionet."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Cilësimet"</string>
+	<!---->
+	<string name="recognising_system">"Njohja e zërit të sistemit"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Aktivizo regjistrimin e tingujve të ambientit"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"Njohja e tingujve të sistemit dhe të ambientit"</string>
+	<!---->
+	<string name="ok_button">"OK"</string>
+	<!---->
+	<string name="retry_button">"Provo sërish"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"Përjashtim nga rrjeti. Kaloi në përkthim jashtë linje."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Përjashtim nga serveri. Kaloi në përkthim jashtë linje."</string>
+	<!---->
+	<string name="server_input_error">"Na vjen keq, por nuk mund ta përpunojmë hyrjen aktuale. Provo një hyrje tjetër."</string>
+	<!---->
+	<string name="free_quota_exhausted">"Kuota falas është ezauruar. Rimbushe anëtarësimin për të vazhduar përdorimin e shërbimit të përkthimit."</string>
+	<!---->
+	<string name="reached_membership_limit">"Ke arritur kufirin e përdorimit për nivelin aktual të anëtarësimit. Përmirëso nivelin e anëtarësimit për të vazhduar përdorimin e shërbimit të përkthimit."</string>
+	<!---->
+	<string name="top_up_membership">"Rimbush anëtarësimin tënd."</string>
+	<!---->
+	<string name="upgrade_membership">"Përmirëso anëtarësimin tënd"</string>
+	<!---->
+	<string name="turn_off_translation">"Çaktivizo përkthimin"</string>
+	<!---->
+	<string name="login_failed_token_expired">"Hyrja skadoi. Hyni përsëri."</string>
+	<!---->
+	<string name="nav_bar_settings">"Cilësimet"</string>
+	<!---->
+	<string name="nav_bar_record">"Mikrofoni"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Hyr te ekrani i ndarë"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Dil nga ekrani i ndarë"</string>
+	<!---->
+	<string name="nav_bar_close">"Afër"</string>
+	<!---->
+	<string name="nav_bar_back">"Prapa"</string>
+	<!---->
+	<string name="slider">"Ndërruesi"</string>
+	<!---->
+	<string name="switch_on">"Aktiv"</string>
+	<!---->
+	<string name="switch_off">"Joaktiv"</string>
+	<!---->
+	<string name="common_text_cancel">"Anullo"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"Për të përdorur funksionet që lidhen me inteligjencën artificiale, duhet të aktivizosh aplikacionin TCL AI. Për ta aktivizuar, mund të zgjedhësh Cilësimet > Aplikacionet > Shiko të gjitha aplikacionet > Informacionet për aplikacionin TCL AI."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"Për të përdorur funksionet që lidhen me inteligjencën artificiale, duhet të aktivizosh aplikacionin TCL AI. Për ta aktivizuar, mund të zgjedhësh Cilësimet > Aplikacionet > Shiko të gjitha aplikacionet > Informacionet për aplikacionin TCL AI."</string>
+	<!---->
+	<string name="drag_bar_description">"Ndrysho madhësinë e dritares"</string>
+	<!---->
+	<string name="network_exception_tip">"Përjashtim rrjeti. Kontrolloni rrjetin."</string>
+	<!---->
+	<string name="simplified_chinese">"Kinezishte e thjeshtuar"</string>
+	<!---->
+	<string name="traditional_chinese">"Kinezishte tradicionale"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"U zbulua aktivitet i tepërt. Hyr për të vazhduar."</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"Për të garantuar sigurinë e llogarisë, hyr për të vazhduar."</string>
+	<!---->
+	<string name="nav_bar_copy">"Kopjo"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Kopjuar"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Prek për të rivendosur titrat."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"Kuota për këtë veçori është shteruar"</string>
+	<!---->
+	<string name="free_credit_exhausted">"Kuota falas është ezauruar. Rimbushe anëtarësimin për të vazhduar përdorimin e shërbimit të përkthimit."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"Ke arritur kufirin e përdorimit për nivelin aktual të anëtarësimit. Përmirëso nivelin e anëtarësimit për të vazhduar përdorimin e shërbimit të përkthimit."</string>
+</resources>

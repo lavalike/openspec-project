@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Legendas em tempo real"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Definições de legendas"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Tradução"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"Visualização bilingue"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Tamanho do tipo de letra"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Opacidade do fundo"</string>
+	<!---->
+	<string name="subtitles_appear_des">"As legendas serão apresentadas da seguinte forma"</string>
+	<!---->
+	<string name="subtitles_fun_des">"Pode ativar a janela flutuante de legendas através da barra lateral ou das definições rápidas. Uma vez ativada, captura o áudio do sistema ou sons ambientais e converte-os em texto em tempo real, com suporte para vários idiomas e tradução."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Suporta conversão de áudio para texto em tempo real. Pode abrir a janela flutuante de legendas no centro de controlo ou na barra lateral."</string>
+	<!---->
+	<string name="subtitles_source_language">"Idioma original"</string>
+	<!---->
+	<string name="subtitles_target_language">"Idioma de destino"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"Inglês"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"Inglês"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"A aplicação abaixo não suporta ecrã dividido"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"Não foi possível carregar. Tente novamente."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"Pré-visualizar imagem"</string>
+	<!---->
+	<string name="subtitles_notice_des">"As legendas estão ativas.\nReconhece automaticamente os sons do sistema ou do microfone e gera legendas."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Conflito de permissões da aplicação. Desligue a gravação antes de utilizar as legendas."</string>
+	<!---->
+	<string name="font_size_small">"Pequeno"</string>
+	<!---->
+	<string name="font_size_default">"Predefinição"</string>
+	<!---->
+	<string name="font_size_large">"Grande"</string>
+	<!---->
+	<string name="subtitles_translation_by">"Tradução por"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Conflito de permissões de aplicação. As legendas foram desativadas."</string>
+	<!---->
+	<string name="permissions_denied_tip">"Permissões recusadas. Pode alterá-las em Definições > Aplicações."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Definições"</string>
+	<!---->
+	<string name="recognising_system">"A reconhecer o som do sistema"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Ativar a gravação de sons ambiente"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"A reconhecer os sons do sistema e do ambiente"</string>
+	<!---->
+	<string name="ok_button">"OK"</string>
+	<!---->
+	<string name="retry_button">"Tentar novamente"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"Exceção de rede. Mudou para a tradução offline."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Exceção de servidor. Mudou para a tradução offline."</string>
+	<!---->
+	<string name="server_input_error">"Lamentamos, mas não é possível processar a entrada atual. Tente uma entrada diferente."</string>
+	<!---->
+	<string name="free_quota_exhausted">"A quota gratuita foi esgotada. Recarregue a sua quota para continuar a utilizar o serviço de tradução."</string>
+	<!---->
+	<string name="reached_membership_limit">"Atingiu o limite de utilização do seu nível de adesão atual. Atualize o seu nível de adesão para continuar a utilizar o serviço de tradução."</string>
+	<!---->
+	<string name="top_up_membership">"Recarregar a sua assinatura"</string>
+	<!---->
+	<string name="upgrade_membership">"Atualizar a sua assinatura"</string>
+	<!---->
+	<string name="turn_off_translation">"Desativar a tradução"</string>
+	<!---->
+	<string name="login_failed_token_expired">"Início de sessão expirado. Inicie sessão novamente."</string>
+	<!---->
+	<string name="nav_bar_settings">"Definições"</string>
+	<!---->
+	<string name="nav_bar_record">"Microfone"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Aceder ao ecrã dividido"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Sair do ecrã dividido"</string>
+	<!---->
+	<string name="nav_bar_close">"Fechar"</string>
+	<!---->
+	<string name="nav_bar_back">"Voltar"</string>
+	<!---->
+	<string name="slider">"Cursor"</string>
+	<!---->
+	<string name="switch_on">"Ativado"</string>
+	<!---->
+	<string name="switch_off">"Desativado"</string>
+	<!---->
+	<string name="common_text_cancel">"Cancelar"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"Para utilizar as funções relacionadas com IA, é necessário ativar a aplicação TCL Al. Pode selecionar Definições > Aplicações > Ver todas as aplicações > Informações da aplicação TCL Al em sequência para a ativar."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"Para utilizar as funções relacionadas com IA, é necessário ativar a aplicação TCL Al. Pode selecionar Definições > Aplicações > Ver todas as aplicações > Informações da aplicação TCL Al em sequência para a ativar."</string>
+	<!---->
+	<string name="drag_bar_description">"Redimensionar a janela"</string>
+	<!---->
+	<string name="network_exception_tip">"Exceção de rede. Verifique a rede."</string>
+	<!---->
+	<string name="simplified_chinese">"Chinês Simplificado"</string>
+	<!---->
+	<string name="traditional_chinese">"Chinês Tradicional"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"Atividade excessiva detetada. Inicie sessão para continuar"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"Para garantir a segurança da conta, inicie sessão para continuar."</string>
+	<!---->
+	<string name="nav_bar_copy">"Copiar"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Copiado"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Toque para restaurar as legendas."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"O limite para esta funcionalidade foi atingido"</string>
+	<!---->
+	<string name="free_credit_exhausted">"A quota gratuita foi esgotada. Recarregue a sua quota para continuar a utilizar o serviço de tradução."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"Atingiu o limite de utilização do seu nível de adesão atual. Atualize o seu nível de adesão para continuar a utilizar o serviço de tradução."</string>
+</resources>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"실시간 자막"</string>
+	<!---->
+	<string name="subtitles_settings_title">"자막 설정"</string>
+	<!---->
+	<string name="subtitles_translation_title">"번역"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"이중 언어 디스플레이"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"글꼴 크기"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"배경 불투명도"</string>
+	<!---->
+	<string name="subtitles_appear_des">"자막은 이렇게 나옵니다"</string>
+	<!---->
+	<string name="subtitles_fun_des">"사이드바 또는 빠른 설정을 통해 자막 플로팅 창을 활성화할 수 있습니다. 활성화하면 시스템 오디오 또는 주변 소리를 캡처하여 실시간으로 텍스트로 변환하며, 다국어 및 번역을 지원합니다."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"실시간 오디오-텍스트 변환을 지원합니다. 자막 플로팅 창은 제어 센터 또는 사이드바에서 열 수 있습니다."</string>
+	<!---->
+	<string name="subtitles_source_language">"소스 언어"</string>
+	<!---->
+	<string name="subtitles_target_language">"대상 언어"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"영어"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"영어"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"하단 앱은 분할 화면을 지원하지 않습니다"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"로드할 수 없습니다. 다시 시도하세요."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"이미지 미리보기"</string>
+	<!---->
+	<string name="subtitles_notice_des">"자막이 활성화되었습니다.\n시스템 또는 마이크 소리를 자동으로 인식하여 자막을 생성합니다."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"애플리케이션 권한이 충돌합니다. 자막을 사용하기 전에 녹화를 끄십시오."</string>
+	<!---->
+	<string name="font_size_small">"작게"</string>
+	<!---->
+	<string name="font_size_default">"기본값"</string>
+	<!---->
+	<string name="font_size_large">"크게"</string>
+	<!---->
+	<string name="subtitles_translation_by">"번역가"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"애플리케이션 권한이 충돌합니다. 자막이 꺼졌습니다."</string>
+	<!---->
+	<string name="permissions_denied_tip">"승인 거부됨. 설정 > 앱에서 변경할 수 있습니다."</string>
+	<!---->
+	<string name="permissions_settings_tip">"설정"</string>
+	<!---->
+	<string name="recognising_system">"시스템 사운드 인식 중"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"주변 소리를 녹음할 수 있습니다"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"시스템 및 주변 소리 인식 중"</string>
+	<!---->
+	<string name="ok_button">"확인"</string>
+	<!---->
+	<string name="retry_button">"다시시도"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"네트워크 비정상. 오프라인 번역으로 전환되었습니다."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"서버 비정상. 오프라인 번역으로 전환되었습니다."</string>
+	<!---->
+	<string name="server_input_error">"죄송합니다. 현재 입력을 처리할 수 없습니다. 다른 입력을 시도해 보세요."</string>
+	<!---->
+	<string name="free_quota_exhausted">"무료 할당량이 소진되었습니다. 번역 서비스를 계속 사용하려면 멤버십을 재충전하세요."</string>
+	<!---->
+	<string name="reached_membership_limit">"현재 멤버십 레벨의 사용 한도에 도달했습니다. 번역 서비스를 계속 사용하려면 멤버십 레벨을 업그레이드하세요."</string>
+	<!---->
+	<string name="top_up_membership">"멤버십 충전"</string>
+	<!---->
+	<string name="upgrade_membership">"멤버십 업그레이드"</string>
+	<!---->
+	<string name="turn_off_translation">"번역 끄기"</string>
+	<!---->
+	<string name="login_failed_token_expired">"로그인이 만료되었습니다. 다시 로그인하십시오."</string>
+	<!---->
+	<string name="nav_bar_settings">"설정"</string>
+	<!---->
+	<string name="nav_bar_record">"마이크"</string>
+	<!---->
+	<string name="nav_bar_split_in">"분할 화면으로 들어가기"</string>
+	<!---->
+	<string name="nav_bar_split_out">"분할 화면 종료"</string>
+	<!---->
+	<string name="nav_bar_close">"닫기"</string>
+	<!---->
+	<string name="nav_bar_back">"뒤로"</string>
+	<!---->
+	<string name="slider">"슬라이더"</string>
+	<!---->
+	<string name="switch_on">"켜짐"</string>
+	<!---->
+	<string name="switch_off">"꺼짐"</string>
+	<!---->
+	<string name="common_text_cancel">"취소"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"AI 관련 기능을 사용하려면 TCL AI 앱을 사용 설정해야 합니다. 설정 > 앱 > 모든 앱 보기 > TCL AI 앱 정보를 순서대로 선택하여 사용 설정할 수 있습니다."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"AI 관련 기능을 사용하려면 TCL AI 앱을 사용 설정해야 합니다. 설정 > 앱 > 모든 앱 보기 > TCL AI 앱 정보를 순서대로 선택하여 사용 설정할 수 있습니다."</string>
+	<!---->
+	<string name="drag_bar_description">"창 크기 조정"</string>
+	<!---->
+	<string name="network_exception_tip">"네트워크 비정상. 네트워크를 점검하십시오."</string>
+	<!---->
+	<string name="simplified_chinese">"중국어(간체)"</string>
+	<!---->
+	<string name="traditional_chinese">"중국어(번체)"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"과도한 활동 감지됨. 계속하려면 로그인하세요"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"계정 보안을 위해 계속하려면 로그인하세요."</string>
+	<!---->
+	<string name="nav_bar_copy">"복사"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"복사됨"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"터치하여 자막을 복원합니다."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"이 기능에 대한 할당량이 소진되었습니다"</string>
+	<!---->
+	<string name="free_credit_exhausted">"무료 할당량이 소진되었습니다. 번역 서비스를 계속 사용하려면 멤버십을 재충전하세요."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"현재 멤버십 레벨의 사용 한도에 도달했습니다. 번역 서비스를 계속 사용하려면 멤버십 레벨을 업그레이드하세요."</string>
+</resources>

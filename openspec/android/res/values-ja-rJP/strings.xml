@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"リアルタイム字幕"</string>
+	<!---->
+	<string name="subtitles_settings_title">"字幕の設定"</string>
+	<!---->
+	<string name="subtitles_translation_title">"交通"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"バイリンガル表示"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"フォントサイズ"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"背景の不透明度"</string>
+	<!---->
+	<string name="subtitles_appear_des">"字幕はこのように表示されます"</string>
+	<!---->
+	<string name="subtitles_fun_des">"サイドバーまたはクイック設定から字幕フローティングウィンドウを起動できます。有効にすると、システム音声または環境音をキャプチャし、複数言語対応でリアルタイムにテキスト変換します。"</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"リアルタイムの音声テキスト変換に対応しています。コントロールセンターまたはサイドバーで字幕のフローティングウィンドウを開くことができます。"</string>
+	<!---->
+	<string name="subtitles_source_language">"ソース言語"</string>
+	<!---->
+	<string name="subtitles_target_language">"ターゲット言語"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"英語"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"英語"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"最下部のアプリでは、分割画面を使用できません"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"読み込めませんでした。再びお試しください。"</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"プレビュー画像"</string>
+	<!---->
+	<string name="subtitles_notice_des">"字幕が有効になっています。\n自動的にシステムまたはマイクのサウンドを認識して字幕を生成します。"</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"アプリケーションの許可が一致しません。字幕を使用する前に録音をオフにしてください。"</string>
+	<!---->
+	<string name="font_size_small">"小"</string>
+	<!---->
+	<string name="font_size_default">"既定"</string>
+	<!---->
+	<string name="font_size_large">"大"</string>
+	<!---->
+	<string name="subtitles_translation_by">"翻訳："</string>
+	<!---->
+	<string name="permissions_conflict_tip">"アプリケーションの許可が一致していません。字幕はオフになりました。"</string>
+	<!---->
+	<string name="permissions_denied_tip">"権限が拒否されました。権限は、[設定] > [アプリ]で変更できます。"</string>
+	<!---->
+	<string name="permissions_settings_tip">"設定"</string>
+	<!---->
+	<string name="recognising_system">"システム音を認識中"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"周囲音の録音を有効化"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"システム音と周囲音を認識中"</string>
+	<!---->
+	<string name="ok_button">"OK"</string>
+	<!---->
+	<string name="retry_button">"やり直す"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"ネットワークの例外。オフライン翻訳に切り替えられています。"</string>
+	<!---->
+	<string name="server_exception_switched_offline">"サーバーの例外。オフライン翻訳に切り替えられています。"</string>
+	<!---->
+	<string name="server_input_error">"申し訳ありません。現在の入力を処理できません。別の入力をお試しください。"</string>
+	<!---->
+	<string name="free_quota_exhausted">"無料の使用量がなくなりました。翻訳サービスの使用を続行するには、メンバーシップを再充填してください。"</string>
+	<!---->
+	<string name="reached_membership_limit">"現在のメンバーシップレベルの使用限度に達しました。翻訳サービスの使用を続行するには、メンバーシップレベルをアップグレードしてください。"</string>
+	<!---->
+	<string name="top_up_membership">"メンバーシップを再充填"</string>
+	<!---->
+	<string name="upgrade_membership">"メンバーシップをアップグレード"</string>
+	<!---->
+	<string name="turn_off_translation">"翻訳をオフにする"</string>
+	<!---->
+	<string name="login_failed_token_expired">"ログインの期限が切れました。もう一度ログインしてください。。"</string>
+	<!---->
+	<string name="nav_bar_settings">"設定"</string>
+	<!---->
+	<string name="nav_bar_record">"マイク"</string>
+	<!---->
+	<string name="nav_bar_split_in">"分割ウィンドウを使用"</string>
+	<!---->
+	<string name="nav_bar_split_out">"分割画面を終了"</string>
+	<!---->
+	<string name="nav_bar_close">"閉じる"</string>
+	<!---->
+	<string name="nav_bar_back">"戻る"</string>
+	<!---->
+	<string name="slider">"スライダー"</string>
+	<!---->
+	<string name="switch_on">"オン"</string>
+	<!---->
+	<string name="switch_off">"オフ"</string>
+	<!---->
+	<string name="common_text_cancel">"キャンセル"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"Al関連機能を使用するには、TCL Alアプリを有効にする必要があります。[設定] > [アプリ] > [すべてのアプリを表示] > [TCL Alアプリ情報] の順に進んで有効にしてください。"</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"Al関連機能を使用するには、TCL Alアプリを有効にする必要があります。[設定] > [アプリ] > [すべてのアプリを表示] > [TCL Alアプリ情報] の順に進んで有効にしてください。"</string>
+	<!---->
+	<string name="drag_bar_description">"ウィンドウのサイズ変更"</string>
+	<!---->
+	<string name="network_exception_tip">"ネットワーク接続例外。ネットワーク接続を確認してください。"</string>
+	<!---->
+	<string name="simplified_chinese">"簡体字中国語"</string>
+	<!---->
+	<string name="traditional_chinese">"繁体字中国語"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"過剰なアクティビティが検出されました。続行するにはログインしてください"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"アカウントのセキュリティを確保するため、続行するにはログインしてください。"</string>
+	<!---->
+	<string name="nav_bar_copy">"コピー"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"コピーされました"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"タップして字幕を復元。"</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"この機能の利用上限に達しました"</string>
+	<!---->
+	<string name="free_credit_exhausted">"無料の使用量がなくなりました。翻訳サービスの使用を続行するには、メンバーシップを再充填してください。"</string>
+	<!---->
+	<string name="membership_credit_exhausted">"現在のメンバーシップレベルの使用限度に達しました。翻訳サービスの使用を続行するには、メンバーシップレベルをアップグレードしてください。"</string>
+</resources>

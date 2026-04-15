@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Subtítulos en tempo real"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Axustes dos subtítulos"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Tradución"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"Pantalla bilingüe"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Tamaño da fonte"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Opacidade do fondo"</string>
+	<!---->
+	<string name="subtitles_appear_des">"Os subtítulos aparecerán aquí"</string>
+	<!---->
+	<string name="subtitles_fun_des">"Podes activar a ventá flotante dos subtítulos mediante a Barra lateral ou os Axustes rápidos. Unha vez activada, captura o audio do sistema ou os sons da contorna e convérteos nun texto en tempo real, compatible con varios idiomas e tradución."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Admite a conversión de audio en texto en tempo real. Podes abrir a ventá flotante de subtítulos no centro de control ou barra lateral."</string>
+	<!---->
+	<string name="subtitles_source_language">"Lingua de orixe"</string>
+	<!---->
+	<string name="subtitles_target_language">"Lingua meta"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"Inglés"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"Inglés"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"A aplicación do botón non admite a pantalla dividida"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"Non se puido cargar. Téntao de novo."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"Previsualizar imaxe"</string>
+	<!---->
+	<string name="subtitles_notice_des">"Os subtítulos están activados.\nRecoñece automaticamente os sons do sistema e o micrófono e xerar subtítulos."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Conflito de permisos de aplicación. Desactiva a gravación antes de usar subtítulos."</string>
+	<!---->
+	<string name="font_size_small">"Pequena"</string>
+	<!---->
+	<string name="font_size_default">"Por omisión"</string>
+	<!---->
+	<string name="font_size_large">"Grande"</string>
+	<!---->
+	<string name="subtitles_translation_by">"Tradución de"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Conflito de permisos de aplicacións. Desactiváronse os subtítulos."</string>
+	<!---->
+	<string name="permissions_denied_tip">"Permisos denegados. Podes cambialos en Axustes > Aplicacións."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Axustes"</string>
+	<!---->
+	<string name="recognising_system">"Recoñecer o son do sistema"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Activar para gravar os sons da contorna"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"Recoñecer os sons do sistema e da contorna"</string>
+	<!---->
+	<string name="ok_button">"OK"</string>
+	<!---->
+	<string name="retry_button">"Tentar de novo"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"Excepción da rede. Cambiouse á tradución sen conexión."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Excepción do servidor. Cambiouse á tradución sen conexión."</string>
+	<!---->
+	<string name="server_input_error">"Non podemos procesar a entrada actual. Proba unha diferente."</string>
+	<!---->
+	<string name="free_quota_exhausted">"Esgotouse a cota gratuíta. Recarga a subscrición para seguir usando o servizo da tradución."</string>
+	<!---->
+	<string name="reached_membership_limit">"Acadaches o límite de uso do teu nivel de subscrición actual. Actualiza o nivel de subscrición para seguir usando o servizo de tradución."</string>
+	<!---->
+	<string name="top_up_membership">"Recargar a subscrición"</string>
+	<!---->
+	<string name="upgrade_membership">"Actualizar a subscrición"</string>
+	<!---->
+	<string name="turn_off_translation">"Desactivar tradución"</string>
+	<!---->
+	<string name="login_failed_token_expired">"O inicio de sesión caducou. Inicia sesión de novo."</string>
+	<!---->
+	<string name="nav_bar_settings">"Axustes"</string>
+	<!---->
+	<string name="nav_bar_record">"Micrófono"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Introducir pantalla dividida"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Saír da pantalla dividida"</string>
+	<!---->
+	<string name="nav_bar_close">"Pechar"</string>
+	<!---->
+	<string name="nav_bar_back">"Atrás"</string>
+	<!---->
+	<string name="slider">"Controlador"</string>
+	<!---->
+	<string name="switch_on">"Activado"</string>
+	<!---->
+	<string name="switch_off">"Desactivado"</string>
+	<!---->
+	<string name="common_text_cancel">"Cancelar"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"Para usar funcións relacionadas con IA, necesitas activar a aplicación IA de TCL. Podes seleccionar Axustes > Ver todas as aplicacións > Información da aplicación IA de TCL"</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"Para usar funcións relacionadas con IA, necesitas activar a aplicación IA de TCL. Podes seleccionar Axustes > Ver todas as aplicacións > Información da aplicación IA de TCL"</string>
+	<!---->
+	<string name="drag_bar_description">"Redimensionar a ventá"</string>
+	<!---->
+	<string name="network_exception_tip">"Excepción de rede. Comproba a rede."</string>
+	<!---->
+	<string name="simplified_chinese">"Chinés simplificado"</string>
+	<!---->
+	<string name="traditional_chinese">"Chinés tradicional"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"Detectouse actividade excesiva. Inicia sesión para continuar."</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"Para garantir a seguridade da conta, inicia sesión para continuar."</string>
+	<!---->
+	<string name="nav_bar_copy">"Copiar"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Copiado"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Toca para restaurar subtítulos."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"A cota desta característica esgotouse"</string>
+	<!---->
+	<string name="free_credit_exhausted">"Esgotouse a cota gratuíta. Recarga a subscrición para seguir usando o servizo da tradución."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"Acadaches o límite de uso do teu nivel de subscrición actual. Actualiza o nivel de subscrición para seguir usando o servizo de tradución."</string>
+</resources>

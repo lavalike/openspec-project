@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Tosiaikainen tekstitys"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Tekstitysasetukset"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Kääntäminen"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"Kaksikielinen näyttö"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Kirjasimen koko"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Taustan läpinäkyvyys"</string>
+	<!---->
+	<string name="subtitles_appear_des">"Tekstitys näyttää tältä"</string>
+	<!---->
+	<string name="subtitles_fun_des">"Voit aktivoida tekstityksen irrallisen ikkunan sivupalkista tai pika-asetuksista. Kun se on käytössä, se kaappaa järjestelmän äänet tai ympäristöäänet ja muuntaa ne tekstiksi tosiajassa. Tämä tukee useaa kieltä ja käännöstä."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Tue tosiaikaista audion muuntamista tekstiksi. Voit avata tekstityksen irrallisen ikkunan ohjauskeskuksessa tai sivupalkissa."</string>
+	<!---->
+	<string name="subtitles_source_language">"Lähdekieli"</string>
+	<!---->
+	<string name="subtitles_target_language">"Kohdekieli"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"Englanti"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"Englanti"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"Alalaidan sovellus ei tue jaettua näyttöä"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"Lataaminen ei onnistunut. Yritä uudelleen."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"Esikatselukuva"</string>
+	<!---->
+	<string name="subtitles_notice_des">"Tekstitys on otettu käyttöön.\nTunnista järjestelmän tai mikrofonin äänet automaattisesti ja tuota tekstitys."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Sovelluksen käyttöoikeusristiriita. Kytke tallennus pois päältä ennen tekstityksen käyttöä."</string>
+	<!---->
+	<string name="font_size_small">"Pieni"</string>
+	<!---->
+	<string name="font_size_default">"Oletus"</string>
+	<!---->
+	<string name="font_size_large">"Suuri"</string>
+	<!---->
+	<string name="subtitles_translation_by">"Käännöksen tarjoaa"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Sovelluksen käyttöoikeusristiriita. Tekstitys on poistettu käytöstä."</string>
+	<!---->
+	<string name="permissions_denied_tip">"Käyttöoikeudet evätty. Voit muuttaa niitä kohdassa Asetukset > Sovellukset."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Asetukset"</string>
+	<!---->
+	<string name="recognising_system">"Järjestelmä-äänien tunnistus"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Ota käyttöön tallentaaksesi ympäristöäänet"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"Järjestelmä- ja ympäristöäänien tunnistus"</string>
+	<!---->
+	<string name="ok_button">"OK"</string>
+	<!---->
+	<string name="retry_button">"Yritä uudelleen"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"Verkkopoikkeus. Siirrytty offline-käännökseen."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Palvelinpoikkeus. Siirrytty offline-käännökseen."</string>
+	<!---->
+	<string name="server_input_error">"Emme valitettavasti kykene käsittelemään tämänhetkistä syötettä. Kokeile toista syötettä."</string>
+	<!---->
+	<string name="free_quota_exhausted">"Ilmaiskiintiö on käytetty loppuun. Täydennä jäsenyyssaldoasi jatkaaksesi käännöspalvelun käyttöä."</string>
+	<!---->
+	<string name="reached_membership_limit">"Nykyisen jäsentasosi käyttökiintiö on täynnä. Päivitä jäsentasosi jatkaaksesi käännöspalvelun käyttöä."</string>
+	<!---->
+	<string name="top_up_membership">"Täydennä jäsenyyssaldoa"</string>
+	<!---->
+	<string name="upgrade_membership">"Päivitä jäsenyytesi"</string>
+	<!---->
+	<string name="turn_off_translation">"Kytke käännös pois päältä"</string>
+	<!---->
+	<string name="login_failed_token_expired">"Kirjautuminen on vanhentunut. Kirjaudu uudelleen."</string>
+	<!---->
+	<string name="nav_bar_settings">"Asetukset"</string>
+	<!---->
+	<string name="nav_bar_record">"Mikrofoni"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Siirry jaettuun näyttöön"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Poistu jaetusta näytöstä"</string>
+	<!---->
+	<string name="nav_bar_close">"Sulje"</string>
+	<!---->
+	<string name="nav_bar_back">"Takaisin"</string>
+	<!---->
+	<string name="slider">"Liukusäädin"</string>
+	<!---->
+	<string name="switch_on">"Käytössä"</string>
+	<!---->
+	<string name="switch_off">"Pois päältä"</string>
+	<!---->
+	<string name="common_text_cancel">"Peruuta"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"Jotta voit käyttää tekoälyyn liittyviä toimintoja, sinun on otettava TCL Al -sovellus käyttöön. Voit ottaa sen käyttöön kohdassa Asetukset > Sovellukset > Näytä kaikki sovellukset > TCL Al -sovelluksen tiedot."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"Jotta voit käyttää tekoälyyn liittyviä toimintoja, sinun on otettava TCL Al -sovellus käyttöön. Voit ottaa sen käyttöön kohdassa Asetukset > Sovellukset > Näytä kaikki sovellukset > TCL Al -sovelluksen tiedot."</string>
+	<!---->
+	<string name="drag_bar_description">"Muuta ikkunan kokoa"</string>
+	<!---->
+	<string name="network_exception_tip">"Verkkopoikkeus. Tarkista verkko."</string>
+	<!---->
+	<string name="simplified_chinese">"Yksinkertaistettu kiina"</string>
+	<!---->
+	<string name="traditional_chinese">"Perinteinen kiina"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"Havaittu liiallista toimintaa. Jatka kirjautumalla sisään"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"Varmista tilin turvallisuus jatkamalla kirjautumalla sisään."</string>
+	<!---->
+	<string name="nav_bar_copy">"Kopioi"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Kopioitu"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Palauta tekstitys koskettamalla."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"Tämän ominaisuuden kiintiö on täynnä"</string>
+	<!---->
+	<string name="free_credit_exhausted">"Ilmaiskiintiö on käytetty loppuun. Täydennä jäsenyyssaldoasi jatkaaksesi käännöspalvelun käyttöä."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"Nykyisen jäsentasosi käyttökiintiö on täynnä. Päivitä jäsentasosi jatkaaksesi käännöspalvelun käyttöä."</string>
+</resources>

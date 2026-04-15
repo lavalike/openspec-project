@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Sari Kata masa nyata"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Tetapan sari kata"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Penterjemahan"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"Paparan dwibahasa"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Saiz fon"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Kelegapan latar belakang"</string>
+	<!---->
+	<string name="subtitles_appear_des">"Sari kata akan kelihatan seperti ini"</string>
+	<!---->
+	<string name="subtitles_fun_des">"Anda boleh mengaktifkan tetingkap apung sari kata melalui Bar Sisi atau Tetapan Segera. Setelah didayakan, tetingkap ini merakam audio sistem atau bunyi sekeliling dan menukar audio menjadi teks pada masa nyata, dengan sokongan untuk berbilang bahasa dan terjemahan."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Menyokong penukaran audio kepada teks pada masa nyata. Anda boleh membuka tetingkap terapung sari kata di pusat kawalan atau bar sisi."</string>
+	<!---->
+	<string name="subtitles_source_language">"Bahasa sumber"</string>
+	<!---->
+	<string name="subtitles_target_language">"Bahasa sasaran"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"Inggeris"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"Inggeris"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"Aplikasi di bawah tidak menyokong pemisahan skrin"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"Tidak dapat dimuatkan. Cuba lagi."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"PraPratonton imej"</string>
+	<!---->
+	<string name="subtitles_notice_des">"Sari kata didayakan.\nMengecam sistem atau bunyi mikrofon dan menjana sari kata secara automatik."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Kebenaran aplikasi bercanggah. Matikan rakaman sebelum menggunakan sari kata."</string>
+	<!---->
+	<string name="font_size_small">"Kecil"</string>
+	<!---->
+	<string name="font_size_default">"Lalai"</string>
+	<!---->
+	<string name="font_size_large">"Besar"</string>
+	<!---->
+	<string name="subtitles_translation_by">"Terjemahan oleh"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Kebenaran aplikasi bercanggah. Sari kata telah dimatikan."</string>
+	<!---->
+	<string name="permissions_denied_tip">"Kebenaran ditolak. Anda boleh mengubahnya dalam Tetapan > Aplikasi."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Tetapan"</string>
+	<!---->
+	<string name="recognising_system">"Mengecam bunyi sistem"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Dayakan untuk merakam bunyi sekeliling"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"Mengecam sistem dan bunyi sekeliling"</string>
+	<!---->
+	<string name="ok_button">"OK"</string>
+	<!---->
+	<string name="retry_button">"Cuba semula"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"Pengecualian rangkaian. Bertukar kepada terjemahan luar talian."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Pengecualian pelayan. Bertukar kepada terjemahan luar talian."</string>
+	<!---->
+	<string name="server_input_error">"Harap maaf, kami tidak dapat memproses input semasa. Cuba input berlainan."</string>
+	<!---->
+	<string name="free_quota_exhausted">"Kuota percuma sudah habis. Tambah nilai keahlian anda untuk terus menggunakan perkhidmatan terjemahan."</string>
+	<!---->
+	<string name="reached_membership_limit">"Anda telah mencapai had penggunaan untuk tahap keahlian semasa anda. Naik taraf tahap keahlian anda untuk meneruskan penggunaan perkhidmatan terjemahan."</string>
+	<!---->
+	<string name="top_up_membership">"Tambah nilai keahlian anda"</string>
+	<!---->
+	<string name="upgrade_membership">"Naik taraf keahlian anda"</string>
+	<!---->
+	<string name="turn_off_translation">"Matikan terjemahan"</string>
+	<!---->
+	<string name="login_failed_token_expired">"Log masuk sudah tamat tempoh. Log masuk sekali lagi."</string>
+	<!---->
+	<string name="nav_bar_settings">"Tetapan"</string>
+	<!---->
+	<string name="nav_bar_record">"Mikrofon"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Masuk skrin pisah"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Keluar skrin pisah"</string>
+	<!---->
+	<string name="nav_bar_close">"Tutup"</string>
+	<!---->
+	<string name="nav_bar_back">"Kembali"</string>
+	<!---->
+	<string name="slider">"Peleret"</string>
+	<!---->
+	<string name="switch_on">"Dihidupkan"</string>
+	<!---->
+	<string name="switch_off">"Dimatikan"</string>
+	<!---->
+	<string name="common_text_cancel">"Batal"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"Untuk menggunakan fungsi berkaitan AI, anda perlu mendayakan Aplikasi AI TCL. Anda boleh memilih Tetapan > Aplikasi > Lihat semua aplikasi > Maklumat Aplikasi AI TCL mengikut urutan untuk mendayakan fungsi AI."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"Untuk menggunakan fungsi berkaitan AI, anda perlu mendayakan Aplikasi AI TCL. Anda boleh memilih Tetapan > Aplikasi > Lihat semua aplikasi > Maklumat Aplikasi AI TCL mengikut urutan untuk mendayakan fungsi AI."</string>
+	<!---->
+	<string name="drag_bar_description">"Ubah saiz tetingkap"</string>
+	<!---->
+	<string name="network_exception_tip">"Pengecualian rangkaian. Semak rangkaian."</string>
+	<!---->
+	<string name="simplified_chinese">"Bahasa Cina Dipermudah"</string>
+	<!---->
+	<string name="traditional_chinese">"Bahasa Cina Tradisional"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"Aktiviti berlebihan dikesan. Log masuk untuk teruskan"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"Untuk memastikan keselamatan akaun, log masuk untuk teruskan."</string>
+	<!---->
+	<string name="nav_bar_copy">"Salin"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Disalin"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Sentuh untuk memulihkan sari kata."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"Kuota untuk ciri ini sudah habis"</string>
+	<!---->
+	<string name="free_credit_exhausted">"Kuota percuma sudah habis. Tambah nilai keahlian anda untuk terus menggunakan perkhidmatan terjemahan."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"Anda telah mencapai had penggunaan untuk tahap keahlian semasa anda. Naik taraf tahap keahlian anda untuk meneruskan penggunaan perkhidmatan terjemahan."</string>
+</resources>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Subtitle real-time"</string>
+	<!---->
+	<string name="subtitles_settings_title">"Pengaturan subtitle"</string>
+	<!---->
+	<string name="subtitles_translation_title">"Terjemahan"</string>
+	<!---->
+	<string name="subtitles_bilingual_title">"Tampilan dwibahasa"</string>
+	<!---->
+	<string name="subtitles_font_size_title">"Ukuran font"</string>
+	<!---->
+	<string name="subtitles_Background_opacity_title">"Opasitas latar"</string>
+	<!---->
+	<string name="subtitles_appear_des">"Subtitles akan tampak seperti ini"</string>
+	<!---->
+	<string name="subtitles_fun_des">"Anda dapat mengaktifkan jendela mengambang melalui Bilah Sisi atau Pengaturan Cepat. Setelah diaktifkan, jendela mengambang akan menangkap audio sistem atau suara ambiens dan mengubahnya menjadi teks dalam waktu nyata, yang mendukung banyak bahasa dan terjemahan."</string>
+	<!---->
+	<string name="subtitles_fun_no_translation_des">"Mendukung konversi audio ke teks secara real-time. Anda dapat membuka jendela mengambang subtitle di pusat kendali atau bilah samping."</string>
+	<!---->
+	<string name="subtitles_source_language">"Bahasa sumber"</string>
+	<!---->
+	<string name="subtitles_target_language">"Bahasa target"</string>
+	<!---->
+	<string name="subtitles_source_language_default">"Inggris"</string>
+	<!---->
+	<string name="subtitles_target_language_default">"Inggris"</string>
+	<!---->
+	<string name="subtitles_cannot_split_des">"Aplikasi di bawah tidak mendukung layar belah"</string>
+	<!---->
+	<string name="subtitles_loading_failed">"Tidak dapat memuat. Coba lagi."</string>
+	<!---->
+	<string name="subtitles_preview_image_des">"Gambar pratinjau"</string>
+	<!---->
+	<string name="subtitles_notice_des">"Subtitle diaktifkan.\nKenali sistem atau suara mikrofon secara otomatis lalu buat subtitle."</string>
+	<!---->
+	<string name="subtitles_permissions_conflict_tip">"Terjadi konflik izin aplikasi. Matikan perekaman sebelum menggunakan subtitle."</string>
+	<!---->
+	<string name="font_size_small">"Kecil"</string>
+	<!---->
+	<string name="font_size_default">"Asali"</string>
+	<!---->
+	<string name="font_size_large">"Besar"</string>
+	<!---->
+	<string name="subtitles_translation_by">"Terjemahan oleh"</string>
+	<!---->
+	<string name="permissions_conflict_tip">"Konflik izin aplikasi. Subtitle telah dinonaktifkan."</string>
+	<!---->
+	<string name="permissions_denied_tip">"Izin ditolak. Anda dapat mengubahnya di Pengaturan > Aplikasi."</string>
+	<!---->
+	<string name="permissions_settings_tip">"Pengaturan"</string>
+	<!---->
+	<string name="recognising_system">"Mengenali suara sistem"</string>
+	<!---->
+	<string name="enable_to_record_ambient">"Aktifkan untuk merekam suara sekitar"</string>
+	<!---->
+	<string name="recognizing_system_ambient">"Mengenali suara sistem dan sekitar"</string>
+	<!---->
+	<string name="ok_button">"OK"</string>
+	<!---->
+	<string name="retry_button">"Coba lagi"</string>
+	<!---->
+	<string name="network_exception_switched_offline">"Pengecualian jaringan. Beralih ke terjemahan luring."</string>
+	<!---->
+	<string name="server_exception_switched_offline">"Pengecualian server. Beralih ke terjemahan luring."</string>
+	<!---->
+	<string name="server_input_error">"Maaf, kami tidak dapat memproses input saat ini. Coba input lain."</string>
+	<!---->
+	<string name="free_quota_exhausted">"Kuota gratis telah habis. Isi ulang langganan Anda untuk lanjut menggunakan layanan terjemahan."</string>
+	<!---->
+	<string name="reached_membership_limit">"Anda telah mencapai batas penggunaan level keanggotaan Anda saat ini. Tingkatkan level keanggotaan Anda untuk lanjut menggunakan layanan terjemahan."</string>
+	<!---->
+	<string name="top_up_membership">"Isi ulang keanggotaan Anda"</string>
+	<!---->
+	<string name="upgrade_membership">"Tingkatkan keanggotaan ANda"</string>
+	<!---->
+	<string name="turn_off_translation">"Nonaktifkan terjemahan"</string>
+	<!---->
+	<string name="login_failed_token_expired">"Login kedaluwarsa. Silakan login lagi."</string>
+	<!---->
+	<string name="nav_bar_settings">"Pengaturan"</string>
+	<!---->
+	<string name="nav_bar_record">"Mikrofon"</string>
+	<!---->
+	<string name="nav_bar_split_in">"Masuk ke layar terbagi"</string>
+	<!---->
+	<string name="nav_bar_split_out">"Keluar dari layar belah"</string>
+	<!---->
+	<string name="nav_bar_close">"Tutup"</string>
+	<!---->
+	<string name="nav_bar_back">"Kembali"</string>
+	<!---->
+	<string name="slider">"Slider"</string>
+	<!---->
+	<string name="switch_on">"Aktif"</string>
+	<!---->
+	<string name="switch_off">"Mati"</string>
+	<!---->
+	<string name="common_text_cancel">"Batal"</string>
+	<!---->
+	<string name="tcl_ai_is_disable">"Untuk menggunakan fungsi terkait AI, Anda perlu mengaktifkan aplikasi Al TCL. Anda dapat memilih Pengaturan > Aplikasi > Lihat semua aplikasi > Info Aplikasi AI TCL secara berurutan untuk mengaktifkannya."</string>
+	<!---->
+	<string name="tcl_ai_is_disable_android15">"Untuk menggunakan fungsi terkait AI, Anda perlu mengaktifkan aplikasi Al TCL. Anda dapat memilih Pengaturan > Aplikasi > Lihat semua aplikasi > Info Aplikasi AI TCL secara berurutan untuk mengaktifkannya."</string>
+	<!---->
+	<string name="drag_bar_description">"Atur ukuran jendela"</string>
+	<!---->
+	<string name="network_exception_tip">"Pengecualian jaringan. Periksa jaringan."</string>
+	<!---->
+	<string name="simplified_chinese">"Tiongkok Sederhana"</string>
+	<!---->
+	<string name="traditional_chinese">"Tiongkok Tradisional"</string>
+	<!---->
+	<string name="ai_net_req_opt_abort">"Aktivitas berlebihan terdeteksi. Login untuk melanjutkan"</string>
+	<!---->
+	<string name="ai_net_req_opt_not_allow">"Untuk memastikan keamanan akun, login untuk melanjutkan."</string>
+	<!---->
+	<string name="nav_bar_copy">"Salin"</string>
+	<!---->
+	<string name="nav_bar_copy_success">"Disalin"</string>
+	<!-- no translation found for exit_dialog_title -->
+	<skip />
+	<!-- no translation found for exit_dialog_title_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_save_success -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit_without_save -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_exit -->
+	<skip />
+	<!-- no translation found for exit_dialog_button_cancel -->
+	<skip />
+	<!---->
+	<string name="subtitles_touch_restore">"Sentuh untuk mengembalikan subtitle."</string>
+	<!---->
+	<string name="subtitles_function_quota_limit">"Kuota untuk fitur ini telah habis"</string>
+	<!---->
+	<string name="free_credit_exhausted">"Kuota gratis telah habis. Isi ulang langganan Anda untuk lanjut menggunakan layanan terjemahan."</string>
+	<!---->
+	<string name="membership_credit_exhausted">"Anda telah mencapai batas penggunaan level keanggotaan Anda saat ini. Tingkatkan level keanggotaan Anda untuk lanjut menggunakan layanan terjemahan."</string>
+</resources>
