@@ -2,8 +2,8 @@
 """
 Android strings.xml 异形字符检测脚本
 
-扫描 Android 工程中所有 module 的 res/values*/strings.xml 文件，
-检测异形字符、零宽字符、全角字符等异常内容，生成 Markdown 汇总报告。
+扫描 Android 工程中所有 module 的 res/values-zh-*/strings.xml 文件，
+检测异形字符、全角字符等异常内容，生成 Markdown 汇总报告。
 """
 
 import argparse
@@ -33,46 +33,37 @@ def get_unicode_block(cp):
 
 
 def detect_abnormal_chars(text):
-    """检测文本中的异常字符（排除标点、空格等正常字符）"""
+    """
+    使用 Unicode 归一化方式检测文本中的异常字符
+    
+    仅检测 CJK 相关异常字符：
+    - 康熙部首字符 (0x2F00-0x2FDF)
+    - CJK 兼容表意文字 (0xF900-0xFAFF)
+    - 全角字符 (0xFF00-0xFFEF)
+    """
     results = []
-
+    
     for idx, ch in enumerate(text):
         cp = ord(ch)
         name = unicodedata.name(ch, "<UNKNOWN>")
         category = unicodedata.category(ch)
         normalized = unicodedata.normalize("NFKC", ch)
         block = get_unicode_block(cp)
-
+        
         reasons = []
-
-        # 1. 康熙部首（异常）
+        
+        # 1. 康熙部首字符
         if 0x2F00 <= cp <= 0x2FDF:
             reasons.append("康熙部首字符")
-
-        # 2. CJK 兼容表意文字（异常）
-        if 0xF900 <= cp <= 0xFAFF:
-            reasons.append("CJK兼容表意文字")
-
-        # 3. 全角/半角区（排除全角空格 U+3000，它是 CJK 标点）
-        if 0xFF00 <= cp <= 0xFFEF:
-            reasons.append("全角/半角形式字符")
-
-        # 4. 私有区字符（异常）
-        if 0xE000 <= cp <= 0xF8FF:
-            reasons.append("私有区字符")
-
-        # 5. 零宽字符（异常，不可见）
-        if cp in (0x200B, 0x200C, 0x200D, 0xFEFF):
-            reasons.append("零宽/不可见字符")
-
-        # 6. 控制字符（排除零宽字符已处理的）
-        if category.startswith("C") and cp not in (0x200B, 0x200C, 0x200D, 0xFEFF):
-            reasons.append("控制类/格式类字符")
-
-        # 注意：不检测以下内容（这些是正常字符）：
-        # - NO-BREAK SPACE (U+00A0) - 正常排版字符
-        # - 正常语言字符的 NFKC 变化（如泰语字符）- 这是兼容性分解，不是异常
-
+        
+        # 2. CJK 兼容表意文字
+        elif 0xF900 <= cp <= 0xFAFF:
+            reasons.append(f"CJK兼容字归一化为 '{normalized}'")
+        
+        # 3. 全角字符
+        elif 0xFF00 <= cp <= 0xFFEF:
+            reasons.append(f"全角字符归一化为 '{normalized}'")
+        
         if reasons:
             results.append(
                 {
@@ -86,8 +77,86 @@ def detect_abnormal_chars(text):
                     "reasons": reasons,
                 }
             )
-
+    
     return results
+
+
+def detect_abnormal_chars_by_comparison(text):
+    """
+    使用字符串级别归一化对比检测异常字符
+    
+    仅检测 CJK 相关异常字符：
+    - 康熙部首字符 (0x2F00-0x2FDF)
+    - CJK 兼容表意文字 (0xF900-0xFAFF)
+    - 全角字符 (0xFF00-0xFFEF)
+    
+    返回：异常字符列表 + 归一化后的完整字符串
+    """
+    normalized_text = unicodedata.normalize("NFKC", text)
+
+    # 如果归一化后字符串相同，则没有兼容性异常
+    if text == normalized_text:
+        return detect_abnormal_chars(text), normalized_text
+    
+    # 字符串不同，需要找出差异位置
+    results = []
+    
+    # 逐字符检测归一化变化
+    for idx, ch in enumerate(text):
+        cp = ord(ch)
+        ch_normalized = unicodedata.normalize("NFKC", ch)
+        
+        # 检测归一化变化
+        if ch_normalized != ch:
+            name = unicodedata.name(ch, "<UNKNOWN>")
+            category = unicodedata.category(ch)
+            block = get_unicode_block(cp)
+            
+            reasons = []
+            
+            # 全角字符
+            if 0xFF00 <= cp <= 0xFFEF:
+                reasons.append(f"全角字符归一化为 '{ch_normalized}'")
+            # CJK 兼容表意文字
+            elif 0xF900 <= cp <= 0xFAFF:
+                reasons.append(f"CJK兼容字归一化为 '{ch_normalized}'")
+            
+            if reasons:
+                results.append({
+                    "index": idx,
+                    "char": ch,
+                    "codepoint": f"U+{cp:04X}",
+                    "name": name,
+                    "block": block,
+                    "category": category,
+                    "normalized": ch_normalized,
+                    "reasons": reasons,
+                })
+        
+        # 检测康熙部首（不发生归一化变化）
+        else:
+            name = unicodedata.name(ch, "<UNKNOWN>")
+            category = unicodedata.category(ch)
+            block = get_unicode_block(cp)
+            
+            reasons = []
+            
+            if 0x2F00 <= cp <= 0x2FDF:
+                reasons.append("康熙部首字符")
+            
+            if reasons:
+                results.append({
+                    "index": idx,
+                    "char": ch,
+                    "codepoint": f"U+{cp:04X}",
+                    "name": name,
+                    "block": block,
+                    "category": category,
+                    "normalized": ch_normalized,
+                    "reasons": reasons,
+                })
+    
+    return results, normalized_text
 
 
 def _escape_markdown_cell(value):
@@ -104,11 +173,12 @@ def _escape_markdown_cell(value):
 def find_strings_files(project_root):
     """查找所有 strings.xml 文件"""
     project_root = Path(project_root)
-    pattern = re.compile(r"values(-[a-z]{2,3}(-[A-Z]{2,4})?)?(/|\\)?strings\.xml$")
+    # 匹配 values-zh/strings.xml 或 values-zh-rXX/strings.xml
+    pattern = re.compile(r"values-zh(-r[A-Z]{2})?[/\\]strings\.xml$")
     
     strings_files = []
     for f in project_root.rglob("strings.xml"):
-        # 检查路径是否匹配 res/values*/strings.xml
+        # 检查路径是否匹配 res/values-zh-*/strings.xml
         if pattern.search(str(f)):
             strings_files.append(f)
     
@@ -152,6 +222,13 @@ def generate_report(results, project_root):
         f"- 扫描文件数：{total_files}",
         f"- 异常文件数：{files_with_issues}",
         f"- 异常字符总数：{total_issues}",
+        "",
+        "## 检测方法",
+        "",
+        "使用 Unicode NFKC 归一化对比检测 CJK 相关异常字符：",
+        "- 康熙部首字符 (Kangxi Radicals: 0x2F00-0x2FDF)",
+        "- CJK 兼容表意文字 (Compatibility Ideographs: 0xF900-0xFAFF)",
+        "- 全角字符 (Fullwidth Forms: 0xFF00-0xFFEF)",
         "",
     ]
     
